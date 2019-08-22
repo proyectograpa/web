@@ -1,0 +1,11 @@
+{% for seccion in secciones %}
+  Seccion: {{ seccion }}
+  {% for e in secciones[seccion] %}
+    Elemento: {{ e }}
+      tipo: {{ secciones[seccion][e][ 'tipo' ] }}
+      default: {{ secciones[seccion][e][ 'defacto' ] }}
+      descripción:{{ secciones[seccion][e][ 'descripcion' ] }}
+      ejemplo: {{  secciones[seccion][e][ 'ejemplo' ] }}
+  {% endfor %}
+{% endfor %}
+

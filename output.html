@@ -1,0 +1,317 @@
+
+  Seccion: props_pista
+  
+    Elemento: nombre
+      tipo: cadena de carcteres
+      default: empty
+      descripción:Titulo de la pista
+      ejemplo: nombre: 'Piano'
+
+  
+    Elemento: complementos
+      tipo: cadena de carcteres
+      default: < empty >
+      descripción:Ubicación de fichero con modulo de usuario.
+      ejemplo: complementos: 'enchufes.py'
+
+  
+    Elemento: forma
+      tipo: lista de cadenas de caracteres
+      default: TO DO
+      descripción:Macro estructura de la pista.
+Lista de unidades a ser sequenciadas.
+Corresponde a un elemento de la paleta.
+
+      ejemplo: forma: [
+  'intro',
+  'estrofa',
+  'estribo',
+  'coda',
+]
+
+  
+    Elemento: unidades
+      tipo: diccionario
+      default: TO DO
+      descripción:Paleta de estructuras para secuenciar. En dos tipos de unidades,
+las que defininen las estructuras minimas y las que invocan otras
+unidades ademas de sobrescribir o no alguno de sus parametros.
+
+      ejemplo: unidades:
+    base: &base 
+      clave:
+      alteraciones: -2
+      modo: 1
+      registracion:  [ 
+          -12,-10, -9, -7, -5, -3, -2,
+            0,  2,  3,  5,  7,  9, 10,
+           12, 14, 15, 17, 19, 21, 22,
+           24
+      ]
+      alturas:  [ 1, 3, 5, 8 ] 
+      voces: 
+        - [ 8, 6 ] 
+        - [ 5 ] 
+        - [ 3 ]
+      transportar: 60 # C
+      transponer: 0
+      duraciones: [ 1 ]
+      bpm: 62
+      metro: 4/4
+      desplazar: 0
+      reiterar: 0
+      dinamicas: [ 1, .5, .4 ]
+      canal: 3
+      programa: 103
+      controladores: [ 70:80, 70:90, 71:120 ]
+    a: &a 
+      <<: *base
+      metro: 2/4
+      alturas: [ 1, 3,0, 5, 7, 8 ]
+      duraciones: [ 1, .5, .5, 1, 1 ]
+    b: &b 
+      <<: *base
+      metro: 6/8
+      duraciones: [ .5 ]
+      alturas: [ 1, 2 ]
+      voces: 0
+      revertir: [ 'duraciones', 'dinamicas' ]
+      transponer: 3
+      clave: 
+        alteraciones: 2
+        modo: 1 
+      fluctuacion: 
+        min: .1
+        max: .4 
+      desplazar: -1
+    b^: 
+      <<: *b
+      dinamicas: [ .5, .1 ]
+      revertir: [ 'alturas' ]
+    # Unidad de unidades ( UoUs )
+    # Propiedades sobrescriben a las de las unidades referidas 
+    A: 
+      unidades: [ 'a', 'b' ] 
+      reiterar: 3
+    B: &B 
+      metro: 9/8
+      unidades: [ 'a' , 'b^' ]
+      desplazar: -0.75
+    B^: 
+      <<: *B
+      voces: 0 
+      bmp: 89
+      unidades: [ 'b', 'a' ] 
+      dinamicas: [ 1 ]
+    estrofa: 
+      unidades: [ 'A', 'B', 'B^' ]
+    coro: 
+      bpm: 100
+      unidades: [ 'B', 'B^', 'a' ]
+
+  
+
+  Seccion: props_articulaciones
+  
+    Elemento: alturas
+      tipo: lista de números enteros
+      default: [1]
+      descripción:Punteros del set de registracion.
+Cada elemento equivale a el numero de intervalo.
+
+      ejemplo: alturas: [ 1, 3, 5, 8 ] 
+
+  
+    Elemento: voces
+      tipo: lista de números enteros
+      default: TO DO
+      descripción:Superposicion de altura
+Apilamiento de alturas.
+Lista de listas, cada voz es un lista que modifica intervalo.
+voz + altura = numero de intervalo.
+
+      ejemplo: voces:
+   - [ 8, 6 ] 
+   - [ 5 ] 
+   - [ 3 ]
+
+  
+    Elemento: duraciones
+      tipo: lista de números decimales
+      default: [ 1 ]
+      descripción:Duracion
+Lista ordenada de duraciones.
+
+      ejemplo: duraciones: [ 1, .5, .5, 1, 1 ]
+
+  
+    Elemento: BPMs
+      tipo: número entero
+      default: 60
+      descripción:Pulso 
+Tempo, Pulsos Por Minuto.
+
+      ejemplo: bpm: 62
+
+  
+    Elemento: dinamicas
+      tipo: lista de números decimales
+      default: [ 1 ]
+      descripción:Dinámica
+Lista ordenada de dinámicas.
+
+      ejemplo: dinamicas: [ 1, .5, .4 ]
+
+  
+    Elemento: programas
+      tipo: número entero
+      default: 1
+      descripción:Instrumento MIDI 
+Número de Instrumento MIDI en el banco actual.\newline
+
+      ejemplo: programa: 103
+
+  
+    Elemento: controles
+      tipo: lista de listas de pares
+      default: None
+      descripción:Cambios de control
+Secuencia de pares número controlador y valor a asignar.
+
+      ejemplo: controles:
+  - [ 70 : 80,  71 : 90, 72 : 100 ]
+  - [ 33 : 121, 51 : 120 ]
+  - [ 10 : 80,  11 : 90, 12 : 100, 13 : 100 ]
+
+  
+
+  Seccion: props_unidad
+  
+    Elemento: forma
+      tipo: lista
+      default: None
+      descripción:Estructura de la Unidad
+      ejemplo: forma: ['A', 'B']
+
+  
+    Elemento: clave
+      tipo: diccionario
+      default: alteraciones:0, modo: 0
+      descripción:Armadura de clave
+Catidad de alteraciones en la armadura de clave y modo de la escala.
+Los numeros positivos representan sotenidos mientras que los se
+refiere a bemoles con números negativos.  -2 = Bb, -1 = F, 0 = C, 1 =
+G, 2 = D, modo: 0 (mayor) 
+Modo de la escala, 0 = Mayor o 1 = Menor
+(referir midi util doc, key signature)
+
+      ejemplo: clave:
+  alteraciones: -2
+  modo: 1 
+
+  
+    Elemento: registracion
+      tipo: lista de enteros
+      default: [ 1 ]
+      descripción:Registración fija.
+Secuencia de intervalos a ser recorrida por el punteros de altura.
+
+      ejemplo: registracion: [ 
+  -12,-10, -9, -7, -5, -3, -2,
+    0,  2,  3,  5,  7,  9, 10,
+   12, 14, 15, 17, 19, 21, 22,
+   24
+]
+
+  
+    Elemento: transportar
+      tipo: número entero
+      default: 0
+      descripción:Transportar
+Ajuste de alturas.
+Semitonos
+
+      ejemplo: transportar: 60 # C
+
+  
+    Elemento: transponer
+      tipo: 
+      default: 0
+      descripción:Transponer puntero de registracion
+Ajuste de alturas pero dentro del set registracion.
+
+      ejemplo: transponer: 1
+
+  
+    Elemento: metro
+      tipo: cadena de caracteres
+      default: 4/4
+      descripción:Clave de compás
+Clave de metrica.
+representando una fracción (numerador / denominador).
+
+      ejemplo: metro: 4/4
+
+  
+    Elemento: desplazar
+      tipo: número decimal
+      default: 0
+      descripción:Ajuste temporal Desfazage temporal del momento en el que
+originalmente comienza la unidad.  offset : + / - offset con la
+"posicion" original 0 es que donde debe acontecer originalmente "-2"
+anticipar 2 pulsos o ".5" demorar medio pulso
+
+      ejemplo: desplazar: -2
+
+  
+    Elemento: reiterar
+      tipo: número entero
+      default: 1
+      descripción:Repeticiones Catidad de veces q se toca esta unidad.  Reiterarse a si
+misma, no es trasferible, no se hereda, caso contrario se reterarian
+los referidos.
+
+      ejemplo: reiterar: 3
+
+  
+    Elemento: dinamicas
+      tipo: lista de números decimales
+      default: [ 1 ]
+      descripción:Dinámica
+Lista ordenada de dinámicas.
+
+      ejemplo: dinamicas: [ 1, .5, .4 ]
+
+  
+    Elemento: fluctuacion
+      tipo: dicionario
+      default: min:1, max:1
+      descripción:Fluctuación
+fluctuciones dinámicas.
+
+      ejemplo: fluctuacion:
+  min: .3
+  max: .7
+
+  
+    Elemento: revertir
+      tipo: lista de cadenas de caracteres
+      default: [none]
+      descripción:Sentido de las listas 
+Revierte parametros del tipo lista.
+Deben corresponderse a la etiqueta de otro parametro del tipo lista.
+
+      ejemplo: revertir: [ 'duraciones', 'dinamicas' ]
+
+  
+    Elemento: canal
+      tipo: número entero
+      default: 1
+      descripción:Canal MIDI 
+Número de Canal MIDI.
+
+      ejemplo: canal: 3
+    
+
+  
+

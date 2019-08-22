@@ -1,0 +1,11 @@
+
+{% for e in elementos %}
+
+    {{ e }}
+    tipo: {{ elementos[ e ][ 'tipo' ] }}
+    default: {{ elementos[ e ][ 'defacto' ] }}
+    descripción:{{ elementos[ e ][ 'descripcion' ] }}
+    ejemplo: {{ elementos[ e ][ 'ejemplo' ] }}
+
+{% endfor %}
+

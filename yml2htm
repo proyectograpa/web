@@ -1,0 +1,43 @@
+#!/usr/bin/env python
+
+import yaml
+import jinja2
+
+jinja_env = jinja2.Environment(
+  loader = jinja2.FileSystemLoader( searchpath = "./" )
+  # LaTex Separador
+
+  # block_start_string = '\BLOCK{',
+  # block_end_string = '}',
+  # variable_start_string = '\VAR{',
+  # variable_end_string = '}',
+  # comment_start_string = '\#{',
+  # comment_end_string = '}',
+  # line_statement_prefix = '%%',
+  # line_comment_prefix = '%#',
+  # trim_blocks = True,
+  # autoescape = False,
+
+)
+template = jinja_env.get_template( 'plantilla' )
+
+secciones = [ 
+  'props_pista',
+  'props_articulaciones',
+  'props_unidad',
+]
+
+web = {}
+for seccion in secciones:
+  elementos = yaml.load(
+    open( seccion + '.yml', 'r' ),
+    Loader = yaml.FullLoader
+  )
+  web[ seccion ] = elementos
+  #with open( seccion + '.html', "w" ) as tex:
+  #  tex.write( template.render( elementos = elementos ) )
+
+with open( 'output.html', "w" ) as tex:
+  tex.write( template.render( secciones = web ) )
+
+

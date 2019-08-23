@@ -5,8 +5,8 @@ import jinja2
 
 jinja_env = jinja2.Environment(
   loader = jinja2.FileSystemLoader( searchpath = "./" )
-  # LaTex Separador
 
+  # Separadores LaTex
   # block_start_string = '\BLOCK{',
   # block_end_string = '}',
   # variable_start_string = '\VAR{',
@@ -19,18 +19,17 @@ jinja_env = jinja2.Environment(
   # autoescape = False,
 
 )
-template = jinja_env.get_template( 'plantilla' )
+#template = jinja_env.get_template( 'plantilla' )
+template = jinja_env.get_template( 'child.html' )
 
 secciones = [ 
-  'props_pista',
-  'props_articulaciones',
-  'props_unidad',
+  'grapa',
 ]
 
 web = {}
 for seccion in secciones:
   elementos = yaml.load(
-    open( seccion + '.yml', 'r' ),
+    open( 'secciones/' + seccion + '.yml', 'r' ),
     Loader = yaml.FullLoader
   )
   web[ seccion ] = elementos

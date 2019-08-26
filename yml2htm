@@ -19,25 +19,26 @@ jinja_env = jinja2.Environment(
   # autoescape = False,
 
 )
-#template = jinja_env.get_template( 'plantilla' )
-#template = jinja_env.get_template( 'child.html' )
 template = jinja_env.get_template( 'base.html' )
 
-secciones = [ 
-  'grapa',
-]
+#secciones = [ 
+#  'grapa',
+#]
+#for seccion in secciones:
+#  elementos = yaml.load(
+#    open( 'secciones/' + seccion + '.yml', 'r' ),
+#    Loader = yaml.FullLoader
+#  )
+#  web[ seccion ] = elementos
+#  #with open( seccion + '.html', "w" ) as tex:
+#  #  tex.write( template.render( elementos = elementos ) )
 
-web = {}
-for seccion in secciones:
-  elementos = yaml.load(
-    open( 'secciones/' + seccion + '.yml', 'r' ),
-    Loader = yaml.FullLoader
-  )
-  web[ seccion ] = elementos
-  #with open( seccion + '.html', "w" ) as tex:
-  #  tex.write( template.render( elementos = elementos ) )
+contenido = yaml.load(
+  open( 'contenido.yml', 'r' ),
+  Loader = yaml.FullLoader
+)
 
 with open( 'output.html', "w" ) as tex:
-  tex.write( template.render( secciones = web ) )
+  tex.write( template.render( contenido = contenido ) )
 
 

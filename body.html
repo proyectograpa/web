@@ -1,19 +1,8 @@
 <body>
   <div id="content">
-    {% for seccion in secciones %}
-    Seccion: {{ seccion }}
-      {% for e in secciones[ seccion ] %}
-      Elemento: {{ e }}
-        {% for i in secciones[ seccion ][ e ] %}
-        {{ i }}: {{  secciones[ seccion ][ e ][ i ] }}
-        {% endfor %}
-      {% endfor %}
-    {% endfor %}
-    {% block content %}{% endblock %}
-  </div>
-  <div id="footer">
-    {% block footer %}
-    &copy; Copyright 2008 by <a href="http://domain.invalid/">you</a>.
-    {% endblock %}
+    {% set secciones = contenido[ 'secciones'] %}
+    {% include 'header.html' %}
+    {% include 'article.html' %}
+    {% include 'footer.html' %}
   </div>
 </body>

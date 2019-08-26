@@ -1,0 +1,15 @@
+{% block content %}
+<article id="articulo">
+  {% for seccion in secciones %}
+  <section id="{{ seccion['titulo'] }}">
+    <h2> Sección: {{ seccion['titulo'] }}</h2>
+    {% for e in seccion[ elementos ] %}
+    Elemento: {{ e }}
+      {% for i in  seccion[ elementos ][ e ] %}
+      {{ i }}: {{  seccion[ elementos ][ e ][ i ] }}
+      {% endfor %}
+    {% endfor %}
+  </section>
+  {% endfor %}
+</article>
+{% endblock %}

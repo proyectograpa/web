@@ -20,7 +20,8 @@ jinja_env = jinja2.Environment(
 
 )
 #template = jinja_env.get_template( 'plantilla' )
-template = jinja_env.get_template( 'child.html' )
+#template = jinja_env.get_template( 'child.html' )
+template = jinja_env.get_template( 'base.html' )
 
 secciones = [ 
   'grapa',

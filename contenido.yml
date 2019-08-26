@@ -22,6 +22,7 @@ imagen:
 
 secciones:
   - titulo: 'Pruebas - Áreas'
+    subtitulo: 'Áreas'
     contenido: |
       Imágenes repres   
       Los Lugares y La Música   
@@ -34,6 +35,9 @@ secciones:
       Región Cuyo & Patagónica | La Música Tehuelche
         No hay mucho, pone una foto
         Video / Docu
+    subsecciones:
+      - titulo: 'Región Noroeste | El Canto de la Copla'
+      - titulo: 'Región Cuyo & Patagónica | La Música Tehuelche'
   
   - titulo: 'Publicaciones'
     contenido: |

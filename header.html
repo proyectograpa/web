@@ -1,9 +1,13 @@
 <header> 
   <nav>
     <ul>
-      <li>Menu item</li>
-      <li>Menu item</li>
-      <li>Menu item</li>
+    {% for seccion in secciones %}
+      <li>
+         <a href="#{{ seccion['titulo'] | slug }}">
+          {{ seccion['titulo'] }}
+         </a>
+      </li>
+     {% endfor %}
     </ul>
   </nav>
 </header>

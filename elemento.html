@@ -1,6 +1,39 @@
-<h2>{{ elemento['titulo'] }}</h2>
+<div class="elemento nivel-{{nivel}}"
+  {% if elemento['titulo']  %}
+    id="{{ elemento['titulo'] | slug }}"
+  {% endif %}
+> 
+
+{% if elemento['titulo']  %}
+  <h{{nivel}}>{{ elemento['titulo'] }}</h{{nivel}}>
+{% endif %}
+
+{% if elemento['subtitulo']  %}
+  <sub>{{ elemento[ 'subtitulo' ] }}</sub>
+{% endif %}
+
+{% if elemento['imagenes']  %}
+{% set imagenes = elemento[ 'imagenes '] %}
+{{ elemento[ 'imagenes' ] }}
+{% for imagen in imagenes %}
+  {% include 'imagen.html' %}
+{% endfor %}
+{% endif %}
+
+{% if elemento['contenido']  %}
+  <p>{{ elemento[ 'contenido' ] }}</p>
+{% endif %}
+
+{% if elemento['separador']  %}
+  <div>
+    <span>{{ elemento[ 'separador' ] }}</span>
+    </hr>
+  </div>
+{% endif %}
+
+{% set nivel = nivel + 1 %}
 {% set elementos = elemento[ 'elementos'] %}
 {% for elemento in elementos %}
   {% include 'elemento.html' %}
 {% endfor %}
-
+</div>

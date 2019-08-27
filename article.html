@@ -1,16 +1,6 @@
 <article id="articulo">
-  {% for e in secciones %}
-    <section id="{{ s['titulo'] | slug }}">
-      <h2>{{ s['titulo'] }}</h2>
-
-      {% if s['subtitulo'] %}
-         <h3>{{ s['subtitulo'] }}</h3>
-      {% endif %}
-
-      <p>{{ s['contenido'] }}</p>
-      {% for ss in s[ 'subsecciones' ] %}
-        {{ ss[ 'titulo' ] }}
-      {% endfor %}
-    </section>
+  {% for elemento in elementos %}
+    {% set nivel = 2 %}
+    {% include 'elemento.html' %}
   {% endfor %}
 </article>

@@ -21,9 +21,9 @@ elementos:
   - titulo: 'Pruebas - Áreas'
     subtitulo: 'Áreas'
     imagenes:
-      - 'https://picsum.photos/1024/768'
-      - 'https://picsum.photos/1024/768'
-      - 'https://picsum.photos/1024/768'
+      - url: 'https://picsum.photos/1024/768'
+      - url: 'https://picsum.photos/1024/768'
+      - url: 'https://picsum.photos/1024/768'
     separador: 'Los Lugares y La Música'
     elementos:
       - titulo: 'Región Noroeste'
@@ -32,30 +32,33 @@ elementos:
           - titulo: 'El Anfiteatro'
           - titulo: 'La Copla'
           - titulo: 'Video: Docu'
-          - imagenes:
-              - 'Foto de Afiche'
+            imagenes:
+             - alt: 'foto_afiche'
+             - url: 'https://picsum.photos/1024/768'
+             - url: 'https://picsum.photos/1024/768'
       - titulo: 'Región Cuyo & Patagónica'
         subtitulo: 'La Música Tehuelche'
         imagenes:
-          - 'No hay mucho, pone una foto'
+          - alt: 'No hay mucho, pone una foto'
+          - url: 'https://picsum.photos/1024/768'
         elementos:
           - titulo: 'Video / Docu'
   
   - titulo: 'Publicaciones'
-    contenido: |
+    texto: |
       Ver Referencias
   
   - titulo: 'Impacto Social'
-    contenido: |
-      Conference & Talks -  Ver "Referencias"
+    texto: |
+      Conference & Talks -  Ver Referencias
   
   - titulo: 'Sobre nosotros'
-    contenido: |
+    texto: |
       Apoyos Institucionales
         Logos y links
   
   - titulo: 'Contacto'
-    contenido: |
+    texto: 
       Redes Sociales
       Teléfono
       Mail

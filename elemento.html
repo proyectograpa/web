@@ -1,0 +1,6 @@
+<h2>{{ elemento['titulo'] }}</h2>
+{% set elementos = elemento[ 'elementos'] %}
+{% for elemento in elementos %}
+  {% include 'elemento.html' %}
+{% endfor %}
+

@@ -4,6 +4,7 @@ import yaml
 import jinja2
 from slugify import slugify 
 from html5print import HTMLBeautifier
+import datetime
 
 jinja_env = jinja2.Environment(
   autoescape = True,
@@ -28,6 +29,7 @@ def slug(value):
 jinja_env.filters['slug'] = slug
 
 template = jinja_env.get_template( 'base.html' )
+template.globals['now'] = datetime.datetime.utcnow
 
 contenido = yaml.load(
   open( 'contenido.yml', 'r' ),

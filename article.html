@@ -1,4 +1,17 @@
 <article id="articulo">
+  <header> 
+    <h1>{{ contenido['subtitulo'] }}</h1>
+    <div class = "texto" >
+      {{ contenido['texto'] }}
+    </div>
+    {% if contenido['imagenes']  %}
+      <div class = "imagenes" >
+        {% for imagen in contenido['imagenes'] %}
+          {% include 'imagen.html' %}
+        {% endfor %}
+      </div>
+    {% endif %}
+  <header> 
   {% for elemento in elementos %}
     <section id="articulo">
     {% set nivel = 2 %}

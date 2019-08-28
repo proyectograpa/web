@@ -12,25 +12,29 @@
   <sub>{{ elemento[ 'subtitulo' ] }}</sub>
 {% endif %}
 
-{% if elemento['imagenes']  %}
-  {% for imagen in elemento['imagenes'] %}
-    {% include 'imagen.html' %}
-  {% endfor %}
+{% if elemento[ 'texto' ]  %}
+  <div class = "texto" >
+    {{ elemento[ 'texto' ] }}
+  </div>
 {% endif %}
 
-{% if elemento['contenido']  %}
-  <p>{{ elemento[ 'contenido' ] }}</p>
+{% if elemento['imagenes']  %}
+  <div class = "imagenes" >
+    {% for imagen in elemento['imagenes'] %}
+      {% include 'imagen.html' %}
+    {% endfor %}
+  </div>
 {% endif %}
 
 {% if elemento['separador']  %}
-  <div>
-    <span>{{ elemento[ 'separador' ] }}</span>
-    </hr>
+  <div class="separador" >
+    <h{{nivel - 1}}>{{ elemento[ 'separador' ] }}</h{{nivel - 1}}>
+    <hr>
   </div>
 {% endif %}
 
 {% set nivel = nivel + 1 %}
-  {% for elemento in elemento[ 'elementos']%}
-    {% include 'elemento.html' %}
-  {% endfor %}
+{% for elemento in elemento[ 'elementos']%}
+  {% include 'elemento.html' %}
+{% endfor %}
 </div>

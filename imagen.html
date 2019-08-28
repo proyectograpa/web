@@ -1,13 +1,9 @@
-<img class="imagen nivel-{{nivel}}"
-  {% if imagen['url']  %}
-    url="{{ imagen['alt'] }}"
-  {% endif %}
-  {% if imagen['titulo']  %}
-    id="{{ imagen['titulo'] | slug }}"
-    title="{{ imagen['title'] }}"
-  {% endif %}
-  {% if imagen['alt']  %}
-    alt="{{ imagen['alt'] }}"
-  {% endif %}
-/> 
+{#
+<img class="imagen nivel-{{nivel}}" src="{{ imagen['url'] }}" id="{{ imagen['titulo'] | slug }}" title="{{ imagen['titulo'] }}" alt="{{ imagen['alt'] }}"/> 
+#}
+
+{% if imagen %}
+<img class="imagen nivel-{{nivel}}" {% if imagen['url']  %} src="{{ imagen['url'] }}" {% endif %} {% if imagen['titulo']  %} id="{{ imagen['titulo'] | slug }}" title="{{ imagen['titulo'] }}" {% endif %} {% if imagen['alt']  %} alt="{{ imagen['alt'] }}" {% endif %} > 
+{% endif %}
+
 

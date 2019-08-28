@@ -1,6 +1,8 @@
 <article id="articulo">
   {% for elemento in elementos %}
+    <section id="articulo">
     {% set nivel = 2 %}
     {% include 'elemento.html' %}
+   </section>
   {% endfor %}
 </article>

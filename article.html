@@ -2,7 +2,7 @@
   <header> 
     <h1>{{ contenido['subtitulo'] }}</h1>
     <div class = "texto" >
-      {{ contenido['texto'] }}
+      {{ contenido['texto'] | parrafos  }}
     </div>
     {% if contenido['imagenes']  %}
       <div class = "imagenes" >

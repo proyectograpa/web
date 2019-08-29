@@ -4,7 +4,7 @@ tags: 'acustica, investigación, relevamiento, patrimonio'
 correo: 'proyectograpa@gmail.com'
 titulo: 'Proyecto G.R.A.Pa'
 subtitulo: 'Grupo de Relevamiento Acústico del Patrimonio'
-texto: |
+texto: >
   Este es un proyecto de relevamiento, registro y promoción del Patrimonio
   Acústico en relación a las prácticas culturales de distintas regiones de
   nuestro país. A través de diversas tecnologías, este proyecto los acerca a la
@@ -23,16 +23,16 @@ abstract: >
   comunidad en general."
 
 imagenes:
-  - url: 'https://picsum.photos/1024/768?'
-  - url: 'https://picsum.photos/1024/384?blur=2'
-  - url: 'https://picsum.photos/1024/1024?grayscale'
+  - url: 'https://picsum.photos/512/768?'
+  - url: 'https://picsum.photos/512/384?blur=2'
+  - url: 'https://picsum.photos/512/512?grayscale'
 elementos:
   - titulo: 'Pruebas - Áreas'
     subtitulo: 'Áreas'
     imagenes:
-      - url: 'https://picsum.photos/1024/384'
-      - url: 'https://picsum.photos/1024/1024'
-      - url: 'https://picsum.photos/1024/768'
+      - url: 'https://picsum.photos/512/384'
+      - url: 'https://picsum.photos/512/512'
+      - url: 'https://picsum.photos/512/768'
     separador: 'Los Lugares y La Música'
     elementos:
       - titulo: 'Región Noroeste'
@@ -43,15 +43,15 @@ elementos:
           - titulo: 'Video: Docu'
             imagenes:
              - alt: 'foto_afiche'
-               url: 'https://picsum.photos/1024/1024'
-             - url: 'https://picsum.photos/1024/768'
-             - url: 'https://picsum.photos/1024/384'
+               url: 'https://picsum.photos/512/512'
+             - url: 'https://picsum.photos/512/768'
+             - url: 'https://picsum.photos/512/384'
       - titulo: 'Región Cuyo & Patagónica'
         subtitulo: 'La Música Tehuelche'
         imagenes:
           - alt: 'No hay mucho, pone una foto'
-            url: 'https://picsum.photos/1024/768'
-          - url: 'https://picsum.photos/1024/364'
+            url: 'https://picsum.photos/512/768'
+          - url: 'https://picsum.photos/512/364'
         elementos:
           - titulo: 'Video / Docu'
   
@@ -59,13 +59,18 @@ elementos:
     texto: 'Ver Referencias'
   
   - titulo: 'Impacto Social'
-    texto: |
+    texto: > 
+      Nullam sagittis dignissim nisi, sed pharetra enim ultrices vel. Donec pretium
+      fringilla nunc eget auctor. Ut sit amet lacus a ipsum rutrum pharetra. Donec
+      hendrerit a diam sed vestibulum. Etiam consectetur, est ac rutrum hendrerit,
+      mauris ligula rhoncus magna, interdum pulvinar augue nulla id diam. Sed massa
+      ipsum, gravida vitae mi sed, pulvinar dictum ipsum. Nunc iaculis semper lectus.
     elementos:
      - titulo: 'Conference & Talks'
        texto: 'Ver Referencias'
   
   - titulo: 'Sobre nosotros'
-    texto: |
+    texto: >
       Nullam sagittis dignissim nisi, sed pharetra enim ultrices vel. Donec pretium
       fringilla nunc eget auctor. Ut sit amet lacus a ipsum rutrum pharetra. Donec
       hendrerit a diam sed vestibulum. Etiam consectetur, est ac rutrum hendrerit,
@@ -76,10 +81,12 @@ elementos:
         texto: 'Logos y links'
   
   - titulo: 'Contacto'
-    texto: |
+    texto: >
+      Esto va al footer
       Maecenas justo tortor, feugiat eget nunc eu, bibendum condimentum metus. In
       sodales, ligula vel volutpat pretium, diam dui lobortis risus, sed fermentum
       diam erat sed est. Aliquam tincidunt enim quam, a bibendum lorem cursus a.
+
       Aenean mollis mollis sollicitudin. Mauris ac enim suscipit, dapibus lectus
       eget, lacinia ipsum. Donec porttitor dui vel risus placerat, vitae euismod
       neque viverra. Mauris massa diam, commodo id arcu in, placerat condimentum

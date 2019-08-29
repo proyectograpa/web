@@ -1,21 +1,31 @@
 <article id="articulo">
-  <header> 
-    <h1>{{ contenido['subtitulo'] }}</h1>
-    <div class = "texto" >
+  <header class="jumbotron"> 
+    <h1 class="display-3">{{ contenido['subtitulo'] }}</h1>
+    <hr class="my-4">
+    <p class="lead" >{{ contenido['abstract'] }}</p>
+  </header> 
+
+  <div class="row">
+
+    <div class="lead texto col-md-6" >
       {{ contenido['texto'] | parrafos | safe }}
     </div>
+    <div class = "imagenes col-md-6" >
     {% if contenido['imagenes']  %}
-      <div class = "imagenes" >
         {% for imagen in contenido['imagenes'] %}
           {% include 'imagen.html' %}
         {% endfor %}
-      </div>
     {% endif %}
-  <header> 
+    </div>
+
+  </div>
+
+
   {% for elemento in elementos %}
+    {% set nivel = 1 %}
     <section id="articulo">
-    {% set nivel = 2 %}
-    {% include 'elemento.html' %}
+      {% include 'elemento.html' %}
    </section>
   {% endfor %}
+
 </article>

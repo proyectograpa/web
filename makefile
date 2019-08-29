@@ -1,3 +1,3 @@
 clean:
-	rm *.html
+	rm build/*.html
 

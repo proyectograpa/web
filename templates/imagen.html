@@ -1,9 +1,5 @@
-{#
-<img class="imagen nivel-{{nivel}}" src="{{ imagen['url'] }}" id="{{ imagen['titulo'] | slug }}" title="{{ imagen['titulo'] }}" alt="{{ imagen['alt'] }}"/> 
-#}
-
 {% if imagen %}
-<img class="imagen" {% if imagen['url']  %} src="{{ imagen['url'] }}" {% endif %} {% if imagen['titulo']  %} id="{{ imagen['titulo'] | slug }}" title="{{ imagen['titulo'] }}" {% endif %} {% if imagen['alt']  %} alt="{{ imagen['alt'] }}" {% endif %} > 
+  <img class="imagen img-fluid rounded my-1" {% if imagen['url']  %} src="{{ imagen['url'] }}" {% endif %} {% if imagen['titulo']  %} id="{{ imagen['titulo'] | slug }}" title="{{ imagen['titulo'] }}" {% endif %} {% if imagen['alt']  %} alt="{{ imagen['alt'] }}" {% endif %} > 
 {% endif %}
 
 

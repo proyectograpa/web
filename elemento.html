@@ -14,7 +14,7 @@
 
 {% if elemento[ 'texto' ]  %}
   <div class = "texto" >
-    {{ elemento[ 'texto' ] | parrafos }}
+    {{ elemento[ 'texto' ] | parrafos | safe }}
   </div>
 {% endif %}
 

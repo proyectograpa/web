@@ -5,6 +5,7 @@ import jinja2
 from slugify import slugify 
 from html5print import HTMLBeautifier
 import datetime
+import markdown
 
 jinja_env = jinja2.Environment(
   autoescape = True,
@@ -14,6 +15,10 @@ jinja_env = jinja2.Environment(
 def slug(value):
     return slugify( value )
 jinja_env.filters['slug'] = slug
+
+def md(value):
+    return markdown.markdown(value)
+jinja_env.filters['md'] = md
 
 def parrafos(value):
     """ Remover ultimo salto de linea """
@@ -39,4 +44,5 @@ feo =  template.render( contenido = contenido )
 lindo = HTMLBeautifier.beautify( feo, 2)
 with open( 'build/index.html', "w" ) as tex:
   tex.write( lindo )
+
 

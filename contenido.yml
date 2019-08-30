@@ -35,57 +35,71 @@ elementos:
       - url: 'https://picsum.photos/1024/384?random=2'
       - url: 'https://picsum.photos/1024/512?random=2'
       - url: 'https://picsum.photos/1024/768?random=2'
-    separador: 'Los Lugares y La Música'
+
     elementos:
-      - titulo: 'El Canto de la Copla'
-        subtitulo : 'Región Noroeste'
+      - titulo: 'Los Lugares y La Música'
+        texto: >
+          Los espacios donde realizar estos registros, más allá de tenerlos
+          en cuenta por sus características acústicas y el paisaje sonoro que
+          los integran, en la mayoría de los casos únicas, están determinados
+          por varios factores: el significante de uso que tiene y tuvo para
+          la sociedad, su atractivo turístico y cultural y su accesibilidad.
+              
+          A partir de un exhaustiva investigación, se decidió explorar
+          siete espacios, agrupados en tres regiones de la República
+          Argentina, relacionando cada región con el canto, la música y las
+          expresiones culturales que la integran.
+
         elementos:
-          - titulo: 'El Anfiteatro'
-            texto: > 
-              Nullam sagittis dignissim nisi, sed pharetra enim ultrices vel. Donec pretium
-              fringilla nunc eget auctor. Ut sit amet lacus a ipsum rutrum pharetra. Donec
-              hendrerit a diam sed vestibulum. Etiam consectetur, est ac rutrum hendrerit,
-              mauris ligula rhoncus magna, interdum pulvinar augue nulla id diam. Sed massa
-              ipsum, gravida vitae mi sed, pulvinar dictum ipsum. Nunc iaculis semper lectus.
-            imagenes:
-             - url: 'https://picsum.photos/1024/384?random=3'
-          - titulo: 'La Copla'
-            texto: > 
-              Nullam sagittis dignissim nisi, sed pharetra enim ultrices vel. Donec pretium
-              fringilla nunc eget auctor. Ut sit amet lacus a ipsum rutrum pharetra. Donec
-              hendrerit a diam sed vestibulum. Etiam consectetur, est ac rutrum hendrerit,
-              mauris ligula rhoncus magna, interdum pulvinar augue nulla id diam. Sed massa
-              ipsum, gravida vitae mi sed, pulvinar dictum ipsum. Nunc iaculis semper lectus.
-            imagenes:
-             - alt: 'foto_afiche'
-               url: 'https://picsum.photos/1024/512?random=3'
-          - titulo: 'Video: Docu'
-            texto: > 
-              Nullam sagittis dignissim nisi, sed pharetra enim ultrices vel. Donec pretium
-              fringilla nunc eget auctor. Ut sit amet lacus a ipsum rutrum pharetra. Donec
-              hendrerit a diam sed vestibulum. Etiam consectetur, est ac rutrum hendrerit,
-              mauris ligula rhoncus magna, interdum pulvinar augue nulla id diam. Sed massa
-              ipsum, gravida vitae mi sed, pulvinar dictum ipsum. Nunc iaculis semper lectus.
-            imagenes:
-             - alt: 'foto_afiche'
-               url: 'https://picsum.photos/1024/768?random=3'
-      - subtitulo: 'Región Cuyo & Patagónica'
-        titulo: 'La Música Tehuelche'
-        imagenes:
-          - alt: 'No hay mucho, pone una foto'
-            url: 'https://picsum.photos/1024/768?random=4'
-          - url: 'https://picsum.photos/1024/364?random=4'
-        elementos:
-          - titulo: 'Video / Docu'
+          - titulo: 'El Canto de la Copla'
+            subtitulo : 'Región Noroeste'
+            elementos:
+              - titulo: 'El Anfiteatro'
+                texto: > 
+                  Nullam sagittis dignissim nisi, sed pharetra enim ultrices vel. Donec pretium
+                  fringilla nunc eget auctor. Ut sit amet lacus a ipsum rutrum pharetra. Donec
+                  hendrerit a diam sed vestibulum. Etiam consectetur, est ac rutrum hendrerit,
+                  mauris ligula rhoncus magna, interdum pulvinar augue nulla id diam. Sed massa
+                  ipsum, gravida vitae mi sed, pulvinar dictum ipsum. Nunc iaculis semper lectus.
+                imagenes:
+                 - url: 'https://picsum.photos/1024/384?random=3'
+              - titulo: 'La Copla'
+                texto: > 
+                  Nullam sagittis dignissim nisi, sed pharetra enim ultrices vel. Donec pretium
+                  fringilla nunc eget auctor. Ut sit amet lacus a ipsum rutrum pharetra. Donec
+                  hendrerit a diam sed vestibulum. Etiam consectetur, est ac rutrum hendrerit,
+                  mauris ligula rhoncus magna, interdum pulvinar augue nulla id diam. Sed massa
+                  ipsum, gravida vitae mi sed, pulvinar dictum ipsum. Nunc iaculis semper lectus.
+                imagenes:
+                 - alt: 'foto_afiche'
+                   url: 'https://picsum.photos/1024/512?random=3'
+              - titulo: 'Video: Docu'
+                texto: > 
+                  Nullam sagittis dignissim nisi, sed pharetra enim ultrices vel. Donec pretium
+                  fringilla nunc eget auctor. Ut sit amet lacus a ipsum rutrum pharetra. Donec
+                  hendrerit a diam sed vestibulum. Etiam consectetur, est ac rutrum hendrerit,
+                  mauris ligula rhoncus magna, interdum pulvinar augue nulla id diam. Sed massa
+                  ipsum, gravida vitae mi sed, pulvinar dictum ipsum. Nunc iaculis semper lectus.
+                imagenes:
+                 - alt: 'foto_afiche'
+                   url: 'https://picsum.photos/1024/768?random=3'
+          - titulo: 'La Música Tehuelche'
+            subtitulo: 'Región Cuyo | Patagónica'
             imagenes:
               - alt: 'No hay mucho, pone una foto'
-                url: 'https://picsum.photos/1024/768?random=5'
-            texto: > 
-              Nullam sagittis dignissim nisi, sed pharetra enim ultrices vel. Donec pretium
-              fringilla nunc eget auctor. Ut sit amet lacus a ipsum rutrum pharetra. Donec
-              hendrerit a diam sed vestibulum. Etiam consectetur, est ac rutrum hendrerit,
-              mauris ligula rhoncus magna, interdum pulvinar augue nulla id diam. Sed massa
-              ipsum, gravida vitae mi sed, pulvinar dictum ipsum. Nunc iaculis semper lectus.
+                url: 'https://picsum.photos/1024/768?random=4'
+              - url: 'https://picsum.photos/1024/364?random=4'
+            elementos:
+              - titulo: 'Video / Docu'
+                imagenes:
+                  - alt: 'No hay mucho, pone una foto'
+                    url: 'https://picsum.photos/1024/768?random=5'
+                texto: > 
+                  Nullam sagittis dignissim nisi, sed pharetra enim ultrices vel. Donec pretium
+                  fringilla nunc eget auctor. Ut sit amet lacus a ipsum rutrum pharetra. Donec
+                  hendrerit a diam sed vestibulum. Etiam consectetur, est ac rutrum hendrerit,
+                  mauris ligula rhoncus magna, interdum pulvinar augue nulla id diam. Sed massa
+                  ipsum, gravida vitae mi sed, pulvinar dictum ipsum. Nunc iaculis semper lectus.
   
   - titulo: 'Publicaciones'
     texto: 'Ver Referencias'

@@ -2,13 +2,13 @@
   <header class="jumbotron"> 
     <h1 class="display-3">{{ contenido['subtitulo'] }}</h1>
     <hr class="my-4">
-    <p class="lead" >{{ contenido['abstract'] }}</p>
+    <p class="lead" >{{ contenido['abstract'] | md | safe }}</p>
   </header> 
 
   <div class="row">
 
     <div class="lead texto col-md-6" >
-      {{ contenido['texto'] | md | parrafos | safe }}
+      {{ contenido['texto'] | md | safe }}
     </div>
     <div class = "imagenes col-md-6" >
     {% if contenido['imagenes']  %}

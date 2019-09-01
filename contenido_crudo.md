@@ -62,7 +62,6 @@ significativas de cada región: la “Caverna de las Brujas” en el Departament
 Malargüe (Mendoza) y la “Caverna de las Manos” en el Cañadón del Río Pinturas
 (Santa Cruz). 
 
-
 Estas regiones fueron habitadas por culturas Huarpe y Mapuche, quienes
 manifestaban una variedad de cantos y músicas recreativas y ligadas a sus
 creencias. Predominan en ambos casos el canto chamánico y el tambor como

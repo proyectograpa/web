@@ -5,14 +5,14 @@ tags: 'acustica, investigación, relevamiento, patrimonio'
 correo: 'proyectograpa@gmail.com'
 titulo: 'Proyecto G.R.A.Pa'
 subtitulo: 'Grupo de Relevamiento Acústico del Patrimonio'
-texto: >
+texto: |
   El proyecto está conformado por una serie de trabajos individuales
   interrelacionados que permiten estudiar y promocionar los distintos
   espacios: relevamientos acústicos en audio 3D, registros musicales y/o
   rituales patrimoniales en Realidad Virtual (RV), fomento de la creación
   musical para obras específicas de sitio y la realización de una serie
   audiovisual de micro documentales recogiendo el trabajo realizado.
-abstract: >  
+abstract: |  
   Este es un proyecto de relevamiento, registro y promoción del Patrimonio
   Acústico en relación a las prácticas culturales de distintas regiones de
   nuestro país. A través de diversas tecnologías, este proyecto los acerca a la
@@ -25,7 +25,7 @@ imagenes:
 elementos:
   - titulo: 'Pruebas'
     subtitulo: 'Áreas'
-    texto: > 
+    texto: | 
       Nullam sagittis dignissim nisi, sed pharetra enim ultrices vel. Donec pretium
       fringilla nunc eget auctor. Ut sit amet lacus a ipsum rutrum pharetra. Donec
       hendrerit a diam sed vestibulum. Etiam consectetur, est ac rutrum hendrerit,
@@ -38,7 +38,7 @@ elementos:
 
     elementos:
       - titulo: 'Los Lugares y La Música'
-        texto: >
+        texto: |
           Los espacios donde realizar estos registros, más allá de tenerlos
           en cuenta por sus características acústicas y el paisaje sonoro que
           los integran, en la mayoría de los casos únicas, están determinados
@@ -53,38 +53,56 @@ elementos:
         elementos:
           - titulo: 'El Canto de la Copla'
             subtitulo : 'Región Noroeste'
+            texto: |
+              Región característica por Valles y Quebradas colindantes a la cordillera de los
+              Andes, cuenta con Áreas Protegidas que formaron parte del antiguo camino del
+              Inka en Argentina. En esta región  serán estudiados tres espacios: “El
+              Anfiteatro” en la Quebrada de las Conchas (Salta), Parques provinciales de
+              Ischigualasto y Talampaya (San Juan) y “La quebrada de Humahuaca” en La Puna
+              (Jujuy). 
+              
+              En todos ellos el “Canto de la Copla” encuentra una identidad propia como
+              práctica cultural, expresada de modo ritual en rondas improvisadas donde las
+              cajas y voces se alternan continuamente. Su forma de ejecución, muy ligada al
+              entorno natural en que se origina, es un claro exponente del Patrimonio
+              Acústico y Sonoro del Noroeste Argentino.
             elementos:
               - titulo: 'El Anfiteatro'
-                texto: > 
-                  Nullam sagittis dignissim nisi, sed pharetra enim ultrices vel. Donec pretium
-                  fringilla nunc eget auctor. Ut sit amet lacus a ipsum rutrum pharetra. Donec
-                  hendrerit a diam sed vestibulum. Etiam consectetur, est ac rutrum hendrerit,
-                  mauris ligula rhoncus magna, interdum pulvinar augue nulla id diam. Sed massa
-                  ipsum, gravida vitae mi sed, pulvinar dictum ipsum. Nunc iaculis semper lectus.
+                texto: | 
+                  FALTA
                 imagenes:
                  - url: 'https://picsum.photos/1024/384?random=3'
               - titulo: 'La Copla'
-                texto: > 
-                  Nullam sagittis dignissim nisi, sed pharetra enim ultrices vel. Donec pretium
-                  fringilla nunc eget auctor. Ut sit amet lacus a ipsum rutrum pharetra. Donec
-                  hendrerit a diam sed vestibulum. Etiam consectetur, est ac rutrum hendrerit,
-                  mauris ligula rhoncus magna, interdum pulvinar augue nulla id diam. Sed massa
-                  ipsum, gravida vitae mi sed, pulvinar dictum ipsum. Nunc iaculis semper lectus.
+                texto: | 
+                  FALTA
                 imagenes:
                  - alt: 'foto_afiche'
                    url: 'https://picsum.photos/1024/512?random=3'
               - titulo: 'Video: Docu'
-                texto: > 
-                  Nullam sagittis dignissim nisi, sed pharetra enim ultrices vel. Donec pretium
-                  fringilla nunc eget auctor. Ut sit amet lacus a ipsum rutrum pharetra. Donec
-                  hendrerit a diam sed vestibulum. Etiam consectetur, est ac rutrum hendrerit,
-                  mauris ligula rhoncus magna, interdum pulvinar augue nulla id diam. Sed massa
-                  ipsum, gravida vitae mi sed, pulvinar dictum ipsum. Nunc iaculis semper lectus.
+                texto: | 
+                  FALTA
                 imagenes:
                  - alt: 'foto_afiche'
                    url: 'https://picsum.photos/1024/768?random=3'
           - titulo: 'La Música Tehuelche'
             subtitulo: 'Región Cuyo | Patagónica'
+            texto: |
+              Regiones áridas y de estepas, tanto el Cuyo como la Patagonia, se reconocen por
+              sus climas fríos y secos. De esta zonas se decidió trabajar con formaciones
+              cavernarias cuyos atributos acústicos se distinguen de otros espacios en
+              Argentina. En particular serán estudiados dos formaciones cavernarias
+              significativas de cada región: la “Caverna de las Brujas” en el Departamento de
+              Malargüe (Mendoza) y la “Caverna de las Manos” en el Cañadón del Río Pinturas
+              (Santa Cruz). 
+              
+              Estas regiones fueron habitadas por culturas Huarpe y Mapuche, quienes
+              manifestaban una variedad de cantos y músicas recreativas y ligadas a sus
+              creencias. Predominan en ambos casos el canto chamánico y el tambor como
+              elemento identitario. Del mismo modo, las tribus pre-tehuelches (Aoni-Kenk)
+              mucho más relacionados al Cañadón del Río Pinturas, además del canto, poseen un
+              grupo de instrumentos como el koolo (cordófono hecho con una costilla de
+              guanaco y cerdas de caballo), el Rambo (aerófono hecho de un fémur de guanaco)
+              y percusivos como el Aple, El Chelper y el sonajero.
             imagenes:
               - alt: 'No hay mucho, pone una foto'
                 url: 'https://picsum.photos/1024/768?random=4'
@@ -94,18 +112,13 @@ elementos:
                 imagenes:
                   - alt: 'No hay mucho, pone una foto'
                     url: 'https://picsum.photos/1024/768?random=5'
-                texto: > 
-                  Nullam sagittis dignissim nisi, sed pharetra enim ultrices vel. Donec pretium
-                  fringilla nunc eget auctor. Ut sit amet lacus a ipsum rutrum pharetra. Donec
-                  hendrerit a diam sed vestibulum. Etiam consectetur, est ac rutrum hendrerit,
-                  mauris ligula rhoncus magna, interdum pulvinar augue nulla id diam. Sed massa
-                  ipsum, gravida vitae mi sed, pulvinar dictum ipsum. Nunc iaculis semper lectus.
-  
+                texto: | 
+                  FALTA
   - titulo: 'Publicaciones'
     texto: 'Ver Referencias'
   
   - titulo: 'Impacto Social'
-    texto: > 
+    texto: | 
       Nullam sagittis dignissim nisi, sed pharetra enim ultrices vel. Donec pretium
       fringilla nunc eget auctor. Ut sit amet lacus a ipsum rutrum pharetra. Donec
       hendrerit a diam sed vestibulum. Etiam consectetur, est ac rutrum hendrerit,
@@ -115,8 +128,45 @@ elementos:
      - titulo: 'Conference & Talks'
        texto: 'Ver Referencias'
   
-  - titulo: 'Sobre nosotros'
-    texto: >
+  - titulo: 'Sobre G.R.A.Pa'
+    texto: |
+      **G.R.A.Pa.** se formó en el año 2017 en base a una cooperación entre la
+      Universidad Nacional de Quilmes (UNQ) y la Universidad Católica de Salta
+      (UCaSal) con el objetivo de realizar un relevamiento de la acústica del
+      Anfiteatro Natural de la Quebrada de las Conchas. En el 2018 ampliamos los
+      objetivos del proyecto al relacionarlo con el canto de la Copla a partir del
+      entorno sonoro propio de sus orígenes. Contamos también con la participación
+      activa de la coplera salteña Mariana Carrizo, artista comprometida en la lucha
+      por la preservación y revalorización de este canto ancestral. A partir de allí,
+      iniciamos un proyecto de investigación y producción de contenidos inmersivos en
+      los cuales la relación entre las músicas nativas y sus entornos acústicos
+      naturales se exprese con claridad. Nuestra finalidad es documentar el
+      Patrimonio Acústico, que entendemos abarca tanto la música en sí misma como el
+      entorno acústico en el que es creada.
+      
+      **Francisco Durante** es Licenciado en Música y Tecnología (UNQ) y Maestro Mayor
+      de Obras dedicado a la investigación, diseño y construcción con materiales
+      naturales y permacultura. Trabaja como compositor en diferentes proyectos
+      artísticos multidisciplinarios en donde se vinculan las músicas tradicionales
+      con nuevas tecnologías y el espacio. 
+      
+      **Damian Payo** es Licenciado en Música y Tecnología (UNQ), actualmente se
+      desempeña como docente e investigador en la Universidad Católica de Salta en la
+      ciudad de Salta Capital desde donde ha profundizado en el estudio de Acústica
+      de Salas no convencionales y organizado Jornadas y Seminarios abocados al área
+      de la Acústica y el Audio Digital. 
+      
+      **Manuel Eguia** es Doctor en Física (UBA) e investigador de CONICET y UNQ, donde
+      dirige el Laboratorio de Acústica y Percepción Sonora (LAPSo), grupo donde ha
+      realizado numerosos trabajos de investigación sobre percepción espacial
+      auditiva y dispositivos que modifican el campo sonoro con medios puramente
+      acústicos.
+      
+      **Mauro Zannoli** es Licenciado en Composición con Medios Electroacústicos (UNQ),
+      compositor, programador y diseñador sonoro. En su trabajo tiene un fuerte
+      interés en la utilización del espacio como un parámetro más del sonido tanto en
+      música como en el arte sonoro. Ha montado sistemas Ambisonics en varios teatros
+      para obras específicas.
       Nullam sagittis dignissim nisi, sed pharetra enim ultrices vel. Donec pretium
       fringilla nunc eget auctor. Ut sit amet lacus a ipsum rutrum pharetra. Donec
       hendrerit a diam sed vestibulum. Etiam consectetur, est ac rutrum hendrerit,
@@ -127,7 +177,7 @@ elementos:
         texto: 'Logos y links'
   
   - titulo: 'Contacto'
-    texto: >
+    texto: |
       Esto va al footer
       Maecenas justo tortor, feugiat eget nunc eu, bibendum condimentum metus. In
       sodales, ligula vel volutpat pretium, diam dui lobortis risus, sed fermentum

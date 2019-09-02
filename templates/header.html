@@ -1,11 +1,11 @@
 <header> 
-  <nav>
+  <nav class="navbar navbar-expand-md">
     <a url="{{contenido['dominio'] }}">	  
       {{ contenido['titulo'] }}
     </a>
-    <ul>
+    <ul class="nabvar-nav">
     {% for seccion in elementos %}
-      <li>
+      <li class="nav-item" >
          <a href="#{{ seccion['titulo'] | slug }}">
           {{ seccion['titulo'] }}
          </a>

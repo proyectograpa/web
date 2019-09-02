@@ -1,43 +1,46 @@
-/*.texto{ white-space:pre-line;}*/
 body{
   font-family: 'Montserrat', sans-serif;
   color: #000000;
 }
 
 .titulo{
-  /*border-bottom:1px solid #000000;*/
   font-family: 'Montserrat', sans-serif;
 }
+
 .container{
   border-left: 1px solid #000000;
   border-right: 1px solid #000000;
 }
+
 .jumbotron {
-	background: #000;
-	color: #FFF;
+  background: #000;
+  color: #FFF;
 }
+
 .jumbotron .container{
   border-left: 0px solid #000000;
   border-right: 0px solid #000000;
 }
+
 hr{
-	border-color: #FFF;
+  border-color: #FFF;
 }
 
 .elemento{
-	border-top-width: 1px;
-	border-top-style: solid;
-	border-top-color: #000;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #000;
 }
 
-.elemento .elementos{
-	background: #000;
-	color: #FFF;
-}
+/*.elemento .elementos{*/
+/*  background: #000;*/
+/*  color: #FFF;*/
+/*}*/
 
-.elemento .elementos .elemento{
-	border-top-color: #FFF;
-}
+/**/
+/*.elemento > .row .elementos > .elemento{*/
+/*  border-bottom-color: #FFF;*/
+/*}*/
 
 
 

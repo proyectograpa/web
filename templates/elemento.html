@@ -1,24 +1,24 @@
 
-<div class="elemento nivel-{{nivel}} mb-5"
+<div class="elemento nivel-{{nivel}} pt-3"
   {% if elemento['titulo']  %}
-    id="{{ elemento['titulo'] | slug }}"
+    id="elemento-{{ elemento['titulo'] | slug }}"
   {% endif %}
 > 
 
-  <header> 
-    {% if elemento['titulo']  %}
-    <h{{nivel}} class="titulo py-2">
-        {{ elemento['titulo'] }}
-      </h{{nivel}}>
-    {% endif %}
-
-  </header> 
 
 <div class="row">
 
 <div class="texto col-md-6">
+<header> 
+  {% if elemento['titulo']  %}
+  <h{{nivel}} class="titulo">
+      {{ elemento['titulo'] | upper }}
+    </h{{nivel}}>
+  {% endif %}
+</header> 
+
 {% if elemento['subtitulo']  %}
-  <p class="lead" >{{ elemento[ 'subtitulo' ] }}</p>
+  <p class="lead mt-3 font-weight-bold" >{{ elemento[ 'subtitulo' ] }}</p>
 {% endif %}
 
 {% if elemento[ 'texto' ]  %}
@@ -26,13 +26,13 @@
 {% endif %}
 </div>
 
-{% if elemento['imagenes']  %}
-  <div class="imagenes col-md-6">
-    {% for imagen in elemento['imagenes'] %}
-      {% include 'imagen.html' %}
-    {% endfor %}
-  </div>
-{% endif %}
+<div class="imagenes col-md-6">
+  {% if elemento['imagenes']  %}
+   {% for imagen in elemento['imagenes'] %}
+     {% include 'imagen.html' %}
+   {% endfor %}
+  {% endif %}
+</div>
 
 {% if elemento['separador']  %}
   {% set nivel = nivel + 1 %}

@@ -49,6 +49,8 @@ elementos:
           siete espacios, agrupados en tres regiones de la República
           Argentina, relacionando cada región con el canto, la música y las
           expresiones culturales que la integran.
+        imagenes:
+         - url: 'https://picsum.photos/1024/768'
 
         elementos:
           - titulo: 'El Canto de la Copla'
@@ -66,24 +68,24 @@ elementos:
               cajas y voces se alternan continuamente. Su forma de ejecución, muy ligada al
               entorno natural en que se origina, es un claro exponente del Patrimonio
               Acústico y Sonoro del Noroeste Argentino.
+            imagenes:
+             - url: 'https://picsum.photos/1024/768'
             elementos:
               - titulo: 'El Anfiteatro'
                 texto: | 
                   FALTA
                 imagenes:
-                 - url: 'https://picsum.photos/1024/384?random=3'
+                 - url: 'https://picsum.photos/1024/384'
               - titulo: 'La Copla'
                 texto: | 
                   FALTA
                 imagenes:
-                 - alt: 'foto_afiche'
-                   url: 'https://picsum.photos/1024/512?random=3'
+                 - url: 'https://picsum.photos/1024/768'
               - titulo: 'Video: Docu'
                 texto: | 
                   FALTA
                 imagenes:
-                 - alt: 'foto_afiche'
-                   url: 'https://picsum.photos/1024/768?random=3'
+                 - url: 'https://picsum.photos/1024/768'
           - titulo: 'La Música Tehuelche'
             subtitulo: 'Región Cuyo | Patagónica'
             texto: |

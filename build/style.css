@@ -42,12 +42,24 @@ hr{
   border-color: #FFF;
 }
 section#pruebas{
-  background: #C9D3DB;
+  /*background: #C9D3DB;*/
+  #background: rgba(201,211,219,0.1);
 }
 .elemento{
+  #background: rgba(0.78,0.82,0.85,0.1);
+  background: rgba(101,111,129,0.1);
   border-top-width: 1px;
   border-top-style: solid;
   border-top-color: #000;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #000;
+}
+.elemento{
+  /*border-top-width: 1px;*/
+  /*border-top-style: solid;*/
+  /*border-top-color: #000;*/
+  #margin-bottom: 10px
 }
 
 /*.elemento .elementos{*/

@@ -72,18 +72,64 @@ elementos:
              - url: 'https://picsum.photos/1024/768'
             elementos:
               - titulo: 'El Anfiteatro'
-                texto: | 
-                  FALTA
+                texto: |
+                  A menos de 40 kilómetros de la ciudad de Cafayate sobre la ruta Nacional 68, a
+                  metros del Río de las Conchas, se encuentra El Anfiteatro, una de las paradas
+                  más frecuentadas por el turismo. Se trata de una formación rocosa semi-cerrada
+                  de forma pseudo-ojival esculpida por la erosión. Su forma particular y el
+                  material de sus paredes hacen que el Anfiteatro posea una cualidad acústica
+                  excepcional, reconocida en la región y que ha dado inicio, por ejemplo, al
+                  ciclo del “Concierto en la Montaña”, realizado anualmente en este espacio desde
+                  1991.
+                  
+                  Registramos las particularidades sonoras del Anfiteatro realizando medidas
+                  acústicas específicas: Respuestas Impulso en Ambisonics y binaurales con
+                  fuentes direccionales. Estos registros (disponibles on-line) permiten
+                  reconstruir fielmente la acústica del Anfiteatro mediante un sistema de
+                  parlantes o auriculares. Además de preservar el sonido del Anfiteatro como
+                  Patrimonio Acústico, pueden ser utilizados como reverberadores digitales en
+                  registros de cine y realidad virtual.
                 imagenes:
                  - url: 'https://picsum.photos/1024/384'
-              - titulo: 'La Copla'
+              - titulo: 'La Copla en Realidad Virtual'
                 texto: | 
-                  FALTA
+                  El canto de la Copla es  una de las expresiones identitarias de los valles
+                  Calchaquíes, practicada por las comunidades Diaguitas desde tiempos ancestrales
+                  y transmitida por vía oral. Su forma de ejecución está muy ligada al entorno
+                  natural, por lo cual consideramos que es un claro exponente del Patrimonio
+                  Acústico y Sonoro de la zona. Como práctica cultural, se expresa de modo ritual
+                  en rondas improvisadas donde las cajas y voces se alternan continuamente.
+                  
+                  Usamos la última tecnología para registrar una serie de Coplas, interpretadas
+                  por reconocidas copleras de la comunidad, en realidad virtual. El registro en
+                  audio y video inmersivo permite difundir este canto acorde a su práctica y
+                  enmarcado en su lugar de origen. De este modo, el espectador tiene una
+                  experiencia vivencial más completa al poder situarse en el centro de la ronda.
+                  La coplera Mariana Carrizo encuentra una profunda relación entre el canto con
+                  caja y estos valles, en cuyos paisajes aprendió a cantar en la niñez. Por ello
+                  fue indispensable su aporte a este proyecto.
                 imagenes:
                  - url: 'https://picsum.photos/1024/768'
-              - titulo: 'Video: Docu'
+              - titulo: 'El Documental'
                 texto: | 
-                  FALTA
+                  Realizamos un documental en el que se recoge la experiencia del trabajo de
+                  campo - el estudio acústico y los registros de las coplas en realidad virtual -
+                  llevado a cabo en abril de 2018 en el Anfiteatro. El documental muestra cómo la
+                  exploración de este espacio -el estudio de su forma y la sonoridad particular
+                  que esta genera-, es expuesta y potenciada al experimentarla a través del
+                  sonido producido por las cajas y voces propias de La Copla, un canto ancestral
+                  que se origina en diálogo con la montaña y el paisaje de la zona.
+
+                  Sinopsis: Muestra el proceso de trabajo de un grupo de investigadores y la Coplera
+                  Mariana Carrizo en el Anfiteatro Natural de la Quebrada de las conchas, durante
+                  unas jornadas de registro y promoción del Patrimonio Acústico y Sonoro de los
+                  Valles Calchaquíes en la provincia de Salta. Usando la última tecnología para
+                  registrar una serie de Coplas en Realidad Virtual, interpretadas por
+                  reconocidas copleras de los poblados de San Carlos, Cafayate y Animaná, fue
+                  posible encontrar una profunda relación entre el canto con caja y estos valles,
+                  donde la música y el espacio confluyen de un modo único.
+                  
+                  
                 imagenes:
                  - url: 'https://picsum.photos/1024/768'
           - titulo: 'La Música Tehuelche'
@@ -109,16 +155,13 @@ elementos:
               - alt: 'No hay mucho, pone una foto'
                 url: 'https://picsum.photos/1024/768?random=4'
               - url: 'https://picsum.photos/1024/364?random=4'
-            elementos:
-              - titulo: 'Video / Docu'
-                imagenes:
-                  - alt: 'No hay mucho, pone una foto'
-                    url: 'https://picsum.photos/1024/768?random=5'
-                texto: | 
-                  FALTA
-  - titulo: 'Publicaciones'
-    texto: 'Ver Referencias'
-  
+            #elementos:
+            #  - titulo: 'Video / Docu'
+            #    imagenes:
+            #      - alt: 'No hay mucho, pone una foto'
+            #        url: 'https://picsum.photos/1024/768?random=5'
+            #    texto: | 
+            #      FALTA
   - titulo: 'Impacto Social'
     texto: | 
       Nullam sagittis dignissim nisi, sed pharetra enim ultrices vel. Donec pretium
@@ -127,8 +170,55 @@ elementos:
       mauris ligula rhoncus magna, interdum pulvinar augue nulla id diam. Sed massa
       ipsum, gravida vitae mi sed, pulvinar dictum ipsum. Nunc iaculis semper lectus.
     elementos:
-     - titulo: 'Conference & Talks'
-       texto: 'Ver Referencias'
+    - titulo: 'Publicaciones'
+      texto: |
+        **[Caracterización Acústica Direccional Del Anfiteatro
+        Natural De La Quebrada De Las Conchas](
+        http://www.sea-acustica.es/fileadmin/Cadiz18/ASL-0_013.pdf)**  
+        Escuela Superior De Ingeniería de la Universidad de Cadiz  
+        *XI Congreso Iberoamericano de Acústica 2018*  
+
+        **[An acoustical characterization of a natural open-air amphitheatre
+        using directional information](
+        https://drive.google.com/open?id=1ZXCBIb0zPkpljTyH6x18q8FFkBogyd-8yiSzemtkRLo)**  
+        Audio Engineering Society  
+        *Conferencia Latinoamericana de Audio AES LAC 2018*  
+
+        **[Caracterización acústica de un anfiteatro natural al aire libre
+        utilizando información direccional](
+        https://drive.google.com/open?id=1fWLVhWCZdgv3W3fiDYnvRMe91Q9dZ4h90ZdJxpOeo90)**  
+        Universidad Nacional de Tres de Febrero  
+        *IV Jornadas de Acústica, Audio y Sonido*  
+
+    - titulo: 'Conferencias y Charlas'
+      texto: | 
+        **[El origen geologico del paisaje](
+        https://www.eltribuno.com/salta/nota/2019-7-15-0-0-0-el-origen-geologico-del-paisaje)**  
+        Salta, Argentina  
+        *Primer Ciclo de Conferencias de Investigación y Transversalidad Turistica*  
+
+        **[Anfiteatro de la quebrada de las Conchas y el patrimonio acústico de
+        la provincia de Salta](
+        http://radio.unsa.edu.ar/index.php/noticias/universidad/2827-jornadas-de-difusion-en-investigacion-cientifica-de-areas-protegidas)**  
+        Universidad Nacional de Salta  
+        *Jornadas de Difusión en Investigación Cientifica de Areas Protegidas*  
+
+
+
+        **[Estudio acústico y producción audiovisual en el anfiteatro natural de
+        la Quebrada de Cafayate, Salta](
+        http://www.unq.edu.ar/noticias/3294-terceras-jornadas-jamtec.php)**  
+        Universidad Nacional de Quilmes  
+        *Jornadas de Arte Música y Tecnología 2018*  
+
+
+    - titulo: 'Prensa'
+      texto: | 
+        Nullam sagittis dignissim nisi, sed pharetra enim ultrices vel. Donec pretium
+        fringilla nunc eget auctor. Ut sit amet lacus a ipsum rutrum pharetra. Donec
+        hendrerit a diam sed vestibulum. Etiam consectetur, est ac rutrum hendrerit,
+        mauris ligula rhoncus magna, interdum pulvinar augue nulla id diam. Sed massa
+        ipsum, gravida vitae mi sed, pulvinar dictum ipsum. Nunc iaculis semper lectus.
   
   - titulo: 'Sobre G.R.A.Pa'
     texto: |

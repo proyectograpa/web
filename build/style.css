@@ -29,8 +29,8 @@ footer .navbar-nav li:first-child{
 }
 
 .jumbotron {
-  background: #031432;
-  color: #FFF;
+  /*background: #031432;*/
+  /*color: #FFF;*/
 }
 
 .jumbotron .container{
@@ -43,17 +43,18 @@ hr{
 }
 section#pruebas{
   /*background: #C9D3DB;*/
-  #background: rgba(201,211,219,0.1);
+  /*background: rgba(233,236,239,0.5);*/
 }
 .elemento{
   #background: rgba(0.78,0.82,0.85,0.1);
-  background: rgba(0,0,0,0.05);
+  background: rgba(133,136,139,0.1);
   border-top-width: 1px;
   border-top-style: solid;
   border-top-color: #000;
   border-bottom-width: 1px;
   border-bottom-style: solid;
   border-bottom-color: #000;
+  /*border-color: #FFF;*/
 }
 .elemento{
   /*border-top-width: 1px;*/

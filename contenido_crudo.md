@@ -1,112 +1,137 @@
-# Los Lugares y Las Músicas
+@inproceedings{grapa1,
+  author       = "Damian Payo",
+  type         = "Publications",
+  URL          = "http://www.sea-acustica.es/fileadmin/Cadiz18/ASL-0_013.pdf",
+  organization = "XI Congreso Iberoamericano de Acústica 2018",
+  booktitle    = "XI Congreso Iberoamericano de Acústica 2018",
+  institution  = "Escuela Superior De Ingeniería de la Universidad de Cadiz",
+  title        = "Caracterización Acústica Direccional Del Anfiteatro Natural De La Quebrada De Las Conchas",
+  month        = 10,
+  year         = 2018,
+  address      = "Cadiz, España",
+}
 
-Los espacios donde realizar estos registros, más allá de tenerlos en cuenta por
-sus características acústicas y el paisaje sonoro que los integran, en la
-mayoría de los casos únicas, están determinados por varios factores: el
-significante de uso que tiene y tuvo para la sociedad, su atractivo turístico y
-cultural y su accesibilidad.
+@inproceedings{grapa2,
+  author       = "Damian Payo",
+  type         = "Publications",
+  URL          = "https://drive.google.com/open?id=1ZXCBIb0zPkpljTyH6x18q8FFkBogyd-8yiSzemtkRLo",
+  organization = "Conferencia Latinoamericana de Audio AES LAC 2018",
+  booktitle    = "Conferencia Latinoamericana de Audio AES LAC 2018",
+  institution  = "Audio Engineering Society",
+  title        = "An acoustical characterization of a natural open-air amphitheatre using directional information",
+  month        = 9,
+  year         = 2018,
+  address      = "Montevideo, Uruguay",
+}
 
-A partir de un exhaustiva investigación, se decidió explorar siete espacios,
-agrupados en tres regiones de la República Argentina, relacionando cada región
-con el canto, la música y las expresiones culturales que la integran.
+@article{grapa3,
+  author       = "Damian Payo",
+  type         = "Publications",
+  URL          = "https://drive.google.com/open?id=1fWLVhWCZdgv3W3fiDYnvRMe91Q9dZ4h90ZdJxpOeo90",
+  organization = "IV Jornadas de Acústica, Audio y Sonido",
+  journal      = "IV Jornadas de Acústica, Audio y Sonido",
+  institution  = "Universidad Nacional de Tres de Febrero",
+  title        = "Caracterización acústica de un anfiteatro natural al aire libre utilizando información direccional",
+  month        = 8,
+  year         = 2018,
+  address      = "Tres de Febrero, Buenos Aires, Argentina",
+}
 
-# Los Sonidos en el Espacio
+@conference{grapa4,
+  author       = "Damian Payo",
+  type         = "Conference & Talks",
+  URL          = "https://www.eltribuno.com/salta/nota/2019-7-15-0-0-0-el-origen-geologico-del-paisaje",
+  organization = "Primer Ciclo de Conferencias de Investigación y Transversalidad Turistica",
+  booktitle    = "Primer Ciclo de Conferencias de Investigación y Transversalidad Turistica",
+  title        = "El origen geologico del paisaje",
+  month        = 5,
+  year         = 2019,
+  address      = "Salta, Argentina",
+}
 
-La creación y ejecución musical para occidente, está regida por parámetros
-establecidos en los que, tanto los ejecutantes como los oyentes mantienen
-ubicaciones estáticas y preestablecidas, como es el caso de un teatro, donde el
-público tiene su lugar en las butacas, mientras los artistas permanecen en el
-escenario al frente.
+@conference{grapa5,
+  author       = "Damian Payo",
+  type         = "Conference & Talks",
+  URL          = "http://radio.unsa.edu.ar/index.php/noticias/universidad/2827-jornadas-de-difusion-en-investigacion-cientifica-de-areas-protegidas",
+  institution  = "Universidad Nacional de Salta",
+  booktitle    = "Jornadas de Difusión en Investigación Cientifica de Areas Protegidas",
+  organization = "Jornadas de Difusión en Investigación Cientifica de Areas Protegidas",
+  title        = "Anfiteatro de la quebrada de las Conchas y el patrimonio acústico de la provincia de Salta",
+  month        = 11,
+  year         = 2018,
+  address      = "Salta, Argentina",
+}
 
-Para poder comprender las prácticas musicales y rituales que nos anteceden, y
-son ajenas a estos modos preestablecidos, es necesario vivenciarlas de la
-manera en que fueron concebidos que, en la gran mayoría de los casos, proponen
-experiencias inmersivas de escucha, en las que, por su misma práctica, el
-espacio juega un rol fundamental ampliando la percepción sonora más allá de los
-límites visuales.
+@conference{grapa6,
+  author       = "Damian Payo",
+  type         = "Conference & Talks",
+  URL          = "https://www.facebook.com/NaturalesUNSa/posts/1714434502001593?__xts__%5B0%5D=68.ARCymmICMNV1E3MLAc-TZ3k34E3ekh3t6kuKjOpl-_ogwWBMyjIj7f6FY9PAaqRiu7eXk0zzZmCaTgc8pdUQhULOO3M_alCV38mQRjP_qfagdEQfyynsoJYhsXbD4Zd3o-KpueD0kHEEjEMaqpT73bcJlGQwJ4Y9TAm0AtUZwyRDm85L0yH_nqEltPFG9N_mBiBk_2c9o49Zsq8ljvRkdXa9HzvcgnOJqamDaPT2w9YxW0u4zg_jxDq-KOTVM1PwUZMjY6xYfPuc1qFGjCMCdoyWTaHa9tkBxJ1AhJPQ2OQeWz3VC5_k4WWmIWr-AlT-fNQbIubfaVNE217K4NED0ggRHQ&__tn__=-R",
+  booktitle    = "Jornadas de Difusión en Investigación Cientifica de Areas Protegidas",
+  title        = "Anfiteatro de la quebrada de las Conchas y el patrimonio acústico de la provincia de Salta",
+  month        = 11,
+  year         = 2018,
+  address      = "Salta, Argentina",
+}
 
-En la búsqueda de proponer al espectador una experiencia vivencial más completa
-acústica y visualmente, es que usamos la última tecnología para registrar estas
-músicas y rituales en realidad virtual. El registro en audio y video inmersivo
-permite difundir dichas prácticas de un modo mucho más próximo a una
-descripción emic1, enmarcadas en su lugar de origen y enriqueciendo la
-comprensión de la cosmovisión que las comunidades expresan en sus prácticas
-culturales
+@conference{grapa7,
+  author       = "Damian Payo",
+  type         = "Conference & Talks",
+  URL          = "http://www.unq.edu.ar/noticias/3294-terceras-jornadas-jamtec.php",
+  booktitle    = "Jornadas de Arte Música y Tecnología 2018",
+  institution  = "Universidad Nacional de Quilmes",
+  title        = "Estudio acústico y producción audiovisual en el anfiteatro natural de la Quebrada de Cafayate, Salta",
+  month        = 5,
+  year         = 2018,
+  address      = "Bernal, Buenos Aires, Argentina",
+}
 
-1Basada en cómo explican los miembros de dichas comunidades el significado y los motivos de sus costumbres.
+@misc{grapa8,
+  author       = "Damian Payo",
+  type         = "Social Impact",
+  URL          = "https://www.lagacetasalta.com.ar/nota/109369/actualidad/investigan-patrimonio-sonoro-quebrada-conchas-cafayate.html",
+  title        = "Nota sobre Anfiteatro de la Quebrada de las conchas.",
+  year         = 2018,
+}
 
-https://youtu.be/HOucTh3RDHM
+@misc{grapa9,
+  author       = "Damian Payo",
+  type         = "Social Impact",
+  URL          = "https://www.gba.gob.ar/culturacampo2018/evento/el_anfiteatro_lugar_de_encuentro_entre_la_copla_y_el_paisaje_apta_para_todo",
+  institution  = "Festival Cultura Campo",
+  title        = "El Anfiteatro, lugar de encuentro entre la copla y el paisaje",
+  month        = 9,
+  year         = 2018,
+  address      = "Junin, Buenos Aires, Argentina",
+}
 
-# Región Noroeste y el Canto de la Copla
+@misc{grapa10,
+  author       = "Damian Payo",
+  type         = "Social Impact",
+  URL          = "http://www.elsolabc.com/nota/item,7857/seccion,21/subseccion,0/titulo,segundas-jornadas-de-acstica-y-audio-en-salta-experiencia-y-balance",
+  institution  = "Universidad Católica de Salta", 
+  organization = "Segundas Jornadas de Acustica y Audio",
+  title        = "El Anfiteatro, lugar de encuentro entre la copla y el paisaje",
+  note         = "Proyección de Documental",
+  year         = 2018,
+}
 
-Región característica por Valles y Quebradas colindantes a la cordillera de los
-Andes, cuenta con Áreas Protegidas que formaron parte del antiguo camino del
-Inka en Argentina. En esta región  serán estudiados tres espacios: “El
-Anfiteatro” en la Quebrada de las Conchas (Salta), Parques provinciales de
-Ischigualasto y Talampaya (San Juan) y “La quebrada de Humahuaca” en La Puna
-(Jujuy). 
 
-En todos ellos el “Canto de la Copla” encuentra una identidad propia como
-práctica cultural, expresada de modo ritual en rondas improvisadas donde las
-cajas y voces se alternan continuamente. Su forma de ejecución, muy ligada al
-entorno natural en que se origina, es un claro exponente del Patrimonio
-Acústico y Sonoro del Noroeste Argentino.
+@misc{grapa11,
+  author       = "Damian Payo",
+  type         = "Test Areas",
+  title        = "Anfiteatro de la Quebrada de las Conchas",
+  year         = 2019,
+}
 
-# Región Cuyo|Patagónica y la Musica Tehuelche
+@misc{grapa12,
+  author       = "Damian Payo",
+  type         = "Test Areas",
+  title        = "Caverna de las Brujas",
+  year         = 2019,
+}
 
-Regiones áridas y de estepas, tanto el Cuyo como la Patagonia, se reconocen por
-sus climas fríos y secos. De esta zonas se decidió trabajar con formaciones
-cavernarias cuyos atributos acústicos se distinguen de otros espacios en
-Argentina. En particular serán estudiados dos formaciones cavernarias
-significativas de cada región: la “Caverna de las Brujas” en el Departamento de
-Malargüe (Mendoza) y la “Caverna de las Manos” en el Cañadón del Río Pinturas
-(Santa Cruz). 
-
-Estas regiones fueron habitadas por culturas Huarpe y Mapuche, quienes
-manifestaban una variedad de cantos y músicas recreativas y ligadas a sus
-creencias. Predominan en ambos casos el canto chamánico y el tambor como
-elemento identitario. Del mismo modo, las tribus pre-tehuelches (Aoni-Kenk)
-mucho más relacionados al Cañadón del Río Pinturas, además del canto, poseen un
-grupo de instrumentos como el koolo (cordófono hecho con una costilla de
-guanaco y cerdas de caballo), el Rambo (aerófono hecho de un fémur de guanaco)
-y percusivos como el Aple, El Chelper y el sonajero.
-
-# Sobre G.R.A.Pa
-
-G.R.A.Pa. se formó en el año 2017 en base a una cooperación entre la
-Universidad Nacional de Quilmes (UNQ) y la Universidad Católica de Salta
-(UCaSal) con el objetivo de realizar un relevamiento de la acústica del
-Anfiteatro Natural de la Quebrada de las Conchas. En el 2018 ampliamos los
-objetivos del proyecto al relacionarlo con el canto de la Copla a partir del
-entorno sonoro propio de sus orígenes. Contamos también con la participación
-activa de la coplera salteña Mariana Carrizo, artista comprometida en la lucha
-por la preservación y revalorización de este canto ancestral. A partir de allí,
-iniciamos un proyecto de investigación y producción de contenidos inmersivos en
-los cuales la relación entre las músicas nativas y sus entornos acústicos
-naturales se exprese con claridad. Nuestra finalidad es documentar el
-Patrimonio Acústico, que entendemos abarca tanto la música en sí misma como el
-entorno acústico en el que es creada.
-
-*Francisco Durante* es Licenciado en Música y Tecnología (UNQ) y Maestro Mayor
-de Obras dedicado a la investigación, diseño y construcción con materiales
-naturales y permacultura. Trabaja como compositor en diferentes proyectos
-artísticos multidisciplinarios en donde se vinculan las músicas tradicionales
-con nuevas tecnologías y el espacio. 
-
-*Damian Payo* es Licenciado en Música y Tecnología (UNQ), actualmente se
-desempeña como docente e investigador en la Universidad Católica de Salta en la
-ciudad de Salta Capital desde donde ha profundizado en el estudio de Acústica
-de Salas no convencionales y organizado Jornadas y Seminarios abocados al área
-de la Acústica y el Audio Digital. 
-
-*Manuel Eguia* es Doctor en Física (UBA) e investigador de CONICET y UNQ, donde
-dirige el Laboratorio de Acústica y Percepción Sonora (LAPSo), grupo donde ha
-realizado numerosos trabajos de investigación sobre percepción espacial
-auditiva y dispositivos que modifican el campo sonoro con medios puramente
-acústicos.
-
-*Mauro Zannoli* es Licenciado en Composición con Medios Electroacústicos (UNQ),
-compositor, programador y diseñador sonoro. En su trabajo tiene un fuerte
-interés en la utilización del espacio como un parámetro más del sonido tanto en
-música como en el arte sonoro. Ha montado sistemas Ambisonics en varios teatros
-para obras específicas.
+@misc{grapa13,
+  author       = "Damian Payo",
+  type         = "Virtual Reality",
+  year         = 2019,
+}

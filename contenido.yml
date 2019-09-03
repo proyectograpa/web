@@ -172,25 +172,17 @@ elementos:
     elemetos:
       - titulo: 'Apoyos Institucionales'
         texto: 'Logos y links'
-  
-  - titulo: 'Contacto'
-    texto: |
-      Esto va al footer
-      Maecenas justo tortor, feugiat eget nunc eu, bibendum condimentum metus. In
-      sodales, ligula vel volutpat pretium, diam dui lobortis risus, sed fermentum
-      diam erat sed est. Aliquam tincidunt enim quam, a bibendum lorem cursus a.
+footer: 
+  elementos : 
+    - titulo: 'correo'
+      url: 'mailto:proyectograpa@gmail.com'
+      # - titulo: '+54 9 11 4344-3434'
+      #   url: '#'
+    - titulo: 'Instagram'
+      url: '#'
+    - titulo: 'Facebook'
+      url: '#'
 
-      Aenean mollis mollis sollicitudin. Mauris ac enim suscipit, dapibus lectus
-      eget, lacinia ipsum. Donec porttitor dui vel risus placerat, vitae euismod
-      neque viverra. Mauris massa diam, commodo id arcu in, placerat condimentum
-      magna. Aliquam ut pretium mauris. Ut mattis enim eu risus fringilla feugiat.
-    elementos : 
-      - titulo: 'Redes Sociales'
-      - titulo: 'Teléfono'
-      - titulo: 'Mail'
-      - titulo: 'etc'
-      - titulo: 'etc'
-  
 
 
 

@@ -1,16 +1,25 @@
 <header> 
-  <nav class="navbar navbar-expand-md">
-    <a url="{{contenido['dominio'] }}">	  
-      {{ contenido['titulo'] }}
+
+<nav class="navbar navbar-expand-lg navbar-light ">
+
+  <div class="collapse navbar-collapse justify-content-md-center" id="navbarSupportedContent">
+
+    <a class="navbar-brand" url="{{contenido['dominio'] }}">	  
+      {{ contenido['titulo'] | upper }}
     </a>
-    <ul class="nabvar-nav">
-    {% for seccion in elementos %}
+
+    <ul class="navbar-nav">
+      {% for elemento in elementos %}
       <li class="nav-item" >
-         <a href="#{{ seccion['titulo'] | slug }}">
-          {{ seccion['titulo'] }}
-         </a>
+        <a class="nav-link" href="#{{ elemento['titulo'] | slug }}">
+          {{ elemento['titulo'] | upper }}
+        </a>
       </li>
-     {% endfor %}
+      {% endfor %}
     </ul>
-  </nav>
+
+  </div>
+
+</nav>
+
 </header>

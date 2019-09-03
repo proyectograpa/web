@@ -33,8 +33,8 @@ elementos:
       ipsum, gravida vitae mi sed, pulvinar dictum ipsum. Nunc iaculis semper lectus.
     imagenes:
       - url: 'https://picsum.photos/1024/384?random=2'
-      - url: 'https://picsum.photos/1024/512?random=2'
-      - url: 'https://picsum.photos/1024/768?random=2'
+      - url: 'https://picsum.photos/1024/512?blur=2&grayscale&random=2'
+      - url: 'https://picsum.photos/1024/768?blur=1&random=2'
 
     elementos:
       - titulo: 'Los Lugares y La Música'
@@ -50,7 +50,7 @@ elementos:
           Argentina, relacionando cada región con el canto, la música y las
           expresiones culturales que la integran.
         imagenes:
-         - url: 'https://picsum.photos/1024/768'
+         - url: 'https://picsum.photos/1024/768?random=3'
 
         elementos:
           - titulo: 'El Canto de la Copla'
@@ -69,7 +69,7 @@ elementos:
               entorno natural en que se origina, es un claro exponente del Patrimonio
               Acústico y Sonoro del Noroeste Argentino.
             imagenes:
-             - url: 'https://picsum.photos/1024/768'
+             - url: 'https://picsum.photos/1024/768?random=4'
             elementos:
               - titulo: 'El Anfiteatro'
                 texto: |
@@ -109,7 +109,7 @@ elementos:
                   caja y estos valles, en cuyos paisajes aprendió a cantar en la niñez. Por ello
                   fue indispensable su aporte a este proyecto.
                 imagenes:
-                 - url: 'https://picsum.photos/1024/768'
+                 - url: 'https://picsum.photos/1024/768?random=5'
               - titulo: 'El Documental'
                 texto: | 
                   Realizamos un documental en el que se recoge la experiencia del trabajo de
@@ -131,7 +131,7 @@ elementos:
                   
                   
                 imagenes:
-                 - url: 'https://picsum.photos/1024/768'
+                 - url: 'https://picsum.photos/1024/768?random=6'
           - titulo: 'La Música Tehuelche'
             subtitulo: 'Región Cuyo | Patagónica'
             texto: |
@@ -153,7 +153,7 @@ elementos:
               y percusivos como el Aple, El Chelper y el sonajero.
             imagenes:
               - alt: 'No hay mucho, pone una foto'
-                url: 'https://picsum.photos/1024/768?random=4'
+                url: 'https://picsum.photos/1024/768?random=7'
               - url: 'https://picsum.photos/1024/364?random=4'
             #elementos:
             #  - titulo: 'Video / Docu'

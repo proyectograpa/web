@@ -163,12 +163,6 @@ elementos:
             #    texto: | 
             #      FALTA
   - titulo: 'Impacto Social'
-    texto: | 
-      Nullam sagittis dignissim nisi, sed pharetra enim ultrices vel. Donec pretium
-      fringilla nunc eget auctor. Ut sit amet lacus a ipsum rutrum pharetra. Donec
-      hendrerit a diam sed vestibulum. Etiam consectetur, est ac rutrum hendrerit,
-      mauris ligula rhoncus magna, interdum pulvinar augue nulla id diam. Sed massa
-      ipsum, gravida vitae mi sed, pulvinar dictum ipsum. Nunc iaculis semper lectus.
     elementos:
     - titulo: 'Publicaciones'
       texto: |
@@ -203,22 +197,16 @@ elementos:
         Universidad Nacional de Salta  
         *Jornadas de Difusión en Investigación Cientifica de Areas Protegidas*  
 
-
-
         **[Estudio acústico y producción audiovisual en el anfiteatro natural de
         la Quebrada de Cafayate, Salta](
         http://www.unq.edu.ar/noticias/3294-terceras-jornadas-jamtec.php)**  
         Universidad Nacional de Quilmes  
         *Jornadas de Arte Música y Tecnología 2018*  
 
-
-    - titulo: 'Prensa'
-      texto: | 
-        Nullam sagittis dignissim nisi, sed pharetra enim ultrices vel. Donec pretium
-        fringilla nunc eget auctor. Ut sit amet lacus a ipsum rutrum pharetra. Donec
-        hendrerit a diam sed vestibulum. Etiam consectetur, est ac rutrum hendrerit,
-        mauris ligula rhoncus magna, interdum pulvinar augue nulla id diam. Sed massa
-        ipsum, gravida vitae mi sed, pulvinar dictum ipsum. Nunc iaculis semper lectus.
+        **[El Anfiteatro, lugar de encuentro entre la copla y el paisaje](
+        http://www.elsolabc.com/nota/item,7857/seccion,21/subseccion,0/titulo,segundas-jornadas-de-acstica-y-audio-en-salta-experiencia-y-balance)**  
+        Universidad Católica de Salta  
+        *Segundas Jornadas de Acustica y Audio*  
   
   - titulo: 'Sobre G.R.A.Pa'
     texto: |

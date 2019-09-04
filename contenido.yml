@@ -25,12 +25,25 @@ imagenes:
 elementos:
   - titulo: 'Pruebas'
     subtitulo: 'Áreas'
+    subtitulo: 'El patrimonio Acústico'
     texto: | 
-      Nullam sagittis dignissim nisi, sed pharetra enim ultrices vel. Donec pretium
-      fringilla nunc eget auctor. Ut sit amet lacus a ipsum rutrum pharetra. Donec
-      hendrerit a diam sed vestibulum. Etiam consectetur, est ac rutrum hendrerit,
-      mauris ligula rhoncus magna, interdum pulvinar augue nulla id diam. Sed massa
-      ipsum, gravida vitae mi sed, pulvinar dictum ipsum. Nunc iaculis semper lectus.
+      Nos referimos al Patrimonio Acústico como aquellos lugares que por sus
+      características morfológicas y ambientales involucran la experiencia auditiva
+      como parte inseparable del entorno. Estos aspectos Acústicos varían a lo largo
+      del tiempo como consecuencia del uso, las transformaciones ambientales y la
+      degradación de sus materiales. Es por esto que GRAPa busca retratar dichos
+      espacios a través de estudios Acústicos y Morfológicos que permitan preservar
+      sus características.
+      
+      Registramos dichas particularidades sonoras realizando medidas acústicas
+      específicas, Respuestas Impulso con micrófonos Ambisonics y fuentes
+      direccionales, buscando explorar todas las particularidades que cada espacio
+      ofrece a partir de estudios antropológicos de uso y entrevistas a quienes
+      visitan y utilizan constantemente dichos espacios. Estos registros (disponibles
+      on-line en www.proyectograpa.com) permiten reconstruir fielmente la acústica
+      mediante un sistema de parlantes o auriculares. Además de preservar la
+      sonoridad como Patrimonio Acústico, pueden ser utilizados como reverberadores
+      digitales en registros de cine y post producción de audio inmersivo.
     imagenes:
       - url: 'https://picsum.photos/1024/384?random=2'
       - url: 'https://picsum.photos/1024/512?blur=2&grayscale&random=2'

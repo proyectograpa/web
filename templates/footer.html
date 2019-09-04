@@ -7,7 +7,7 @@
       <ul class="navbar-nav">
 	{% for elemento in footer[ 'elementos' ] %}
         <li class="nav-item" >
-          <a class="nav-link px-3" href="#{{ elemento['url'] }}">
+          <a class="nav-link px-3" href="{{ elemento['url'] }}">
             {{ elemento['titulo'] | upper }}
           </a>
         </li>

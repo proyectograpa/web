@@ -19,7 +19,7 @@ abstract: |
   comunidad en general.
 
 imagenes:
-  - url: 'imgs/otronombre'
+  - url: 'imgs/otronombre.png'
   - url: 'https://picsum.photos/1024/384?blur=2&random=1'
   #- url: 'https://picsum.photos/512/512?grayscale&random=1'
 elementos:

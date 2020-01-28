@@ -6,8 +6,7 @@ correo: 'proyectograpa@gmail.com'
 titulo: 'Proyecto G.R.A.Pa'
 subtitulo: 'Proyecto G.R.A.Pa'
 texto: |
-
- Este es un proyecto de relevamiento, registro y promoción del Patrimonio
+  Este es un proyecto de relevamiento, registro y promoción del Patrimonio
   Acústico en relación a las prácticas culturales de distintas regiones de
   nuestro país.
 
@@ -21,16 +20,38 @@ texto: |
 
   Fomento de la creación musical para obras específicas de sitio 
 
-  Serie audiovisual de micro documentales recogiendo el trabajo realizado.
+  Serie audiovisual de micro documentales recogiendo el trabajo realizado. 
+
 abstract: |  
-  'Grupo de Relevamiento Acústico del Patrimonio'
+  Grupo de Relevamiento Acústico del Patrimonio
 
 imagenes:
   - url: 'imgs/logo_grapa.png'
   - url:
+
 elementos:
-  - titulo: 'Pruebas'
-    subtitulo: 'Áreas'
+  - titulo: 'Los sonidos en el espacio'
+    texto: | 
+      La creación y ejecución musical para occidente, está regida por parámetros establecidos en los
+      que, tanto los ejecutantes como los oyentes mantienen ubicaciones estáticas y
+      preestablecidas, como es el caso de un teatro, donde el público tiene su lugar en las butacas,
+      mientras los artistas permanecen en el escenario al frente.
+      Para poder comprender las prácticas musicales y rituales que nos anteceden, ajenas a estos
+      modos preestablecidos, es necesario vivenciarlas de la manera en que se recrean que, en la
+      gran mayoría de los casos, proponen experiencias inmersivas de escucha, en las que, por su
+      misma práctica, el espacio juega un rol fundamental ampliando la percepción sonora más allá
+      de los límites visuales.
+      En la búsqueda de proponer al espectador una experiencia vivencial más completa acústica y
+      visualmente, es que usamos la última tecnología para registrar estas músicas y rituales en
+      realidad virtual. El registro en audio y video inmersivo permite difundir dichas prácticas de un
+      modo mucho más próximo a una descripción emic, enmarcadas en su lugar de origen y
+      enriqueciendo la comprensión de la cosmovisión que las comunidades expresan en sus
+      prácticas culturales
+
+    imagenes:
+      - url: ''
+      - url: ''
+
     subtitulo: 'El patrimonio Acústico'
     texto: | 
       Nos referimos al Patrimonio Acústico como aquellos lugares que por sus
@@ -38,7 +59,7 @@ elementos:
       como parte inseparable del entorno. Estos aspectos Acústicos varían a lo largo
       del tiempo como consecuencia del uso, las transformaciones ambientales y la
       degradación de sus materiales. Por ello vemos necesario retratar dichos
-      espacios a través de estudios Acústicos y Morfológicos que permitan preservar
+      espacios a través de estudios acústicos y morfológicos que permitan preservar
       sus características.
       
       Registramos dichas particularidades sonoras realizando medidas acústicas
@@ -46,27 +67,55 @@ elementos:
       Ambisonics y fuentes direccionales. Asimismo, buscando explorar las 
       particularidades que cada espacio ofrece a partir de estudios antropológicos 
       de uso y entrevistas a quienes visitan y utilizan constantemente dichos espacios.
+    
+    imagenes:
+      - url: 'imgs/areas_1.jpg'
+      - url: 'imgs/areas_2.jpg'
+
+  - titulo: 'Registro Audivisual Documental'
+      texto: | 
+      Realizamos una serie documental en el que se recoge la experiencia del trabajo de
+      campo -los distintos estudios acústicos y  registros en realidad virtual-. 
+      El registro audiovisual muestra cómo la exploración de cada espacio -el estudio de su forma 
+      y sonoridad particular en cada caso-, es expuesta y potenciada al experimentarla 
+      a través del sonido producido por los intrumentos y voces propios de cada practica 
+      musical, en diálogo con el paisaje.
       
     imagenes:
-      - url: 'https://picsum.photos/1024/384?random=2'
-      - url: 'https://picsum.photos/1024/512?blur=2&grayscale&random=2'
-      - url: 'https://picsum.photos/1024/768?blur=1&random=2'
+      - url: 'imgs/docu_1.jpg'
+      - url: 'imgs/docu_2.jpg'
+
+  - titulo: 'Practicas Musicales en Realidad Virtual'
+    texto: | 
+
+      Usamos la última tecnología para registrar una serie de Coplas, interpretadas
+      por reconocidas copleras de la comunidad, en realidad virtual. El registro en
+      audio y video inmersivo permite difundir este canto acorde a su práctica y
+      enmarcado en su lugar de origen. De este modo, el espectador tiene una
+      experiencia vivencial más completa al poder situarse en el centro de la ronda.
+      La coplera Mariana Carrizo encuentra una profunda relación entre el canto con
+      caja y estos valles, en cuyos paisajes aprendió a cantar en la niñez. Por ello
+      fue indispensable su aporte a este proyecto.
+    imagenes:
+      - url: 'imgs/copla_rv.jpg'
 
     elementos:
       - titulo: 'Los Lugares y La Música'
         texto: |
           Los espacios donde realizar estos registros, más allá de tenerlos
           en cuenta por sus características acústicas y el paisaje sonoro que
-          los integran, en la mayoría de los casos únicas, están determinados
+          los integran -en la mayoría de los casos únicas-, están determinados
           por varios factores: el significante de uso que tiene y tuvo para
           la sociedad, su atractivo turístico y cultural y su accesibilidad.
               
-          A partir de un exhaustiva investigación, se decidió explorar
+          A partir de una exhaustiva investigación, se decidió explorar
           siete espacios, agrupados en tres regiones de la República
           Argentina, relacionando cada región con el canto, la música y las
           expresiones culturales que la integran.
         imagenes:
-         - url: 'https://picsum.photos/1024/768?random=3'
+          - url: 'imgs/lugares_1.jpg'
+          - irl: 'imgs/lugares_2.jpg'
+          - irl: 'imgs/lugares_3.jpg'
 
         elementos:
           - titulo: 'El Canto de la Copla'
@@ -78,86 +127,50 @@ elementos:
               Anfiteatro” en la Quebrada de las Conchas (Salta), Parques provinciales de
               Ischigualasto y Talampaya (San Juan) y “La quebrada de Humahuaca” en La Puna
               (Jujuy). 
-              
-              En todos ellos el “Canto de la Copla” encuentra una identidad propia como
-              práctica cultural, expresada de modo ritual en rondas improvisadas donde las
-              cajas y voces se alternan continuamente. Su forma de ejecución, muy ligada al
-              entorno natural en que se origina, es un claro exponente del Patrimonio
-              Acústico y Sonoro del Noroeste Argentino.
+
+              El canto de la Copla es  una de las expresiones identitarias de los valles
+              Calchaquíes, practicada por las comunidades Diaguitas desde tiempos ancestrales
+              y transmitida por vía oral. Su forma de ejecución está muy ligada al entorno
+              natural, por lo cual consideramos que es un claro exponente del Patrimonio
+              Acústico y Sonoro de la zona. Como práctica cultural, se expresa de modo ritual
+              en rondas improvisadas donde las cajas y voces se alternan continuamente.
+                  
             imagenes:
-             - url: 'https://picsum.photos/1024/768?random=4'
+             - url: 'imgs/coplas_1.jpg'
+             - url: 'imgs/coplas_2.jpg'
+             - url: 'imgs/coplas_3.jpg'
+
             elementos:
               - titulo: 'El Anfiteatro'
                 texto: |
                   A menos de 40 kilómetros de la ciudad de Cafayate sobre la ruta Nacional 68, a
-                  metros del Río de las Conchas, se encuentra El Anfiteatro, una de las paradas
-                  más frecuentadas por el turismo. Se trata de una formación rocosa semi-cerrada
-                  de forma pseudo-ojival esculpida por la erosión. Su forma particular y el
-                  material de sus paredes hacen que el Anfiteatro posea una cualidad acústica
-                  excepcional, reconocida en la región y que ha dado inicio, por ejemplo, al
-                  ciclo del “Concierto en la Montaña”, realizado anualmente en este espacio desde
-                  1991.
+                  metros del Río de las Conchas, se encuentra El Anfiteatro. Se trata de una 
+                  formación rocosa semi-cerrada de forma pseudo-ojival esculpida por la erosión. 
+                  Su forma particular y el material de sus paredes hacen que el Anfiteatro posea 
+                  una cualidad acústica excepcional, reconocida en la región y que ha dado inicio, 
+                  por ejemplo, al ciclo del “Concierto en la Montaña”, realizado anualmente 
+                  en este espacio desde1991.
                   
                   Registramos las particularidades sonoras del Anfiteatro realizando medidas
                   acústicas específicas: Respuestas Impulso en Ambisonics y binaurales con
-                  fuentes direccionales. Estos registros (disponibles on-line) permiten
-                  reconstruir fielmente la acústica del Anfiteatro mediante un sistema de
-                  parlantes o auriculares. Además de preservar el sonido del Anfiteatro como
-                  Patrimonio Acústico, pueden ser utilizados como reverberadores digitales en
-                  registros de cine y realidad virtual.
+                  fuentes direccionales. Estos registros  permiten reconstruir fielmente 
+                  la acústica del Anfiteatro mediante un sistema de parlantes o auriculares. 
+                  Además de preservar el sonido del Anfiteatro como Patrimonio Acústico, pueden 
+                  ser utilizados como reverberadores digitales en registros de cine y realidad virtual.
                 imagenes:
-                 - url: 'https://picsum.photos/1024/384'
-              - titulo: 'La Copla en Realidad Virtual'
-                texto: | 
-                  El canto de la Copla es  una de las expresiones identitarias de los valles
-                  Calchaquíes, practicada por las comunidades Diaguitas desde tiempos ancestrales
-                  y transmitida por vía oral. Su forma de ejecución está muy ligada al entorno
-                  natural, por lo cual consideramos que es un claro exponente del Patrimonio
-                  Acústico y Sonoro de la zona. Como práctica cultural, se expresa de modo ritual
-                  en rondas improvisadas donde las cajas y voces se alternan continuamente.
-                  
-                  Usamos la última tecnología para registrar una serie de Coplas, interpretadas
-                  por reconocidas copleras de la comunidad, en realidad virtual. El registro en
-                  audio y video inmersivo permite difundir este canto acorde a su práctica y
-                  enmarcado en su lugar de origen. De este modo, el espectador tiene una
-                  experiencia vivencial más completa al poder situarse en el centro de la ronda.
-                  La coplera Mariana Carrizo encuentra una profunda relación entre el canto con
-                  caja y estos valles, en cuyos paisajes aprendió a cantar en la niñez. Por ello
-                  fue indispensable su aporte a este proyecto.
-                imagenes:
-                 - url: 'https://picsum.photos/1024/768?random=5'
-              - titulo: 'El Documental'
-                texto: | 
-                  Realizamos un documental en el que se recoge la experiencia del trabajo de
-                  campo - el estudio acústico y los registros de las coplas en realidad virtual -
-                  llevado a cabo en abril de 2018 en el Anfiteatro. El documental muestra cómo la
-                  exploración de este espacio -el estudio de su forma y la sonoridad particular
-                  que esta genera-, es expuesta y potenciada al experimentarla a través del
-                  sonido producido por las cajas y voces propias de La Copla, un canto ancestral
-                  que se origina en diálogo con la montaña y el paisaje de la zona.
+                 - url: 'imgs/anfi_1.jpg'
+                 - url: 'imgs/anfi_2.jpg'
 
-                  Sinopsis: Muestra el proceso de trabajo de un grupo de investigadores y la Coplera
-                  Mariana Carrizo en el Anfiteatro Natural de la Quebrada de las conchas, durante
-                  unas jornadas de registro y promoción del Patrimonio Acústico y Sonoro de los
-                  Valles Calchaquíes en la provincia de Salta. Usando la última tecnología para
-                  registrar una serie de Coplas en Realidad Virtual, interpretadas por
-                  reconocidas copleras de los poblados de San Carlos, Cafayate y Animaná, fue
-                  posible encontrar una profunda relación entre el canto con caja y estos valles,
-                  donde la música y el espacio confluyen de un modo único.
-                  
-                  
-                imagenes:
-                 - url: 'https://picsum.photos/1024/768?random=6'
-          - titulo: 'La Música Tehuelche'
+          - titulo: 'La Música Araucana'
             subtitulo: 'Región Cuyo | Patagónica'
             texto: |
               Regiones áridas y de estepas, tanto el Cuyo como la Patagonia, se reconocen por
               sus climas fríos y secos. De esta zonas se decidió trabajar con formaciones
               cavernarias cuyos atributos acústicos se distinguen de otros espacios en
-              Argentina. En particular serán estudiados dos formaciones cavernarias
+              Argentina. En particular serán estudiadas dos formaciones cavernarias
               significativas de cada región: la “Caverna de las Brujas” en el Departamento de
               Malargüe (Mendoza) y la “Caverna de las Manos” en el Cañadón del Río Pinturas
-              (Santa Cruz). 
+              (Santa Cruz).
               
               Estas regiones fueron habitadas por culturas Huarpe y Mapuche, quienes
               manifestaban una variedad de cantos y músicas recreativas y ligadas a sus
@@ -168,9 +181,26 @@ elementos:
               guanaco y cerdas de caballo), el Rambo (aerófono hecho de un fémur de guanaco)
               y percusivos como el Aple, El Chelper y el sonajero.
             imagenes:
-              - alt: 'No hay mucho, pone una foto'
-                url: 'https://picsum.photos/1024/768?random=7'
-              - url: 'https://picsum.photos/1024/364?random=4'
+                url: 'imgs/cuyo_1.jpg'
+              - url: 'imgs/cuyo_2.jpg'
+
+          - titulo: 'La Música Qom'
+            subtitulo: 'Región Noreste'
+            texto: |
+              De esta región se propone estudiar dos Parques Nacionales conocido como: “El Impenetrable”
+              (Chaco) e “Iguazú” (Misiones), ambos se caracterizan por su fauna y flora, donde pueden
+              encontrarse cientos de especies hoy consideradas en vías de extinción. De este modo, sus
+              Áreas Protegidas gozan de un paisaje sonoro único en Argentina.
+              
+              Culturalmente, estos espacios fueron habitados por comunidades entre las que se destacan los
+              Guaycurúes, conocidos como Qom. Sus prácticas musicales se expresan en convivencia con el
+              paisaje sonoro que le da origen. Se destacan por cantos colectivos y solistas acompañados por
+              instrumentos como el “n’viqué” (especie de violín de una sola cuerda) e instrumentos
+              percusivos como vainas de algarrobos, pezuñas, maracas y sonajeros de calabazas como el
+              “cartexetẽ”.
+            imagenes:
+                url: ''
+
             #elementos:
             #  - titulo: 'Video / Docu'
             #    imagenes:

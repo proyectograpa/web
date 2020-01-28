@@ -73,7 +73,7 @@ elementos:
       - url: 'imgs/areas_2.jpg'
 
   - titulo: 'Registro Audivisual Documental'
-      texto: | 
+    texto: | 
       Realizamos una serie documental en el que se recoge la experiencia del trabajo de
       campo -los distintos estudios acústicos y  registros en realidad virtual-. 
       El registro audiovisual muestra cómo la exploración de cada espacio -el estudio de su forma 
@@ -181,7 +181,7 @@ elementos:
               guanaco y cerdas de caballo), el Rambo (aerófono hecho de un fémur de guanaco)
               y percusivos como el Aple, El Chelper y el sonajero.
             imagenes:
-                url: 'imgs/cuyo_1.jpg'
+              - url: 'imgs/cuyo_1.jpg'
               - url: 'imgs/cuyo_2.jpg'
 
           - titulo: 'La Música Qom'

@@ -6,18 +6,24 @@ correo: 'proyectograpa@gmail.com'
 titulo: 'Proyecto G.R.A.Pa'
 subtitulo: 'Proyecto G.R.A.Pa'
 texto: |
- 'Grupo de Relevamiento Acústico del Patrimonio'
-abstract: |  
-  Este es un proyecto de relevamiento, registro y promoción del Patrimonio
+
+ Este es un proyecto de relevamiento, registro y promoción del Patrimonio
   Acústico en relación a las prácticas culturales de distintas regiones de
-  nuestro país. 
+  nuestro país.
+
   Proyecto GRAPa está conformado por una serie de trabajos individuales
   interrelacionados que permiten estudiar y promocionar los distintos
-  espacios: 
+  espacios:
+
   Relevamientos acústicos en audio 3D 
+
   Registros musicales y/o rituales patrimoniales en Realidad Virtual 
+
   Fomento de la creación musical para obras específicas de sitio 
+
   Serie audiovisual de micro documentales recogiendo el trabajo realizado.
+abstract: |  
+  'Grupo de Relevamiento Acústico del Patrimonio'
 
 imagenes:
   - url: 'imgs/logo_grapa.png'
@@ -31,19 +37,16 @@ elementos:
       características morfológicas y ambientales involucran la experiencia auditiva
       como parte inseparable del entorno. Estos aspectos Acústicos varían a lo largo
       del tiempo como consecuencia del uso, las transformaciones ambientales y la
-      degradación de sus materiales. Es por esto que GRAPa busca retratar dichos
+      degradación de sus materiales. Por ello vemos necesario retratar dichos
       espacios a través de estudios Acústicos y Morfológicos que permitan preservar
       sus características.
       
       Registramos dichas particularidades sonoras realizando medidas acústicas
-      específicas, Respuestas Impulso con micrófonos Ambisonics y fuentes
-      direccionales, buscando explorar todas las particularidades que cada espacio
-      ofrece a partir de estudios antropológicos de uso y entrevistas a quienes
-      visitan y utilizan constantemente dichos espacios. Estos registros (disponibles
-      on-line en www.proyectograpa.com) permiten reconstruir fielmente la acústica
-      mediante un sistema de parlantes o auriculares. Además de preservar la
-      sonoridad como Patrimonio Acústico, pueden ser utilizados como reverberadores
-      digitales en registros de cine y post producción de audio inmersivo.
+      específicas mediante Respuestas Impulso (disponibles on-line) con micrófonos 
+      Ambisonics y fuentes direccionales. Asimismo, buscando explorar las 
+      particularidades que cada espacio ofrece a partir de estudios antropológicos 
+      de uso y entrevistas a quienes visitan y utilizan constantemente dichos espacios.
+      
     imagenes:
       - url: 'https://picsum.photos/1024/384?random=2'
       - url: 'https://picsum.photos/1024/512?blur=2&grayscale&random=2'

@@ -31,28 +31,34 @@ imagenes:
 
 elementos:
   - titulo: 'Los sonidos en el espacio'
-    texto: | 
-      La creación y ejecución musical para occidente, está regida por parámetros establecidos en los
-      que, tanto los ejecutantes como los oyentes mantienen ubicaciones estáticas y
-      preestablecidas, como es el caso de un teatro, donde el público tiene su lugar en las butacas,
-      mientras los artistas permanecen en el escenario al frente.
-      Para poder comprender las prácticas musicales y rituales que nos anteceden, ajenas a estos
-      modos preestablecidos, es necesario vivenciarlas de la manera en que se recrean que, en la
-      gran mayoría de los casos, proponen experiencias inmersivas de escucha, en las que, por su
-      misma práctica, el espacio juega un rol fundamental ampliando la percepción sonora más allá
-      de los límites visuales.
-      En la búsqueda de proponer al espectador una experiencia vivencial más completa acústica y
-      visualmente, es que usamos la última tecnología para registrar estas músicas y rituales en
-      realidad virtual. El registro en audio y video inmersivo permite difundir dichas prácticas de un
-      modo mucho más próximo a una descripción emic, enmarcadas en su lugar de origen y
-      enriqueciendo la comprensión de la cosmovisión que las comunidades expresan en sus
-      prácticas culturales
+    
+    # FIJATE DAMI Q "texto" ESTABA REPETIDO EN ESTE ELEMENTO
+    # POR ENDE TE MUESTRA SOLO EL ULTIMO QUE ESTA MAS ABAJO
+    # texto: | 
+    #   La creación y ejecución musical para occidente, está regida por parámetros establecidos en los
+    #   que, tanto los ejecutantes como los oyentes mantienen ubicaciones estáticas y
+    #   preestablecidas, como es el caso de un teatro, donde el público tiene su lugar en las butacas,
+    #   mientras los artistas permanecen en el escenario al frente.
+    #   Para poder comprender las prácticas musicales y rituales que nos anteceden, ajenas a estos
+    #   modos preestablecidos, es necesario vivenciarlas de la manera en que se recrean que, en la
+    #   gran mayoría de los casos, proponen experiencias inmersivas de escucha, en las que, por su
+    #   misma práctica, el espacio juega un rol fundamental ampliando la percepción sonora más allá
+    #   de los límites visuales.
+
+    #   En la búsqueda de proponer al espectador una experiencia vivencial más completa acústica y
+    #   visualmente, es que usamos la última tecnología para registrar estas músicas y rituales en
+    #   realidad virtual. El registro en audio y video inmersivo permite difundir dichas prácticas de un
+    #   modo mucho más próximo a una descripción emic, enmarcadas en su lugar de origen y
+    #   enriqueciendo la comprensión de la cosmovisión que las comunidades expresan en sus
+    #   prácticas culturales
 
     imagenes:
       - url: ''
       - url: ''
 
     subtitulo: 'El patrimonio Acústico'
+    # TE DEJO ACA UN EJEMPLO DE COMO INSERTAR VIDEOS EN EL CUERPO DE TEXTO
+    # HACERLOS RESPONSIVE ES MEDIO PELOTAZO, DESP LO PODEMOS VER PERO....
     texto: | 
       Nos referimos al Patrimonio Acústico como aquellos lugares que por sus
       características morfológicas y ambientales involucran la experiencia auditiva
@@ -61,6 +67,15 @@ elementos:
       degradación de sus materiales. Por ello vemos necesario retratar dichos
       espacios a través de estudios acústicos y morfológicos que permitan preservar
       sus características.
+
+      <iframe
+        src="https://player.vimeo.com/video/387688481"
+        width="320"
+        height="180"
+        frameborder="0"
+        allow="autoplay; fullscreen"
+        allowfullscreen>
+      </iframe>
       
       Registramos dichas particularidades sonoras realizando medidas acústicas
       específicas mediante Respuestas Impulso (disponibles on-line) con micrófonos 
@@ -306,9 +321,4 @@ footer:
       url: '#'
     - titulo: 'Facebook'
       url: '#'
-
-
-
-
-
 

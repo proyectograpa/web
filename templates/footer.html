@@ -1,0 +1,20 @@
+<footer id="footer">
+
+  <nav class="navbar navbar-expand-md py-3">
+  
+    <div class="collapse navbar-collapse justify-content-md-center" id="navbarSupportedContent">
+  
+      <ul class="navbar-nav">
+	{% for elemento in footer[ 'elementos' ] %}
+        <li class="nav-item" >
+          <a class="nav-link px-3" href="{{ elemento['url'] }}">
+            {{ elemento['titulo'] | upper }}
+          </a>
+        </li>
+        {% endfor %}
+      </ul>
+  
+    </div>
+  
+  </nav>
+</footer>

@@ -51,7 +51,7 @@ elementos:
       particularidades que cada espacio ofrece a partir de estudios antropológicos 
       de uso y entrevistas a quienes visitan y utilizan constantemente dichos espacios.
     
-    <iframe
+      <iframe
         src="https://player.vimeo.com/video/387688481"
         width="640"
         height="360"
@@ -94,23 +94,23 @@ elementos:
       - url: 'imgs/copla_rv_2.jpg'
 
     elementos:
-    - titulo: 'Los Lugares y La Música'
-      texto: |
-        Los espacios donde realizar estos registros, más allá de tenerlos
-        en cuenta por sus características acústicas y el paisaje sonoro que
-        los integran -en la mayoría de los casos únicas-, están determinados
-        por varios factores: el significante de uso que tiene y tuvo para
-        la sociedad, su atractivo turístico y cultural y su accesibilidad.
-              
-        A partir de una exhaustiva investigación, se decidió explorar
-        siete espacios, agrupados en tres regiones de la República
-        Argentina, relacionando cada región con el canto, la música y las
-        expresiones culturales que la integran.
-        
-      imagenes:
-        - url: 'imgs/lugares_1.jpg'
-        - irl: 'imgs/lugares_2.jpg'
-        - irl: 'imgs/lugares_3.jpg'
+      - titulo: 'Los Lugares y La Música'
+        texto: |
+          Los espacios donde realizar estos registros, más allá de tenerlos
+          en cuenta por sus características acústicas y el paisaje sonoro que
+          los integran -en la mayoría de los casos únicas-, están determinados
+          por varios factores: el significante de uso que tiene y tuvo para
+          la sociedad, su atractivo turístico y cultural y su accesibilidad.
+                
+          A partir de una exhaustiva investigación, se decidió explorar
+          siete espacios, agrupados en tres regiones de la República
+          Argentina, relacionando cada región con el canto, la música y las
+          expresiones culturales que la integran.
+          
+        imagenes:
+          - url: 'imgs/lugares_1.jpg'
+          - url: 'imgs/lugares_2.jpg'
+          - url: 'imgs/lugares_3.jpg'
 
         elementos:
           - titulo: 'El Canto de la Copla'

@@ -1,0 +1,43 @@
+<head>
+  <meta charset="utf-8"/>
+  <meta name="keywords" content="{{ contenido['tags'] }}">
+  <meta name="description" content="{{ contenido['subtitulo'] }}">
+  <meta name="subject" content="{{ contenido['subtitulo'] }}">
+  <meta name="copyright"content="{{ contenido['titulo'] }}">
+  <meta name="language" content="ES">
+  <meta name="robots" content="index,follow">
+  <meta name="revised" content="{{now()}}" >
+  <meta name="abstract" content="{{ contenido['abstract'] }} ">
+  <meta name="topic" content="{{ contenido['subtitulo'] }}">
+  <meta name="summary" content="{{ contenido['abstract'] }}">
+  <meta name="Classification" content="Education">
+  <meta name="author" content="Lisandro Fernández, lifofernandez@gmail, labsl.atamvirtual.com">
+  <meta name="designer" content="Lisandro Fernández, lifofernandez@gmail, labsl.atamvirtual.com">
+  <meta name="copyright" content="{{ contenido['titulo'] }}">
+  <meta name="reply-to" content="{{ contenido['correo'] }}">
+  <meta name="owner" content="{{ contenido['titulo'] }}">
+  <meta name="url" content="{{ contenido['dominio'] }}">
+  <meta name="identifier-URL" content="{{ contenido['dominio'] }}">
+  <meta name="directory" content="submission">
+  <meta name="category" content="{{ contenido['tags'] }}">
+  <meta name="coverage" content="Worldwide">
+  <meta name="distribution" content="Global">
+  <meta name="rating" content="General">
+  <meta name="revisit-after" content="7 days">
+  <meta http-equiv="Expires" content="0">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Cache-Control" content="no-cache">
+
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Quicksand|Montserrat&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+
+  <link rel="icon" type="image/jpg" href="{{ contenido['icon']}}" >
+
+  {% block head %}
+  <title>
+    {{ contenido['titulo'] }}
+  </title>
+  {% endblock %}
+
+</head>

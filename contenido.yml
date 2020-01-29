@@ -26,39 +26,16 @@ abstract: |
   Grupo de Relevamiento Acústico del Patrimonio
 
 imagenes:
-  - url: 'imgs/logo_grapa.png'
-  - url:
+  - url: 'imgs/port.jpg'
 
 elementos:
   - titulo: 'Los sonidos en el espacio'
-    
-    # FIJATE DAMI Q "texto" ESTABA REPETIDO EN ESTE ELEMENTO
-    # POR ENDE TE MUESTRA SOLO EL ULTIMO QUE ESTA MAS ABAJO
-    # texto: | 
-    #   La creación y ejecución musical para occidente, está regida por parámetros establecidos en los
-    #   que, tanto los ejecutantes como los oyentes mantienen ubicaciones estáticas y
-    #   preestablecidas, como es el caso de un teatro, donde el público tiene su lugar en las butacas,
-    #   mientras los artistas permanecen en el escenario al frente.
-    #   Para poder comprender las prácticas musicales y rituales que nos anteceden, ajenas a estos
-    #   modos preestablecidos, es necesario vivenciarlas de la manera en que se recrean que, en la
-    #   gran mayoría de los casos, proponen experiencias inmersivas de escucha, en las que, por su
-    #   misma práctica, el espacio juega un rol fundamental ampliando la percepción sonora más allá
-    #   de los límites visuales.
-
-    #   En la búsqueda de proponer al espectador una experiencia vivencial más completa acústica y
-    #   visualmente, es que usamos la última tecnología para registrar estas músicas y rituales en
-    #   realidad virtual. El registro en audio y video inmersivo permite difundir dichas prácticas de un
-    #   modo mucho más próximo a una descripción emic, enmarcadas en su lugar de origen y
-    #   enriqueciendo la comprensión de la cosmovisión que las comunidades expresan en sus
-    #   prácticas culturales
 
     imagenes:
-      - url: ''
-      - url: ''
+      - url: 'imgs/s_e_1.jpg'
+      - url: 'imgs/s_e_2.jpg'
 
     subtitulo: 'El patrimonio Acústico'
-    # TE DEJO ACA UN EJEMPLO DE COMO INSERTAR VIDEOS EN EL CUERPO DE TEXTO
-    # HACERLOS RESPONSIVE ES MEDIO PELOTAZO, DESP LO PODEMOS VER PERO....
     texto: | 
       Nos referimos al Patrimonio Acústico como aquellos lugares que por sus
       características morfológicas y ambientales involucran la experiencia auditiva
@@ -67,15 +44,6 @@ elementos:
       degradación de sus materiales. Por ello vemos necesario retratar dichos
       espacios a través de estudios acústicos y morfológicos que permitan preservar
       sus características.
-
-      <iframe
-        src="https://player.vimeo.com/video/387688481"
-        width="320"
-        height="180"
-        frameborder="0"
-        allow="autoplay; fullscreen"
-        allowfullscreen>
-      </iframe>
       
       Registramos dichas particularidades sonoras realizando medidas acústicas
       específicas mediante Respuestas Impulso (disponibles on-line) con micrófonos 
@@ -83,6 +51,15 @@ elementos:
       particularidades que cada espacio ofrece a partir de estudios antropológicos 
       de uso y entrevistas a quienes visitan y utilizan constantemente dichos espacios.
     
+    <iframe
+        src="https://player.vimeo.com/video/387688481"
+        width="640"
+        height="360"
+        frameborder="0"
+        allow="autoplay; fullscreen"
+        allowfullscreen>
+      </iframe>
+
     imagenes:
       - url: 'imgs/areas_1.jpg'
       - url: 'imgs/areas_2.jpg'
@@ -99,6 +76,7 @@ elementos:
     imagenes:
       - url: 'imgs/docu_1.jpg'
       - url: 'imgs/docu_2.jpg'
+      - url: 'imgs/docu_3.jpg'
 
   - titulo: 'Practicas Musicales en Realidad Virtual'
     texto: | 
@@ -112,25 +90,27 @@ elementos:
       caja y estos valles, en cuyos paisajes aprendió a cantar en la niñez. Por ello
       fue indispensable su aporte a este proyecto.
     imagenes:
-      - url: 'imgs/copla_rv.jpg'
+      - url: 'imgs/copla_rv_1.jpg'
+      - url: 'imgs/copla_rv_2.jpg'
 
     elementos:
-      - titulo: 'Los Lugares y La Música'
-        texto: |
-          Los espacios donde realizar estos registros, más allá de tenerlos
-          en cuenta por sus características acústicas y el paisaje sonoro que
-          los integran -en la mayoría de los casos únicas-, están determinados
-          por varios factores: el significante de uso que tiene y tuvo para
-          la sociedad, su atractivo turístico y cultural y su accesibilidad.
+    - titulo: 'Los Lugares y La Música'
+      texto: |
+        Los espacios donde realizar estos registros, más allá de tenerlos
+        en cuenta por sus características acústicas y el paisaje sonoro que
+        los integran -en la mayoría de los casos únicas-, están determinados
+        por varios factores: el significante de uso que tiene y tuvo para
+        la sociedad, su atractivo turístico y cultural y su accesibilidad.
               
-          A partir de una exhaustiva investigación, se decidió explorar
-          siete espacios, agrupados en tres regiones de la República
-          Argentina, relacionando cada región con el canto, la música y las
-          expresiones culturales que la integran.
-        imagenes:
-          - url: 'imgs/lugares_1.jpg'
-          - irl: 'imgs/lugares_2.jpg'
-          - irl: 'imgs/lugares_3.jpg'
+        A partir de una exhaustiva investigación, se decidió explorar
+        siete espacios, agrupados en tres regiones de la República
+        Argentina, relacionando cada región con el canto, la música y las
+        expresiones culturales que la integran.
+        
+      imagenes:
+        - url: 'imgs/lugares_1.jpg'
+        - irl: 'imgs/lugares_2.jpg'
+        - irl: 'imgs/lugares_3.jpg'
 
         elementos:
           - titulo: 'El Canto de la Copla'
@@ -214,15 +194,9 @@ elementos:
               percusivos como vainas de algarrobos, pezuñas, maracas y sonajeros de calabazas como el
               “cartexetẽ”.
             imagenes:
-                url: ''
+                url: 'imgs/nea_1.png'
+                url: 'imgs/nea_2.png'
 
-            #elementos:
-            #  - titulo: 'Video / Docu'
-            #    imagenes:
-            #      - alt: 'No hay mucho, pone una foto'
-            #        url: 'https://picsum.photos/1024/768?random=5'
-            #    texto: | 
-            #      FALTA
   - titulo: 'Impacto Social'
     elementos:
     - titulo: 'Publicaciones'

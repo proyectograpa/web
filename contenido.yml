@@ -1,5 +1,5 @@
-logo: 'https://picsum.photos/100/100'
-icon: 'https://picsum.photos/16/16?random=2'
+logo: 'imgs/logo_grapa_100x100.png'
+icon: 'imgs/logo_grapa_100x100.png'
 dominio: 'http://proyectograpa.com.ar'
 tags: 'acústica, investigación, relevamiento, patrimonio, sonido, '
 correo: 'proyectograpa@gmail.com'
@@ -117,8 +117,8 @@ elementos:
       https://mega.nz/#F!kOgSmQxS!eMNNM3xpyBfvPYxj6QZsOQ)**  
 
     imagenes:
-      - url: 'ra1.jpg'
-      - url: 'ra2.jpg'
+      - url: 'imgs/ra1.jpg'
+      - url: 'imgs/ra2.jpg'
 
   - titulo: 'Registro Audivisual Documental'
     texto: | 
@@ -217,7 +217,6 @@ elementos:
             imagenes:
              - url: 'imgs/coplas_1.jpg'
              - url: 'imgs/coplas_2.jpg'
-             - url: 'imgs/coplas_3.jpg'
 
             elementos:
               - subtitulo: 'El Anfiteatro'
@@ -282,8 +281,8 @@ elementos:
 
 
                 imagenes:
-                 - url: 'caverna_1.jpg'
-                 - url: 'caverna_2.jpg'
+                 - url: 'imgs/caverna_1.jpg'
+                 - url: 'imgs/caverna_2.jpg'
 
           - titulo: 'Región Noreste'
             subtitulo: 'La Música Qom'
@@ -303,6 +302,84 @@ elementos:
             imagenes:
               - url: 'imgs/nea_1.jpg'
               - url: 'imgs/nea_2.jpg'
+
+  - titulo: 'Sobre Proyecto G.R.A.Pa'
+    texto: |
+      **Proyecto G.R.A.Pa.** se formó en el año 2017 en base a una cooperación entre la
+      Universidad Nacional de Quilmes (UNQ) y la Universidad Católica de Salta
+      (UCaSal) con el objetivo de realizar un relevamiento de la acústica del
+      Anfiteatro Natural de la Quebrada de las Conchas. En el 2018 ampliamos los
+      objetivos del proyecto al relacionarlo con el canto de la Copla a partir del
+      entorno sonoro propio de sus orígenes. Contamos también con la participación
+      activa de la coplera salteña Mariana Carrizo, artista comprometida en la lucha
+      por la preservación y revalorización de este canto ancestral. A partir de allí,
+      iniciamos un proyecto de investigación y producción de contenidos inmersivos en
+      los cuales la relación entre las músicas nativas y sus entornos acústicos
+      naturales se exprese con claridad. Nuestra finalidad es documentar el
+      Patrimonio Acústico, que entendemos abarca tanto la música en sí misma como el
+      entorno acústico en el que es creada.
+    imagenes:
+      - url: 'imgs/port.jpg' 
+
+  - titulo: 'Francisco Durante'
+    texto: |
+      **[Francisco Durante](
+        https://www.damianpayo.com)** es Licenciado en Música y Tecnología (UNQ) y Maestro Mayor
+      de Obras dedicado a la investigación, diseño y construcción con materiales
+      naturales y permacultura. Trabaja como compositor en diferentes proyectos
+      artísticos multidisciplinarios en donde se vinculan las músicas tradicionales
+      con nuevas tecnologías y el espacio. 
+      
+    imagenes:
+      - url: 'imgs/francisco_durante.jpg' 
+
+  - titulo: 'Damian Payo'
+    texto: |
+       **[Damian Payo](
+        https://www.damianpayo.com)** es Licenciado en Música y Tecnología (UNQ), actualmente se
+        desempeña como docente e investigador en la Universidad Católica de Salta en la
+        ciudad de Salta Capital desde donde ha profundizado en el estudio de Acústica
+        de Salas no convencionales y organizado Jornadas y Seminarios abocados al área
+        de la Acústica y el Audio Digital. 
+    imagenes:
+      - url: 'imgs/damian_payo.jpg' 
+
+  - titulo: 'Manuel Eguía'
+    texto: |      
+        **[Manuel Eguía](
+        https://www.damianpayo.com)** es Doctor en Física (UBA) e investigador de CONICET y UNQ, donde
+        dirige el Laboratorio de Acústica y Percepción Sonora (LAPSo), grupo donde ha
+        realizado numerosos trabajos de investigación sobre percepción espacial
+        auditiva y dispositivos que modifican el campo sonoro con medios puramente
+        acústicos.
+    imagenes:
+     - url: 'imgs/manuel_eguia.jpg' 
+
+  - titulo: 'Mauro Zannoli'
+    texto: |  
+        **[Mauro Zannoli](
+        https://www.damianpayo.com)** es Licenciado en Composición con Medios Electroacústicos (UNQ),
+        compositor, programador y diseñador sonoro. En su trabajo tiene un fuerte
+        interés en la utilización del espacio como un parámetro más del sonido tanto en
+        música como en el arte sonoro. Ha montado sistemas Ambisonics en varios teatros
+        para obras específicas.
+    imagenes:
+      - url: 'imgs/mauro_zannoli.jpg' 
+      
+  - titulo: 'Lisandro Fernandez'
+    texto: |
+      aqui la data
+    imagenes:
+      - url: 'imgs/lisandro_fernandez.jpg' 
+  
+  - titulo: 'Juan Barthe'
+    texto: |
+      aqui la data
+    imagenes:
+      - url: 'imgs/juan_barthe.jpg' 
+    elemetos:
+      - titulo: 'Apoyos Institucionales'
+        texto: 'Logos y links'
 
   - titulo: 'Impacto Social'
     elementos:
@@ -365,60 +442,6 @@ elementos:
         Universidad Politécnica de Madrid
         *Grupo de Aplicaciones Multimedia y Acústica*  
 
-  - titulo: 'Sobre Proyecto G.R.A.Pa'
-    texto: |
-      **Proyecto G.R.A.Pa.** se formó en el año 2017 en base a una cooperación entre la
-      Universidad Nacional de Quilmes (UNQ) y la Universidad Católica de Salta
-      (UCaSal) con el objetivo de realizar un relevamiento de la acústica del
-      Anfiteatro Natural de la Quebrada de las Conchas. En el 2018 ampliamos los
-      objetivos del proyecto al relacionarlo con el canto de la Copla a partir del
-      entorno sonoro propio de sus orígenes. Contamos también con la participación
-      activa de la coplera salteña Mariana Carrizo, artista comprometida en la lucha
-      por la preservación y revalorización de este canto ancestral. A partir de allí,
-      iniciamos un proyecto de investigación y producción de contenidos inmersivos en
-      los cuales la relación entre las músicas nativas y sus entornos acústicos
-      naturales se exprese con claridad. Nuestra finalidad es documentar el
-      Patrimonio Acústico, que entendemos abarca tanto la música en sí misma como el
-      entorno acústico en el que es creada.
-
-      **[Francisco Durante](
-        https://www.damianpayo.com)** es Licenciado en Música y Tecnología (UNQ) y Maestro Mayor
-      de Obras dedicado a la investigación, diseño y construcción con materiales
-      naturales y permacultura. Trabaja como compositor en diferentes proyectos
-      artísticos multidisciplinarios en donde se vinculan las músicas tradicionales
-      con nuevas tecnologías y el espacio. 
-      
-       **[Damian Payo](
-        https://www.damianpayo.com)** es Licenciado en Música y Tecnología (UNQ), actualmente se
-      desempeña como docente e investigador en la Universidad Católica de Salta en la
-      ciudad de Salta Capital desde donde ha profundizado en el estudio de Acústica
-      de Salas no convencionales y organizado Jornadas y Seminarios abocados al área
-      de la Acústica y el Audio Digital. 
-      
-      **[Manuel Eguía](
-        https://www.damianpayo.com)** es Doctor en Física (UBA) e investigador de CONICET y UNQ, donde
-      dirige el Laboratorio de Acústica y Percepción Sonora (LAPSo), grupo donde ha
-      realizado numerosos trabajos de investigación sobre percepción espacial
-      auditiva y dispositivos que modifican el campo sonoro con medios puramente
-      acústicos.
-      
-      **[Mauro Zannoli](
-        https://www.damianpayo.com)** es Licenciado en Composición con Medios Electroacústicos (UNQ),
-      compositor, programador y diseñador sonoro. En su trabajo tiene un fuerte
-      interés en la utilización del espacio como un parámetro más del sonido tanto en
-      música como en el arte sonoro. Ha montado sistemas Ambisonics en varios teatros
-      para obras específicas.
-
-    imagenes:
-      - url: 'imgs/port.jpg'
-      - url: 'imgs/port.jpg'
-      - url: 'imgs/port.jpg'
-      
-
-
-    elemetos:
-      - titulo: 'Apoyos Institucionales'
-        texto: 'Logos y links'
 footer: 
   elementos : 
     - titulo: 'correo'

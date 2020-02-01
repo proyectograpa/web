@@ -83,6 +83,43 @@ elementos:
       - url: 'imgs/areas_1.jpg'
       - url: 'imgs/areas_2.jpg'
 
+  - titulo: 'Relevamientos Acústicos'
+    texto: | 
+      En cada espacio fueron realizadas una serie de relevamientos 
+      tomograficos y acústicos a fin de datar, lo mas fielmente posible
+      las particularidades en cada formación y las posiciones de cada 
+      emisor y receptor.
+
+      Debido a las características topográficas de estos espacios 
+      (gran irregularidad de sus paredes y suelo con diferencias de nivel) 
+      es necesario realizar grillas rombales a una altura fija que permita 
+      relevar las distintas posiciones de la fuente y el receptor con una 
+      referencia clara, abarcando cuatro puntos extremos del recinto, 
+      utilizando como herramienta de replanteo un nivel topográfico. 
+    
+      <iframe
+        src="https://player.vimeo.com/video/387687552"
+        width="540"
+        height="260"
+        frameborder="0"
+        allow="autoplay; fullscreen"
+        allowfullscreen>
+      </iframe>
+
+      De este modo queda a dispocision un banco de Respuestas Impulso (IR's)
+      en Ambisonics (Formato B) para ser utilizadas en post producción de audio,
+      con fines educativo o de cualquier otro indole:
+
+      **[Anfiteatro Natural de la Quebrada de las Conchas](
+        https://mega.nz/#F!tS522CaB!7XyKDIiknovOkDT4XnnrwA)**  
+
+      **[Caverna de las Brujas - Sala de la Virgen](
+      https://mega.nz/#F!kOgSmQxS!eMNNM3xpyBfvPYxj6QZsOQ)**  
+
+    imagenes:
+      - url: 'ra1.jpg'
+      - url: 'ra2.jpg'
+
   - titulo: 'Registro Audivisual Documental'
     texto: | 
       Realizamos una serie documental en el que se recoge la experiencia del trabajo de
@@ -230,11 +267,23 @@ elementos:
             elementos:
               - subtitulo: 'Caverna de las Brujas'
                 texto: |
-                  A menos de 40 kilómetros ....
+                  Es una formación cavernaria cerrada, conocida como “Caverna de Las Brujas”, 
+                  ubicada a 8 km al norte de la Ruta Nacional N° 40, en las cercanías de la 
+                  localidad de Bardas Blancas en el Valle del río Grande, al Sur de la 
+                  provincia de Mendoza, en el departamento de Malargüe.
+
+                  Nuestro estudio estuvo centrado en la sala más amplia y accesible, 
+                  reconocida por sus características acústicas y el paso de comunidades 
+                  preexistentes llamada “Sala de la Virgen”. 
+
+                  Su acceso cerrado, de aproximadamente 15 metros de largo, 
+                  da a una sala de 35 metros de profundidad y 20 metros de ancho aproximadamente 
+                  con una altura irregular que llega a los 10 metros en algunos puntos.
+
 
                 imagenes:
-                 - url: 'imgs/anfi_1.jpg'
-                 - url: 'imgs/anfi_2.jpg'
+                 - url: 'caverna_1.jpg'
+                 - url: 'caverna_2.jpg'
 
           - titulo: 'Región Noreste'
             subtitulo: 'La Música Qom'
@@ -275,7 +324,7 @@ elementos:
         utilizando información direccional](
         https://drive.google.com/open?id=1fWLVhWCZdgv3W3fiDYnvRMe91Q9dZ4h90ZdJxpOeo90)**  
         Universidad Nacional de Tres de Febrero  
-        *IV Jornadas de Acústica, Audio y Sonido*  
+        *IV Jornadas de Acústica, Audio y Sonido*
 
     - titulo: 'Conferencias y Charlas'
       texto: | 

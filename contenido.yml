@@ -6,21 +6,18 @@ correo: 'proyectograpa@gmail.com'
 titulo: 'Proyecto G.R.A.Pa'
 subtitulo: 'Proyecto G.R.A.Pa'
 texto: |
-  Este es un proyecto de relevamiento, registro y promoción del Patrimonio
-  Acústico en relación a las prácticas culturales de distintas regiones de
-  nuestro país.
 
-  Proyecto GRAPa está conformado por una serie de trabajos individuales
-  interrelacionados que permiten estudiar y promocionar los distintos
-  espacios:
+  *Proyecto GRAPa* está conformado por una serie de trabajos individuales
+  interrelacionados de relevamiento, registro y  promoción del Patrimonio 
+  Acústico  de distintas regiones de nuestro país.
 
-  Relevamientos acústicos en audio 3D 
+  - Relevamientos acústicos en audio 3D
 
-  Registros musicales y/o rituales patrimoniales en Realidad Virtual 
+  - Registros musicales y/o rituales patrimoniales en Realidad Virtual 
 
-  Fomento de la creación musical para obras específicas de sitio 
+  - Fomento de la creación musical para obras específicas de sitio 
 
-  Serie audiovisual de micro documentales recogiendo el trabajo realizado. 
+  - Serie audiovisual de micro documentales recogiendo el trabajo realizado. 
 
 abstract: |  
   Grupo de Relevamiento Acústico del Patrimonio
@@ -174,22 +171,22 @@ elementos:
           los integran -en la mayoría de los casos únicas-, están determinados
           por varios factores: 
 
-          Significante de uso que tiene y tuvo para la sociedad 
+          - *Significante de uso que tiene y tuvo para la sociedad*
 
-          Stractivo turístico y cultural 
+          - *Stractivo turístico y cultural*
 
-          Accesibilidad.
+          - *Accesibilidad*
                 
           A partir de una exhaustiva investigación, se decidió explorar
           siete espacios, agrupados en tres regiones de la República
           Argentina, relacionando cada región con el canto, la música y las
           expresiones culturales que la integran:
 
-          Región Noroeste
+          - *Región Noroeste*
 
-          Región Cuyo | Patagónica
+          - *Región Cuyo | Patagónica*
 
-          Región Noreste
+          - *Región Noreste*
           
         imagenes:
           - url: 'imgs/lugares_1.jpg'
@@ -402,6 +399,16 @@ elementos:
         https://drive.google.com/open?id=1fWLVhWCZdgv3W3fiDYnvRMe91Q9dZ4h90ZdJxpOeo90)**  
         Universidad Nacional de Tres de Febrero  
         *IV Jornadas de Acústica, Audio y Sonido*
+
+        **[ERI](
+        https://drive.google.com/open?id=1fWLVhWCZdgv3W3fiDYnvRMe91Q9dZ4h90ZdJxpOeo90)**  
+        Universidad católica de Colombia
+        *I Congreso internacional de la Red Internacionl....*
+
+        **[Patrimonio Acústico: dos casos en Argentina...](
+        https://drive.google.com/open?id=1fWLVhWCZdgv3W3fiDYnvRMe91Q9dZ4h90ZdJxpOeo90)**  
+        ICOMOS...
+        *IV Jornadas Internacionales de Turismo y Patrimonio....*
 
     - titulo: 'Conferencias y Charlas'
       texto: | 

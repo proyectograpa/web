@@ -80,225 +80,225 @@ elementos:
       - url: 'imgs/areas_1.jpg'
       - url: 'imgs/areas_2.jpg'
 
-  - titulo: 'Relevamientos Acústicos'
-    texto: | 
-      En cada espacio fueron realizadas una serie de relevamientos 
-      tomograficos y acústicos a fin de datar, lo mas fielmente posible
-      las particularidades en cada formación y las posiciones de cada 
-      emisor y receptor.
+    elementos:
+    - titulo: 'Relevamientos Acústicos'
+      texto: | 
+        En cada espacio fueron realizadas una serie de relevamientos 
+        tomograficos y acústicos a fin de datar, lo mas fielmente posible
+        las particularidades en cada formación y las posiciones de cada 
+        emisor y receptor.
 
-      Debido a las características topográficas de estos espacios 
-      (gran irregularidad de sus paredes y suelo con diferencias de nivel) 
-      es necesario realizar grillas rombales a una altura fija que permita 
-      relevar las distintas posiciones de la fuente y el receptor con una 
-      referencia clara, abarcando cuatro puntos extremos del recinto, 
-      utilizando como herramienta de replanteo un nivel topográfico. 
-    
-      <iframe
-        src="https://player.vimeo.com/video/387687552"
-        width="540"
-        height="260"
-        frameborder="0"
-        allow="autoplay; fullscreen"
-        allowfullscreen>
-      </iframe>
+        Debido a las características topográficas de estos espacios 
+        (gran irregularidad de sus paredes y suelo con diferencias de nivel) 
+        es necesario realizar grillas rombales a una altura fija que permita 
+        relevar las distintas posiciones de la fuente y el receptor con una 
+        referencia clara, abarcando cuatro puntos extremos del recinto, 
+        utilizando como herramienta de replanteo un nivel topográfico. 
+      
+        <iframe
+          src="https://player.vimeo.com/video/387687552"
+          width="540"
+          height="260"
+          frameborder="0"
+          allow="autoplay; fullscreen"
+          allowfullscreen>
+        </iframe>
 
-      De este modo queda a dispocision un banco de Respuestas Impulso (IR's)
-      en Ambisonics (Formato B) para ser utilizadas en post producción de audio,
-      con fines educativo o de cualquier otro indole:
+        De este modo queda a dispocision un banco de Respuestas Impulso (IR's)
+        en Ambisonics (Formato B) para ser utilizadas en post producción de audio,
+        con fines educativo o de cualquier otro indole:
 
-      **[Anfiteatro Natural de la Quebrada de las Conchas](
-        https://mega.nz/#F!tS522CaB!7XyKDIiknovOkDT4XnnrwA)**  
+        **[Anfiteatro Natural de la Quebrada de las Conchas](
+          https://mega.nz/#F!tS522CaB!7XyKDIiknovOkDT4XnnrwA)**  
 
-      **[Caverna de las Brujas - Sala de la Virgen](
-      https://mega.nz/#F!kOgSmQxS!eMNNM3xpyBfvPYxj6QZsOQ)**  
+        **[Caverna de las Brujas - Sala de la Virgen](
+        https://mega.nz/#F!kOgSmQxS!eMNNM3xpyBfvPYxj6QZsOQ)**  
 
-    imagenes:
-      - url: 'imgs/ra1.jpg'
-      - url: 'imgs/ra2.jpg'
+      imagenes:
+        - url: 'imgs/ra1.jpg'
+        - url: 'imgs/ra2.jpg'
 
-  - titulo: 'Registro Audivisual Documental'
-    texto: | 
-      Realizamos una serie documental en el que se recoge la experiencia del trabajo de
-      campo -los distintos estudios acústicos y  registros en realidad virtual-.
+    - titulo: 'Registro Audivisual Documental'
+      texto: | 
+        Realizamos una serie documental en el que se recoge la experiencia del trabajo de
+        campo -los distintos estudios acústicos y  registros en realidad virtual-.
 
-      El registro audiovisual muestra cómo la exploración de cada espacio -el estudio de su forma 
-      y sonoridad particular en cada caso-, es expuesta y potenciada al experimentarla 
-      a través del sonido producido por los intrumentos y voces propios de cada practica 
-      musical, en diálogo con el paisaje.
+        El registro audiovisual muestra cómo la exploración de cada espacio -el estudio de su forma 
+        y sonoridad particular en cada caso-, es expuesta y potenciada al experimentarla 
+        a través del sonido producido por los intrumentos y voces propios de cada practica 
+        musical, en diálogo con el paisaje.
 
-      <iframe
-        src="https://player.vimeo.com/video/388177792"
-        width="540"
-        height="260"
-        frameborder="0"
-        allow="autoplay; fullscreen"
-        allowfullscreen>
-      </iframe>
+        <iframe
+          src="https://player.vimeo.com/video/388177792"
+          width="540"
+          height="260"
+          frameborder="0"
+          allow="autoplay; fullscreen"
+          allowfullscreen>
+        </iframe>
+        
+      imagenes:
+        - url: 'imgs/docu_1.jpg'
+        - url: 'imgs/docu_2.jpg'
+
+    - titulo: 'Practicas Musicales en Realidad Virtual'
+      texto: | 
+
+        Usamos la última tecnología para registrar una serie de musicas en distintos espacios, 
+        recientemente (Abril 2018) fueron registradas una serie de coplas 
+        interpretadas por reconocidas copleras de la comunidad, en realidad virtual. 
+        
+        El registro en audio y video inmersivo permite difundir el canto acorde a su práctica y
+        enmarcado en su lugar de origen. A partir de mecanismos de reproducción para 
+        Realidad Virtual, el espectador tiene una experiencia vivencial más completa 
+        al poder situarse en el centro de la ronda.
+        
+        En la Provincia de Salta (Argentina), la reconocida coplera **[Mariana Carrizo](
+          http://www.marianacarrizo.com.ar/)** 
+        encuentra una profunda relación entre el canto con caja y estos valles, 
+        en cuyos paisajes aprendió a cantar en la niñez. 
+        Su participación en Proyecto GRAPa fue indispensable para el reconocimiento y 
+        aprendizaje del Canto de la Copla.
+
+      imagenes:
+        - url: 'imgs/copla_rv_1.jpg'
+        - url: 'imgs/copla_rv_2.jpg'
+
+  - titulo: 'Los Lugares y La Música'
+    texto: |
+      Los espacios donde realizar estos registros, más allá de tenerlos
+      en cuenta por sus características acústicas y el paisaje sonoro que
+      los integran -en la mayoría de los casos únicas-, están determinados
+      por varios factores: 
+
+      - *Significante de uso que tiene y tuvo para la sociedad*
+
+      - *Stractivo turístico y cultural*
+
+      - *Accesibilidad*
+            
+      A partir de una exhaustiva investigación, se decidió explorar
+      siete espacios, agrupados en tres regiones de la República
+      Argentina, relacionando cada región con el canto, la música y las
+      expresiones culturales que la integran:
+
+      - *Región Noroeste*
+
+      - *Región Cuyo | Patagónica*
+
+      - *Región Noreste*
       
     imagenes:
-      - url: 'imgs/docu_1.jpg'
-      - url: 'imgs/docu_2.jpg'
-
-  - titulo: 'Practicas Musicales en Realidad Virtual'
-    texto: | 
-
-      Usamos la última tecnología para registrar una serie de musicas en distintos espacios, 
-      recientemente (Abril 2018) fueron registradas una serie de coplas 
-      interpretadas por reconocidas copleras de la comunidad, en realidad virtual. 
-      
-      El registro en audio y video inmersivo permite difundir el canto acorde a su práctica y
-      enmarcado en su lugar de origen. A partir de mecanismos de reproducción para 
-      Realidad Virtual, el espectador tiene una experiencia vivencial más completa 
-      al poder situarse en el centro de la ronda.
-      
-      En la Provincia de Salta (Argentina), la reconocida coplera **[Mariana Carrizo](
-        http://www.marianacarrizo.com.ar/)** 
-      encuentra una profunda relación entre el canto con caja y estos valles, 
-      en cuyos paisajes aprendió a cantar en la niñez. 
-      Su participación en Proyecto GRAPa fue indispensable para el reconocimiento y 
-      aprendizaje del Canto de la Copla.
-
-    imagenes:
-      - url: 'imgs/copla_rv_1.jpg'
-      - url: 'imgs/copla_rv_2.jpg'
+      - url: 'imgs/lugares_1.jpg'
+      - url: 'imgs/lugares_2.jpg'
+      - url: 'imgs/lugares_3.jpg'
 
     elementos:
-      - titulo: 'Los Lugares y La Música'
+      - titulo: 'Región Noroeste'
+        subtitulo : 'El Canto de la Copla'
         texto: |
-          Los espacios donde realizar estos registros, más allá de tenerlos
-          en cuenta por sus características acústicas y el paisaje sonoro que
-          los integran -en la mayoría de los casos únicas-, están determinados
-          por varios factores: 
+          Región característica por Valles y Quebradas colindantes a la cordillera de los
+          Andes, cuenta con Áreas Protegidas que formaron parte del antiguo camino del
+          Inka en Argentina. En esta región  serán estudiados tres espacios: *“El
+          Anfiteatro”* en la Quebrada de las Conchas (Salta), *Parques provinciales de
+          Ischigualasto y Talampaya* (San Juan) y *“La quebrada de Humahuaca”* en La Puna
+          (Jujuy).
 
-          - *Significante de uso que tiene y tuvo para la sociedad*
-
-          - *Stractivo turístico y cultural*
-
-          - *Accesibilidad*
-                
-          A partir de una exhaustiva investigación, se decidió explorar
-          siete espacios, agrupados en tres regiones de la República
-          Argentina, relacionando cada región con el canto, la música y las
-          expresiones culturales que la integran:
-
-          - *Región Noroeste*
-
-          - *Región Cuyo | Patagónica*
-
-          - *Región Noreste*
-          
+          *El canto de la Copla* es una de las expresiones identitarias de los valles
+          Calchaquíes, practicada por las comunidades Diaguitas desde tiempos ancestrales
+          y transmitida por vía oral. Su forma de ejecución está muy ligada al entorno
+          natural, por lo cual consideramos que es un claro exponente del Patrimonio
+          Acústico y Sonoro de la región. Como práctica cultural, se expresa de modo ritual
+          en rondas improvisadas donde las cajas y voces se alternan continuamente.
+              
         imagenes:
-          - url: 'imgs/lugares_1.jpg'
-          - url: 'imgs/lugares_2.jpg'
-          - url: 'imgs/lugares_3.jpg'
+         - url: 'imgs/coplas_1.jpg'
+         - url: 'imgs/coplas_2.jpg'
 
         elementos:
-          - titulo: 'Región Noroeste'
-            subtitulo : 'El Canto de la Copla'
+          - subtitulo: 'El Anfiteatro'
             texto: |
-              Región característica por Valles y Quebradas colindantes a la cordillera de los
-              Andes, cuenta con Áreas Protegidas que formaron parte del antiguo camino del
-              Inka en Argentina. En esta región  serán estudiados tres espacios: *“El
-              Anfiteatro”* en la Quebrada de las Conchas (Salta), *Parques provinciales de
-              Ischigualasto y Talampaya* (San Juan) y *“La quebrada de Humahuaca”* en La Puna
-              (Jujuy).
-
-              *El canto de la Copla* es una de las expresiones identitarias de los valles
-              Calchaquíes, practicada por las comunidades Diaguitas desde tiempos ancestrales
-              y transmitida por vía oral. Su forma de ejecución está muy ligada al entorno
-              natural, por lo cual consideramos que es un claro exponente del Patrimonio
-              Acústico y Sonoro de la región. Como práctica cultural, se expresa de modo ritual
-              en rondas improvisadas donde las cajas y voces se alternan continuamente.
-                  
-            imagenes:
-             - url: 'imgs/coplas_1.jpg'
-             - url: 'imgs/coplas_2.jpg'
-
-            elementos:
-              - subtitulo: 'El Anfiteatro'
-                texto: |
-                  A menos de 40 kilómetros de la ciudad de Cafayate sobre la ruta Nacional Nº68, a
-                  metros del Río de las Conchas, se encuentra *El Anfiteatro*. Se trata de una 
-                  formación rocosa semi-cerrada de forma pseudo-ojival esculpida por la erosión. 
-                  Su forma particular y el material de sus paredes hacen que el Anfiteatro posea 
-                  una cualidad acústica excepcional, reconocida en la región y que ha dado inicio, 
-                  por ejemplo, al ciclo del “Concierto en la Montaña”, realizado anualmente 
-                  en este espacio desde 1991.
-                  
-                  Registramos las particularidades sonoras del Anfiteatro realizando medidas
-                  acústicas específicas: Respuestas Impulso en Ambisonics y binaurales con
-                  fuentes direccionales. Estos registros  permiten reconstruir fielmente 
-                  la acústica del Anfiteatro mediante un sistema de parlantes o auriculares. 
-                  Además de preservar su sonoridad como Patrimonio Acústico, pueden 
-                  ser utilizados como reverberadores digitales en registros de cine y realidad virtual.
-
-                imagenes:
-                 - url: 'imgs/anfi_1.jpg'
-                 - url: 'imgs/anfi_2.jpg'
-
-          - titulo: 'Región Cuyo | Patagónica'
-            subtitulo: 'La Música Araucana'
-            texto: |
-              Regiones áridas y de estepas, tanto el Cuyo como la Patagonia, se reconocen por
-              sus climas fríos y secos. De esta zonas se decidió trabajar con formaciones
-              cavernarias cuyos atributos acústicos se distinguen de otros espacios en
-              Argentina. En particular serán estudiadas dos formaciones cavernarias
-              significativas de cada región: la “Caverna de las Brujas” en el Departamento de
-              Malargüe (Mendoza) y la “Caverna de las Manos” en el Cañadón del Río Pinturas
-              (Santa Cruz).
+              A menos de 40 kilómetros de la ciudad de Cafayate sobre la ruta Nacional Nº68, a
+              metros del Río de las Conchas, se encuentra *El Anfiteatro*. Se trata de una 
+              formación rocosa semi-cerrada de forma pseudo-ojival esculpida por la erosión. 
+              Su forma particular y el material de sus paredes hacen que el Anfiteatro posea 
+              una cualidad acústica excepcional, reconocida en la región y que ha dado inicio, 
+              por ejemplo, al ciclo del “Concierto en la Montaña”, realizado anualmente 
+              en este espacio desde 1991.
               
-              Estas regiones fueron habitadas por culturas Huarpe y Mapuche, quienes
-              manifestaban una variedad de cantos y músicas recreativas y ligadas a sus
-              creencias. Predominan en ambos casos el canto chamánico y el tambor como
-              elemento identitario. Del mismo modo, las tribus pre-tehuelches (Aoni-Kenk)
-              mucho más relacionados al Cañadón del Río Pinturas, además del canto, poseen un
-              grupo de instrumentos como el koolo (cordófono hecho con una costilla de
-              guanaco y cerdas de caballo), el Rambo (aerófono hecho de un fémur de guanaco)
-              y percusivos como el Aple, El Chelper y el sonajero.
+              Registramos las particularidades sonoras del Anfiteatro realizando medidas
+              acústicas específicas: Respuestas Impulso en Ambisonics y binaurales con
+              fuentes direccionales. Estos registros  permiten reconstruir fielmente 
+              la acústica del Anfiteatro mediante un sistema de parlantes o auriculares. 
+              Además de preservar su sonoridad como Patrimonio Acústico, pueden 
+              ser utilizados como reverberadores digitales en registros de cine y realidad virtual.
+
             imagenes:
-              - url: 'imgs/cuyo_1.jpg'
-              - url: 'imgs/cuyo_2.jpg'
+             - url: 'imgs/anfi_1.jpg'
+             - url: 'imgs/anfi_2.jpg'
 
-            elementos:
-              - subtitulo: 'Caverna de las Brujas'
-                texto: |
-                  Es una formación cavernaria cerrada, conocida como “Caverna de Las Brujas”, 
-                  ubicada a 8 km al norte de la Ruta Nacional N° 40, en las cercanías de la 
-                  localidad de Bardas Blancas en el Valle del río Grande, al Sur de la 
-                  provincia de Mendoza, en el departamento de Malargüe.
+      - titulo: 'Región Cuyo | Patagónica'
+        subtitulo: 'La Música Araucana'
+        texto: |
+          Regiones áridas y de estepas, tanto el Cuyo como la Patagonia, se reconocen por
+          sus climas fríos y secos. De esta zonas se decidió trabajar con formaciones
+          cavernarias cuyos atributos acústicos se distinguen de otros espacios en
+          Argentina. En particular serán estudiadas dos formaciones cavernarias
+          significativas de cada región: la “Caverna de las Brujas” en el Departamento de
+          Malargüe (Mendoza) y la “Caverna de las Manos” en el Cañadón del Río Pinturas
+          (Santa Cruz).
+          
+          Estas regiones fueron habitadas por culturas Huarpe y Mapuche, quienes
+          manifestaban una variedad de cantos y músicas recreativas y ligadas a sus
+          creencias. Predominan en ambos casos el canto chamánico y el tambor como
+          elemento identitario. Del mismo modo, las tribus pre-tehuelches (Aoni-Kenk)
+          mucho más relacionados al Cañadón del Río Pinturas, además del canto, poseen un
+          grupo de instrumentos como el koolo (cordófono hecho con una costilla de
+          guanaco y cerdas de caballo), el Rambo (aerófono hecho de un fémur de guanaco)
+          y percusivos como el Aple, El Chelper y el sonajero.
+        imagenes:
+          - url: 'imgs/cuyo_1.jpg'
+          - url: 'imgs/cuyo_2.jpg'
 
-                  Nuestro estudio estuvo centrado en la sala más amplia y accesible, 
-                  reconocida por sus características acústicas y el paso de comunidades 
-                  preexistentes llamada “Sala de la Virgen”. 
-
-                  Su acceso cerrado, de aproximadamente 15 metros de largo, 
-                  da a una sala de 35 metros de profundidad y 20 metros de ancho aproximadamente 
-                  con una altura irregular que llega a los 10 metros en algunos puntos.
-
-
-                imagenes:
-                 - url: 'imgs/caverna_1.jpg'
-                 - url: 'imgs/caverna_2.jpg'
-
-          - titulo: 'Región Noreste'
-            subtitulo: 'La Música Qom'
+        elementos:
+          - subtitulo: 'Caverna de las Brujas'
             texto: |
-              De esta región se propone estudiar dos Parques Nacionales conocido como: “El Impenetrable”
-              (Chaco) e “Iguazú” (Misiones), ambos se caracterizan por su fauna y flora, donde pueden
-              encontrarse cientos de especies hoy consideradas en vías de extinción. 
-              De este modo, sus Áreas Protegidas gozan de un paisaje sonoro único en Argentina.
-              
-              Culturalmente, estos espacios fueron habitados por comunidades entre las que se destacan los
-              Guaycurúes, conocidos como Qom. Sus prácticas musicales se expresan en convivencia con el
-              paisaje sonoro que le da origen. Se destacan por cantos colectivos y solistas acompañados por
-              instrumentos como el “n’viqué” (especie de violín de una sola cuerda) e instrumentos
-              percusivos como vainas de algarrobos, pezuñas, maracas y sonajeros de calabazas como el
-              “cartexetẽ”.
+              Es una formación cavernaria cerrada, conocida como “Caverna de Las Brujas”, 
+              ubicada a 8 km al norte de la Ruta Nacional N° 40, en las cercanías de la 
+              localidad de Bardas Blancas en el Valle del río Grande, al Sur de la 
+              provincia de Mendoza, en el departamento de Malargüe.
+
+              Nuestro estudio estuvo centrado en la sala más amplia y accesible, 
+              reconocida por sus características acústicas y el paso de comunidades 
+              preexistentes llamada “Sala de la Virgen”. 
+
+              Su acceso cerrado, de aproximadamente 15 metros de largo, 
+              da a una sala de 35 metros de profundidad y 20 metros de ancho aproximadamente 
+              con una altura irregular que llega a los 10 metros en algunos puntos.
+
 
             imagenes:
-              - url: 'imgs/nea_1.jpg'
-              - url: 'imgs/nea_2.jpg'
+             - url: 'imgs/caverna_1.jpg'
+             - url: 'imgs/caverna_2.jpg'
+
+      - titulo: 'Región Noreste'
+        subtitulo: 'La Música Qom'
+        texto: |
+          De esta región se propone estudiar dos Parques Nacionales conocido como: “El Impenetrable”
+          (Chaco) e “Iguazú” (Misiones), ambos se caracterizan por su fauna y flora, donde pueden
+          encontrarse cientos de especies hoy consideradas en vías de extinción. 
+          De este modo, sus Áreas Protegidas gozan de un paisaje sonoro único en Argentina.
+          
+          Culturalmente, estos espacios fueron habitados por comunidades entre las que se destacan los
+          Guaycurúes, conocidos como Qom. Sus prácticas musicales se expresan en convivencia con el
+          paisaje sonoro que le da origen. Se destacan por cantos colectivos y solistas acompañados por
+          instrumentos como el “n’viqué” (especie de violín de una sola cuerda) e instrumentos
+          percusivos como vainas de algarrobos, pezuñas, maracas y sonajeros de calabazas como el
+          “cartexetẽ”.
+
+        imagenes:
+          - url: 'imgs/nea_1.jpg'
+          - url: 'imgs/nea_2.jpg'
 
   - titulo: 'Sobre Proyecto G.R.A.Pa'
     texto: |
@@ -318,74 +318,75 @@ elementos:
     imagenes:
       - url: 'imgs/port.jpg' 
 
-  - titulo: 'Francisco Durante'
-    texto: |
-      **[Francisco Durante](
-      https://www.facebook.com/franciscofidel.durante)** es Licenciado en Música y Tecnología (UNQ) y Maestro Mayor
-      de Obras dedicado a la investigación, diseño y construcción con materiales
-      naturales y permacultura. Trabaja como compositor en diferentes proyectos
-      artísticos multidisciplinarios en donde se vinculan las músicas tradicionales
-      con nuevas tecnologías y el espacio. 
+    elementos:
+      - titulo: 'Francisco Durante'
+        texto: |
+          **[Francisco Durante](
+          https://www.facebook.com/franciscofidel.durante)** es Licenciado en Música y Tecnología (UNQ) y Maestro Mayor
+          de Obras dedicado a la investigación, diseño y construcción con materiales
+          naturales y permacultura. Trabaja como compositor en diferentes proyectos
+          artísticos multidisciplinarios en donde se vinculan las músicas tradicionales
+          con nuevas tecnologías y el espacio. 
+          
+        imagenes:
+          - url: 'imgs/francisco_durante.jpg' 
+
+      - titulo: 'Damian Payo'
+        texto: |
+           **[Damian Payo](
+            https://www.damianpayo.com)** es Licenciado en Música y Tecnología (UNQ), actualmente se
+            desempeña como docente e investigador en la Universidad Católica de Salta en la
+            ciudad de Salta Capital desde donde ha profundizado en el estudio de Acústica
+            de Salas no convencionales y organizado Jornadas y Seminarios abocados al área
+            de la Acústica y el Audio Digital. 
+        imagenes:
+          - url: 'imgs/damian_payo.jpg' 
+
+      - titulo: 'Manuel Eguía'
+        texto: |      
+            **[Manuel Eguía](
+            http://lapso.org/)** es Doctor en Física (UBA) e investigador de CONICET y UNQ, donde
+            dirige el Laboratorio de Acústica y Percepción Sonora (LAPSo), grupo donde ha
+            realizado numerosos trabajos de investigación sobre percepción espacial
+            auditiva y dispositivos que modifican el campo sonoro con medios puramente
+            acústicos.
+        imagenes:
+         - url: 'imgs/manuel_eguia.jpg' 
+
+      - titulo: 'Mauro Zannoli'
+        texto: |  
+            **[Mauro Zannoli](
+            https://maurozannoli.com/Home)** es Licenciado en Composición con Medios Electroacústicos (UNQ),
+            compositor, programador y diseñador sonoro. En su trabajo tiene un fuerte
+            interés en la utilización del espacio como un parámetro más del sonido tanto en
+            música como en el arte sonoro. Ha montado sistemas Ambisonics en varios teatros
+            para obras específicas.
+        imagenes:
+          - url: 'imgs/mauro_zannoli.jpg' 
+          
+      - titulo: 'Lisandro Fernandez'
+        texto: |
+          aqui la data
+        imagenes:
+          - url: 'imgs/lisandro_fernandez.jpg' 
       
-    imagenes:
-      - url: 'imgs/francisco_durante.jpg' 
+      - titulo: 'Juan Barthe'
+        texto: |
+          **[Juan Barthe](
+            https://www.facebook.com/juan.barthe)** Es reportero gráfico y realizador audiovisual. 
+            Realizó más de 50 cortos de los cuales algunos ocuparon los primeros lugares en competencias y
+             concursos nacionales y provinciales. Trabajó para marcas de aventura como SOX, Columbia, 
+             Red Bull, Sckechers, entre otras. 
 
-  - titulo: 'Damian Payo'
-    texto: |
-       **[Damian Payo](
-        https://www.damianpayo.com)** es Licenciado en Música y Tecnología (UNQ), actualmente se
-        desempeña como docente e investigador en la Universidad Católica de Salta en la
-        ciudad de Salta Capital desde donde ha profundizado en el estudio de Acústica
-        de Salas no convencionales y organizado Jornadas y Seminarios abocados al área
-        de la Acústica y el Audio Digital. 
-    imagenes:
-      - url: 'imgs/damian_payo.jpg' 
+             Su interés por las relaciones humanas en sociedad, lo llevó a participar de distintos proyectos 
+             audiovisuales documentales por los cuales recorre nuevos caminos acompañado de la implementación  
+             de nuevas técnicas para contar historias.
 
-  - titulo: 'Manuel Eguía'
-    texto: |      
-        **[Manuel Eguía](
-        http://lapso.org/)** es Doctor en Física (UBA) e investigador de CONICET y UNQ, donde
-        dirige el Laboratorio de Acústica y Percepción Sonora (LAPSo), grupo donde ha
-        realizado numerosos trabajos de investigación sobre percepción espacial
-        auditiva y dispositivos que modifican el campo sonoro con medios puramente
-        acústicos.
-    imagenes:
-     - url: 'imgs/manuel_eguia.jpg' 
-
-  - titulo: 'Mauro Zannoli'
-    texto: |  
-        **[Mauro Zannoli](
-        https://maurozannoli.com/Home)** es Licenciado en Composición con Medios Electroacústicos (UNQ),
-        compositor, programador y diseñador sonoro. En su trabajo tiene un fuerte
-        interés en la utilización del espacio como un parámetro más del sonido tanto en
-        música como en el arte sonoro. Ha montado sistemas Ambisonics en varios teatros
-        para obras específicas.
-    imagenes:
-      - url: 'imgs/mauro_zannoli.jpg' 
-      
-  - titulo: 'Lisandro Fernandez'
-    texto: |
-      aqui la data
-    imagenes:
-      - url: 'imgs/lisandro_fernandez.jpg' 
-  
-  - titulo: 'Juan Barthe'
-    texto: |
-      **[Juan Barthe](
-        https://www.facebook.com/juan.barthe)** Es reportero gráfico y realizador audiovisual. 
-        Realizó más de 50 cortos de los cuales algunos ocuparon los primeros lugares en competencias y
-         concursos nacionales y provinciales. Trabajó para marcas de aventura como SOX, Columbia, 
-         Red Bull, Sckechers, entre otras. 
-
-         Su interés por las relaciones humanas en sociedad, lo llevó a participar de distintos proyectos 
-         audiovisuales documentales por los cuales recorre nuevos caminos acompañado de la implementación  
-         de nuevas técnicas para contar historias.
-
-    imagenes:
-      - url: 'imgs/juan_barthe.jpg' 
-    elemetos:
-      - titulo: 'Apoyos Institucionales'
-        texto: 'Logos y links'
+        imagenes:
+          - url: 'imgs/juan_barthe.jpg' 
+        elemetos:
+          - titulo: 'Apoyos Institucionales'
+            texto: 'Logos y links'
 
   - titulo: 'Impacto Social'
     elementos:

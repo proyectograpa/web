@@ -321,7 +321,7 @@ elementos:
   - titulo: 'Francisco Durante'
     texto: |
       **[Francisco Durante](
-        https://www.damianpayo.com)** es Licenciado en Música y Tecnología (UNQ) y Maestro Mayor
+      https://www.facebook.com/franciscofidel.durante)** es Licenciado en Música y Tecnología (UNQ) y Maestro Mayor
       de Obras dedicado a la investigación, diseño y construcción con materiales
       naturales y permacultura. Trabaja como compositor en diferentes proyectos
       artísticos multidisciplinarios en donde se vinculan las músicas tradicionales
@@ -344,7 +344,7 @@ elementos:
   - titulo: 'Manuel Eguía'
     texto: |      
         **[Manuel Eguía](
-        https://www.damianpayo.com)** es Doctor en Física (UBA) e investigador de CONICET y UNQ, donde
+        http://lapso.org/)** es Doctor en Física (UBA) e investigador de CONICET y UNQ, donde
         dirige el Laboratorio de Acústica y Percepción Sonora (LAPSo), grupo donde ha
         realizado numerosos trabajos de investigación sobre percepción espacial
         auditiva y dispositivos que modifican el campo sonoro con medios puramente
@@ -355,7 +355,7 @@ elementos:
   - titulo: 'Mauro Zannoli'
     texto: |  
         **[Mauro Zannoli](
-        https://www.damianpayo.com)** es Licenciado en Composición con Medios Electroacústicos (UNQ),
+        https://maurozannoli.com/Home)** es Licenciado en Composición con Medios Electroacústicos (UNQ),
         compositor, programador y diseñador sonoro. En su trabajo tiene un fuerte
         interés en la utilización del espacio como un parámetro más del sonido tanto en
         música como en el arte sonoro. Ha montado sistemas Ambisonics en varios teatros
@@ -371,7 +371,16 @@ elementos:
   
   - titulo: 'Juan Barthe'
     texto: |
-      aqui la data
+      **[Juan Barthe](
+        https://www.facebook.com/juan.barthe)** Es reportero gráfico y realizador audiovisual. 
+        Realizó más de 50 cortos de los cuales algunos ocuparon los primeros lugares en competencias y
+         concursos nacionales y provinciales. Trabajó para marcas de aventura como SOX, Columbia, 
+         Red Bull, Sckechers, entre otras. 
+
+         Su interés por las relaciones humanas en sociedad, lo llevó a participar de distintos proyectos 
+         audiovisuales documentales por los cuales recorre nuevos caminos acompañado de la implementación  
+         de nuevas técnicas para contar historias.
+
     imagenes:
       - url: 'imgs/juan_barthe.jpg' 
     elemetos:

@@ -216,6 +216,7 @@ elementos:
          - url: 'imgs/coplas_2.jpg'
 
         elementos:
+          # - titulo: 'El Anfiteatro'
           - subtitulo: 'El Anfiteatro'
             texto: |
               A menos de 40 kilómetros de la ciudad de Cafayate sobre la ruta Nacional Nº68, a

@@ -51,36 +51,36 @@ elementos:
       - url: 'imgs/s_e_1.jpg'
       - url: 'imgs/s_e_2.jpg'
 
-  - titulo: 'El patrimonio Acústico'
-    texto: | 
-      Nos referimos al Patrimonio Acústico como aquellos lugares que por sus
-      características morfológicas y ambientales involucran la experiencia auditiva
-      como parte inseparable del entorno. Estos aspectos Acústicos varían a lo largo
-      del tiempo como consecuencia del uso, las transformaciones ambientales y la
-      degradación de sus materiales. Por ello vemos necesario retratar dichos
-      espacios a través de estudios acústicos y morfológicos que permitan preservar
-      sus características.
-      
-      Registramos dichas particularidades sonoras realizando medidas acústicas
-      específicas mediante Respuestas Impulso (disponibles on-line) con micrófonos 
-      Ambisonics y fuentes direccionales. Asimismo, buscando explorar las 
-      particularidades que cada espacio ofrece a partir de estudios antropológicos 
-      de uso y entrevistas a quienes visitan y utilizan constantemente dichos espacios.
-    
-      <iframe
-        src="https://player.vimeo.com/video/387688481"
-        width="540"
-        height="260"
-        frameborder="0"
-        allow="autoplay; fullscreen"
-        allowfullscreen>
-      </iframe>
-
-    imagenes:
-      - url: 'imgs/areas_1.jpg'
-      - url: 'imgs/areas_2.jpg'
-
     elementos:
+    - titulo: 'El patrimonio Acústico'
+      texto: | 
+        Nos referimos al Patrimonio Acústico como aquellos lugares que por sus
+        características morfológicas y ambientales involucran la experiencia auditiva
+        como parte inseparable del entorno. Estos aspectos Acústicos varían a lo largo
+        del tiempo como consecuencia del uso, las transformaciones ambientales y la
+        degradación de sus materiales. Por ello vemos necesario retratar dichos
+        espacios a través de estudios acústicos y morfológicos que permitan preservar
+        sus características.
+        
+        Registramos dichas particularidades sonoras realizando medidas acústicas
+        específicas mediante Respuestas Impulso (disponibles on-line) con micrófonos 
+        Ambisonics y fuentes direccionales. Asimismo, buscando explorar las 
+        particularidades que cada espacio ofrece a partir de estudios antropológicos 
+        de uso y entrevistas a quienes visitan y utilizan constantemente dichos espacios.
+      
+        <iframe
+          src="https://player.vimeo.com/video/387688481"
+          width="540"
+          height="260"
+          frameborder="0"
+          allow="autoplay; fullscreen"
+          allowfullscreen>
+        </iframe>
+
+      imagenes:
+        - url: 'imgs/areas_1.jpg'
+        - url: 'imgs/areas_2.jpg'
+
     - titulo: 'Relevamientos Acústicos'
       texto: | 
         En cada espacio fueron realizadas una serie de relevamientos 

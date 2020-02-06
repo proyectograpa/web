@@ -10,14 +10,16 @@
 
 
 {% if nivel is odd %}
-  <div class="texto col-md-6">
+  <div class="encabezado col-md-12">
   <header> 
     {% if elemento['titulo']  %}
     <h{{nivel}} class="titulo">
-        {{ elemento['titulo'] | upper }}
+        {{ elemento['titulo'] }}
       </h{{nivel}}>
     {% endif %}
   </header> 
+  </div>
+  <div class="texto col-md-6">
   
   {% if elemento['subtitulo']  %}
     <p class="lead mt-3 font-weight-bold" >{{ elemento[ 'subtitulo' ] }}</p>
@@ -38,6 +40,15 @@
 {% endif %}
 
 {% if nivel is even %}
+  <div class="encabezado col-md-12">
+  <header> 
+    {% if elemento['titulo']  %}
+    <h{{nivel}} class="titulo">
+        {{ elemento['titulo'] }}
+      </h{{nivel}}>
+    {% endif %}
+  </header> 
+  </div>
   <div class="imagenes col-md-6">
     {% if elemento['imagenes']  %}
      {% for imagen in elemento['imagenes'] %}
@@ -47,13 +58,7 @@
   </div>
   
   <div class="texto col-md-6">
-  <header> 
-    {% if elemento['titulo']  %}
-    <h{{nivel}} class="titulo">
-        {{ elemento['titulo'] | upper }}
-      </h{{nivel}}>
-    {% endif %}
-  </header> 
+
   
   {% if elemento['subtitulo']  %}
     <p class="lead mt-3 font-weight-bold" >{{ elemento[ 'subtitulo' ] }}</p>

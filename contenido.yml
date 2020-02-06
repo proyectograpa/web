@@ -367,7 +367,16 @@ elementos:
           
       - titulo: 'Lisandro Fernandez'
         texto: |
-          aqui la data
+          Licenciado en Música y Tecnología de la UNQ. Trabajador nodocente en sistemas
+          del ATAM/UNA donde participa del Laboratorio de Software Libre.
+          Dedicado a investigar, producir y divulgar herramientas informáticas
+          concordantes con las premisas de desarrollo libre y abierto, enmarcadas en la
+          tradición *nix.
+          Expuso en In-sonora VII (Madrid, España), Prog. de Arte Interactivo / Fund.
+          Telefónica (CABA), MediaLab 2010 / CCEBA (CABA), Universo Paralello #10 -
+          (Bahía, Brasil), British Council / BAFIM '09 (CABA).
+          Desarrolló para Fundación IDA / ISLAA, Dirección de Medios Digitales / UVQ,
+          Museo en Construcción / Fund. del Interior.
         imagenes:
           - url: 'imgs/lisandro_fernandez.jpg' 
       

@@ -3,8 +3,8 @@ icon: 'imgs/logo_grapa_100x100.png'
 dominio: 'http://proyectograpa.com.ar'
 tags: 'acústica, investigación, relevamiento, patrimonio, sonido, '
 correo: 'proyectograpa@gmail.com'
-titulo: 'Proyecto G.R.A.Pa'
-subtitulo: 'Proyecto G.R.A.Pa'
+titulo: 'Proyecto GRAPa'
+subtitulo: 'Proyecto GRAPa'
 texto: |
 
   *Proyecto GRAPa* está conformado por una serie de trabajos individuales
@@ -216,7 +216,7 @@ elementos:
          - url: 'imgs/coplas_2.jpg'
 
         elementos:
-          # - titulo: 'El Anfiteatro'
+                #- titulo: 'El Anfit'
           - subtitulo: 'El Anfiteatro'
             texto: |
               A menos de 40 kilómetros de la ciudad de Cafayate sobre la ruta Nacional Nº68, a
@@ -373,9 +373,9 @@ elementos:
           concordantes con las premisas de desarrollo libre y abierto, enmarcadas en la
           tradición *nix.
           Expuso en In-sonora VII (Madrid, España), Prog. de Arte Interactivo / Fund.
-          Telefónica (CABA), MediaLab 2010 / CCEBA (CABA), Universo Paralello #10 -
+          Telefónica (CABA), MediaLab 2010 / CCEBA (CABA), Universo Paralello #10
           (Bahía, Brasil), British Council / BAFIM '09 (CABA).
-          Desarrolló para Fundación IDA / ISLAA, Dirección de Medios Digitales / UVQ,
+          Desarrolló para Fundación IDA, Dirección de Medios Digitales / UVQ,
           Museo en Construcción / Fund. del Interior.
         imagenes:
           - url: 'imgs/lisandro_fernandez.jpg' 

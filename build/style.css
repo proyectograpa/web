@@ -15,9 +15,6 @@ body{
   border-left: 1px solid #000000;
 }
 
-footer .navbar-nav li:first-child{
-  border-left: 0px solid #000;
-}
 
 .nav-link{
  color:#000
@@ -28,9 +25,15 @@ footer .navbar-nav li:first-child{
  background:#000
 }
 
+footer .navbar-nav li:first-child{
+  border-left: 0px solid #000;
+}
+
 .jumbotron {
   /*background: #031432;*/
   /*color: #FFF;*/
+  margin: 0;
+  padding: 2rem 0rem;
 }
 
 .jumbotron .container{
@@ -46,14 +49,14 @@ section#pruebas{
   /*background: rgba(233,236,239,0.5);*/
 }
 .elemento{
-  #background: rgba(0.78,0.82,0.85,0.1);
+  background: rgba(0.78,0.82,0.85,0.1);
   background: rgba(133,136,139,0.1);
-  border-top-width: 1px;
-  border-top-style: solid;
-  border-top-color: #000;
-  border-bottom-width: 1px;
-  border-bottom-style: solid;
-  border-bottom-color: #000;
+  /*border-top-width: 1px;*/
+  /*border-top-style: solid;*/
+  /*border-top-color: #000;*/
+  /*border-bottom-width: 1px;*/
+  /*border-bottom-style: solid;*/
+  /*border-bottom-color: #000;
   /*border-color: #FFF;*/
 }
 .elemento{
@@ -63,7 +66,7 @@ section#pruebas{
   margin-bottom: 10px
 }
 .nivel-1 .titulo{
-  text-transform: uppercase;
+  /*text-transform: uppercase;*/
 }
 .nivel-2 .titulo{
   text-transform: none;
@@ -87,4 +90,35 @@ footer{
   border-top: 1px solid #000
 }
 
+.h1, h1{
+	font-size: 4rem;
+	padding: 3rem 0;
+}
+.h2, h2{
 
+	font-size: 3rem;
+	padding: 2rem 0;
+	/*padding: 1rem 0 1rem;*/
+	padding: 1rem 0;
+}
+.h3, h3{
+
+	font-size: 2rem;
+	/*padding: 2rem 0;*/
+}
+
+.elemento.nivel-1{
+  margin-top: 10rem !important;
+ }
+.elemento.nivel-2{
+  margin-top: 4rem !important;
+ }
+.elemento.nivel-3{
+  margin-top: 3rem !important;
+ }
+.navbar.navbar-expand-md.py-3{
+
+	padding-top:5rem !important;
+	padding-bottom:5rem !important;
+}
+	

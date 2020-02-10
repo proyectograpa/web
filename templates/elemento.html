@@ -30,13 +30,13 @@
   {% endif %}
   </div>
   
-  <div class="imagenes col-md-6">
     {% if elemento['imagenes']  %}
+  <div class="imagenes col-md-6">
      {% for imagen in elemento['imagenes'] %}
        {% include 'imagen.html' %}
      {% endfor %}
-    {% endif %}
   </div>
+    {% endif %}
 {% endif %}
 
 {% if nivel is even %}
@@ -49,13 +49,14 @@
     {% endif %}
   </header> 
   </div>
+
+ {% if elemento['imagenes']  %}
   <div class="imagenes col-md-6">
-    {% if elemento['imagenes']  %}
      {% for imagen in elemento['imagenes'] %}
        {% include 'imagen.html' %}
      {% endfor %}
-    {% endif %}
   </div>
+ {% endif %}
   
   <div class="texto col-md-6">
 

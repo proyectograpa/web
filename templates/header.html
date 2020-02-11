@@ -5,14 +5,16 @@
   <div class="collapse navbar-collapse justify-content-md-center" id="navbarSupportedContent">
 
     <a class="navbar-brand" url="{{contenido['dominio'] }}">	  
-      {{ contenido['titulo'] | upper }}
+        <a class="nav-link px-3" href="index.html">
+      	  {{ contenido['titulo']  | upper }}
+        </a>
     </a>
 
     <ul class="navbar-nav">
       {% for elemento in elementos %}
       <li class="nav-item" >
         <a class="nav-link px-3" href="#{{ elemento['titulo'] | slug }}">
-          {{ elemento['titulo'] | upper }}
+          {{ elemento['titulo']  | upper }}
         </a>
       </li>
       {% endfor %}

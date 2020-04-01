@@ -327,79 +327,119 @@ elementos:
       - url: 'imgs/equipo.JPG'
 
     elementos:
-      - titulo: 'Francisco Durante'
-        texto: |
-          **[Francisco Durante](
-          https://www.facebook.com/franciscofidel.durante)** es Licenciado en Música y Tecnología (UNQ) y Maestro Mayor
-          de Obras dedicado a la investigación, diseño y construcción con materiales
-          naturales y permacultura. Trabaja como compositor en diferentes proyectos
-          artísticos multidisciplinarios en donde se vinculan las músicas tradicionales
-          con nuevas tecnologías y el espacio. 
+      - titulo: 'Integrantes'
+        elementos:
+          - titulo: 'Francisco Durante'
+            texto: |
+              **[Francisco Durante](
+              https://www.facebook.com/franciscofidel.durante)** es Licenciado en Música y Tecnología (UNQ) y Maestro Mayor
+              de Obras dedicado a la investigación, diseño y construcción con materiales
+              naturales y permacultura. Trabaja como compositor en diferentes proyectos
+              artísticos multidisciplinarios en donde se vinculan las músicas tradicionales
+              con nuevas tecnologías y el espacio. 
+              
+            imagenes:
+              - url: 'imgs/francisco_durante.JPG' 
+
+          - titulo: 'Damian Payo'
+            texto: |
+               **[Damian Payo](
+                https://www.damianpayo.com)** es Licenciado en Música y Tecnología (UNQ), actualmente se
+                desempeña como docente e investigador en la Universidad Católica de Salta en la
+                ciudad de Salta Capital desde donde ha profundizado en el estudio de Acústica
+                de Salas no convencionales y organizado Jornadas y Seminarios abocados al área
+                de la Acústica y el Audio Digital. 
+            imagenes:
+              - url: 'imgs/damian_payo.JPG'
+
+          - titulo: 'Manuel Eguía'
+            texto: |      
+                **[Manuel Eguía](
+                http://lapso.org/)** es Doctor en Física (UBA) e investigador de CONICET y UNQ, donde
+                dirige el Laboratorio de Acústica y Percepción Sonora (LAPSo), grupo donde ha
+                realizado numerosos trabajos de investigación sobre percepción espacial
+                auditiva y dispositivos que modifican el campo sonoro con medios puramente
+                acústicos.
+            imagenes:
+             - url: 'imgs/manuel_eguia.JPG' 
+
+          - titulo: 'Mauro Zannoli'
+            texto: |  
+                **[Mauro Zannoli](
+                https://maurozannoli.com/Home)** es Licenciado en Composición con Medios Electroacústicos (UNQ),
+                compositor, programador y diseñador sonoro. En su trabajo tiene un fuerte
+                interés en la utilización del espacio como un parámetro más del sonido tanto en
+                música como en el arte sonoro. Ha montado sistemas Ambisonics en varios teatros
+                para obras específicas.
+            imagenes:
+              - url: 'imgs/mauro_zannoli.JPG' 
+              
+          - titulo: 'Lisandro Fernandez'
+            texto: |
+              **[Lisandro Fernandez](
+                https://www.atamvirtual.com.ar/course/view.php?id=19)** es Licenciado en Música y Tecnología (UNQ), musico avocado al estudio de
+              sistemas. Participa activamente del Laboratorio de Software Libre.
+              Dedicado a investigar, producir y divulgar herramientas informáticas,
+              tarea que lo llevó a exponer en distintas jornadas y congresos relacionados
+              a la programación y el arte interactivo en distintos espacios de hiberoamerica.
+            imagenes:
+              - url: 'imgs/lisandro_fernandez.JPG' 
           
-        imagenes:
-          - url: 'imgs/francisco_durante.JPG' 
+          - titulo: 'Juan Barthe'
+            texto: |
+              **[Juan Barthe](
+                https://www.facebook.com/juan.barthe)** Es reportero gráfico y realizador audiovisual. 
+                Realizó más de 50 cortos de los cuales algunos ocuparon los primeros lugares en competencias y
+                 concursos nacionales y provinciales. Trabajó para marcas de aventura como SOX, Columbia, 
+                 Red Bull, Sckechers, entre otras. 
 
-      - titulo: 'Damian Payo'
-        texto: |
-           **[Damian Payo](
-            https://www.damianpayo.com)** es Licenciado en Música y Tecnología (UNQ), actualmente se
-            desempeña como docente e investigador en la Universidad Católica de Salta en la
-            ciudad de Salta Capital desde donde ha profundizado en el estudio de Acústica
-            de Salas no convencionales y organizado Jornadas y Seminarios abocados al área
-            de la Acústica y el Audio Digital. 
-        imagenes:
-          - url: 'imgs/damian_payo.JPG'
+                 Su interés por las relaciones humanas en sociedad, lo llevó a participar de distintos proyectos 
+                 audiovisuales documentales por los cuales recorre nuevos caminos acompañado de la implementación  
+                 de nuevas técnicas para contar historias.
 
-      - titulo: 'Manuel Eguía'
-        texto: |      
-            **[Manuel Eguía](
-            http://lapso.org/)** es Doctor en Física (UBA) e investigador de CONICET y UNQ, donde
-            dirige el Laboratorio de Acústica y Percepción Sonora (LAPSo), grupo donde ha
-            realizado numerosos trabajos de investigación sobre percepción espacial
-            auditiva y dispositivos que modifican el campo sonoro con medios puramente
-            acústicos.
-        imagenes:
-         - url: 'imgs/manuel_eguia.JPG' 
+            imagenes:
+              - url: 'imgs/juan_barthe.JPG'
 
-      - titulo: 'Mauro Zannoli'
-        texto: |  
-            **[Mauro Zannoli](
-            https://maurozannoli.com/Home)** es Licenciado en Composición con Medios Electroacústicos (UNQ),
-            compositor, programador y diseñador sonoro. En su trabajo tiene un fuerte
-            interés en la utilización del espacio como un parámetro más del sonido tanto en
-            música como en el arte sonoro. Ha montado sistemas Ambisonics en varios teatros
-            para obras específicas.
-        imagenes:
-          - url: 'imgs/mauro_zannoli.JPG' 
-          
-      - titulo: 'Lisandro Fernandez'
-        texto: |
-          **[Lisandro Fernandez](
-            https://www.atamvirtual.com.ar/course/view.php?id=19)** es Licenciado en Música y Tecnología (UNQ), musico avocado al estudio de
-          sistemas. Participa activamente del Laboratorio de Software Libre.
-          Dedicado a investigar, producir y divulgar herramientas informáticas,
-          tarea que lo llevó a exponer en distintas jornadas y congresos relacionados
-          a la programación y el arte interactivo en distintos espacios de hiberoamerica.
-        imagenes:
-          - url: 'imgs/lisandro_fernandez.JPG' 
-      
-      - titulo: 'Juan Barthe'
-        texto: |
-          **[Juan Barthe](
-            https://www.facebook.com/juan.barthe)** Es reportero gráfico y realizador audiovisual. 
-            Realizó más de 50 cortos de los cuales algunos ocuparon los primeros lugares en competencias y
-             concursos nacionales y provinciales. Trabajó para marcas de aventura como SOX, Columbia, 
-             Red Bull, Sckechers, entre otras. 
+      - titulo: 'Apoyos Institucionales'
+        elementos:
+        - titulo: 'Sponsors'
+          texto: | 
+            Proyecto GRAPa, desde sus inicios cuenta con el apoyo de:
+            
+            * [![UCASAL](imgs/logo_ucasal.png)]( http://www.ucasal.edu.ar )
+            * [![UNQ](imgs/logo_unq.png)]( http://www.unq.edu.ar )
+            * [![LaPSo](imgs/logo_lapso.png)]( http://www.lapso.org )
 
-             Su interés por las relaciones humanas en sociedad, lo llevó a participar de distintos proyectos 
-             audiovisuales documentales por los cuales recorre nuevos caminos acompañado de la implementación  
-             de nuevas técnicas para contar historias.
+        - titulo: 'Colaboraciones'
+          texto: | 
 
-        imagenes:
-          - url: 'imgs/juan_barthe.JPG'
-        elemetos:
-          - titulo: 'Apoyos Institucionales'
-            texto: 'Logos y links'
+            En cada lugar recibimos la colaboración de:
+
+            
+            * Salta:
+            
+                * [![SiPAP](imgs/logo_areas_protegidas_salta.jpg )]( mailto:areasprotegidassalta@gmail.com )
+                * [![Tus Ideas Tienen Fondo](imgs/apoyo_fc.jpeg )]( http://www.culturasalta.gov.ar)
+
+            * Mendoza:
+
+                * [![ANP](imgs/apoyo_ANP.jpg )]( http://www.areasnaturales.mendoza.gov.ar )
+                * [![Municipalidad de Malargüe](imgs/apoyo_Muni.png )]( http://www.malargue.gov.ar)
+
+
+            
+            A todos y cada uno de ellos va un profundo agradecimiento desde todos los que integramos Proyecto GRAPa.
+
+        - titulo: 'Productora asociadsa'
+          texto: | 
+            Logo Vuela (Falta, tenemos que pedírselo a Ariane)
+
+        - titulo: 'Contacto'
+          texto: | 
+            
+            Mail: info@proyectograpa.com (no se si esta habilitado, si no seria proyectograpa@gmail.com)
+            
+            Teléfono: +54 9 387 4491 448 || +54 9 11 3177 2675
 
   - titulo: 'Impacto Social'
     elementos:
@@ -471,6 +511,8 @@ elementos:
         https://twitter.com/TelecoCampusSur/status/1204326235679207424)**  
         Universidad Politécnica de Madrid
         *Grupo de Aplicaciones Multimedia y Acústica*  
+
+
 
 
 footer: 

@@ -432,12 +432,14 @@ elementos:
 
         - titulo: 'Productora asociadsa'
           texto: | 
-            Logo Vuela (Falta, tenemos que pedírselo a Ariane)
+            * [![ VUELA Produção e Criação ](imgs/vuela_logo_amarela.png)]( http://vuelaproducao.com/)
+
 
         - titulo: 'Contacto'
+          #(no se si esta habilitado, si no seria proyectograpa@gmail.com)
           texto: | 
-            
-            Mail: info@proyectograpa.com (no se si esta habilitado, si no seria proyectograpa@gmail.com)
+
+            Mail: [info@proyectograpa.com ]( mailto:info@proyectograpa.com )
             
             Teléfono: +54 9 387 4491 448 || +54 9 11 3177 2675
 

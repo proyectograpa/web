@@ -320,6 +320,76 @@ elementos:
           - url: 'imgs/nea_1.JPG'
           - url: 'imgs/nea_2.JPG'
 
+  - titulo: 'Impacto Social'
+    elementos:
+    - titulo: 'Publicaciones'
+      texto: |
+        **[Caracterización Acústica Direccional Del Anfiteatro
+        Natural De La Quebrada De Las Conchas](
+        http://www.sea-acustica.es/fileadmin/Cadiz18/ASL-0_013.pdf)**  
+        Escuela Superior De Ingeniería de la Universidad de Cadiz  
+        *XI Congreso Iberoamericano de Acústica 2018*  
+
+        **[An acoustical characterization of a natural open-air amphitheatre
+        using directional information](
+        https://www.researchgate.net/publication/339044030_An_acoustical_characterization_of_a_natural_open-air_amphitheatre_using_directional_information)**  
+        Audio Engineering Society  
+        *Conferencia Latinoamericana de Audio AES LAC 2018*  
+
+        **[Caracterización acústica de un anfiteatro natural al aire libre
+        utilizando información direccional](
+        https://www.researchgate.net/publication/339043975_4ta_EDICION_DE_LAS_JORNADAS_DE_ACUSTICA_AUDIO_Y_SONIDO_JAAS)**  
+        Universidad Nacional de Tres de Febrero  
+        *IV Jornadas de Acústica, Audio y Sonido*
+
+        **[ERI](
+        https://www.researchgate.net/publication/339044101_1Encuentro_de_la_Red_Internacional_de_Investigacion_ERII_2019)**  
+        Universidad católica de Colombia
+        *I Congreso internacional de la Red Internacionl....*
+
+        **[Patrimonio Acústico: dos casos en Argentina...](
+        https://www.researchgate.net/publication/339043884_Seminario_Internacional_de_Patrimonio_Desarrollo_y_Turismo_Cultural_VI_Foro_de_Estudiantes_y_Jovenes_Salta)**  
+        ICOMOS...
+        *IV Jornadas Internacionales de Turismo y Patrimonio....*
+
+    - titulo: 'Conferencias y Charlas'
+      texto: | 
+
+        **[El origen geologico del paisaje](
+        https://www.eltribuno.com/salta/nota/2019-7-15-0-0-0-el-origen-geologico-del-paisaje)**
+        Salta, Argentina  *Primer Ciclo de Conferencias de Investigación y
+        Transversalidad Turistica*  
+
+        **[Anfiteatro de la quebrada de las Conchas y el patrimonio acústico de
+        la provincia de Salta](
+        http://radio.unsa.edu.ar/index.php/noticias/universidad/2827-jornadas-de-difusion-en-investigacion-cientifica-de-areas-protegidas)**
+        Universidad Nacional de Salta  *Jornadas de Difusión en Investigación
+        Cientifica de Areas Protegidas*  
+
+        **[Estudio acústico y producción audiovisual en el anfiteatro natural
+        de la Quebrada de Cafayate, Salta](
+        http://www.unq.edu.ar/noticias/3294-terceras-jornadas-jamtec.php)**
+        Universidad Nacional de Quilmes  *Jornadas de Arte Música y Tecnología
+        2018*  
+
+        **[El Anfiteatro, lugar de encuentro entre la copla y el paisaje](
+        http://www.elsolabc.com/nota/item,7857/seccion,21/subseccion,0/titulo,segundas-jornadas-de-acstica-y-audio-en-salta-experiencia-y-balance)**
+        Universidad Católica de Salta  *Segundas Jornadas de Acustica y Audio*
+
+        **[Taller de maquetado de Proyectos Artísticos y Realidad Virtual](
+        https://www.facebook.com/jaasyeess/photos/a.1385504834829507/2533389930040986/?type=3&theater)**
+        Universidad Nacional de Quilmes *Tercera Jornadas de Acustica y Audio* 
+        
+        **[Seminario: Patrimonio acústico: metodología y casos de estudio en
+        espacios naturales de Argentina](
+        https://www.ub.edu/artsoundscapes/seminar-series/)**  Universitat de
+        Barcelona | Facultat de Historia i Geografía  *Artsoundscapes
+        Seminaries*
+
+        **[Caracterizaciones Acústicas a partir de información direccional](
+        https://twitter.com/TelecoCampusSur/status/1204326235679207424)**
+        Universidad Politécnica de Madrid *Grupo de Aplicaciones Multimedia y
+        Acústica*  
   - titulo: 'Sobre Proyecto G.R.A.Pa'
     texto: |
       
@@ -430,9 +500,9 @@ elementos:
             imagenes:
               - url: 'imgs/juan_barthe.JPG'
 
-      - titulo: 'Apoyos Institucionales'
+      - titulo: 'Apoyos y Colaboraciones'
         elementos:
-        - titulo: 'Sponsors'
+        - titulo: 'Apoyos Institucionales'
           texto: | 
             Proyecto GRAPa, desde sus inicios cuenta con el apoyo de:
             
@@ -473,76 +543,6 @@ elementos:
             
             Teléfono: +54 9 387 4491 448 || +54 9 11 3177 2675
 
-  - titulo: 'Impacto Social'
-    elementos:
-    - titulo: 'Publicaciones'
-      texto: |
-        **[Caracterización Acústica Direccional Del Anfiteatro
-        Natural De La Quebrada De Las Conchas](
-        http://www.sea-acustica.es/fileadmin/Cadiz18/ASL-0_013.pdf)**  
-        Escuela Superior De Ingeniería de la Universidad de Cadiz  
-        *XI Congreso Iberoamericano de Acústica 2018*  
-
-        **[An acoustical characterization of a natural open-air amphitheatre
-        using directional information](
-        https://www.researchgate.net/publication/339044030_An_acoustical_characterization_of_a_natural_open-air_amphitheatre_using_directional_information)**  
-        Audio Engineering Society  
-        *Conferencia Latinoamericana de Audio AES LAC 2018*  
-
-        **[Caracterización acústica de un anfiteatro natural al aire libre
-        utilizando información direccional](
-        https://www.researchgate.net/publication/339043975_4ta_EDICION_DE_LAS_JORNADAS_DE_ACUSTICA_AUDIO_Y_SONIDO_JAAS)**  
-        Universidad Nacional de Tres de Febrero  
-        *IV Jornadas de Acústica, Audio y Sonido*
-
-        **[ERI](
-        https://www.researchgate.net/publication/339044101_1Encuentro_de_la_Red_Internacional_de_Investigacion_ERII_2019)**  
-        Universidad católica de Colombia
-        *I Congreso internacional de la Red Internacionl....*
-
-        **[Patrimonio Acústico: dos casos en Argentina...](
-        https://www.researchgate.net/publication/339043884_Seminario_Internacional_de_Patrimonio_Desarrollo_y_Turismo_Cultural_VI_Foro_de_Estudiantes_y_Jovenes_Salta)**  
-        ICOMOS...
-        *IV Jornadas Internacionales de Turismo y Patrimonio....*
-
-    - titulo: 'Conferencias y Charlas'
-      texto: | 
-
-        **[El origen geologico del paisaje](
-        https://www.eltribuno.com/salta/nota/2019-7-15-0-0-0-el-origen-geologico-del-paisaje)**
-        Salta, Argentina  *Primer Ciclo de Conferencias de Investigación y
-        Transversalidad Turistica*  
-
-        **[Anfiteatro de la quebrada de las Conchas y el patrimonio acústico de
-        la provincia de Salta](
-        http://radio.unsa.edu.ar/index.php/noticias/universidad/2827-jornadas-de-difusion-en-investigacion-cientifica-de-areas-protegidas)**
-        Universidad Nacional de Salta  *Jornadas de Difusión en Investigación
-        Cientifica de Areas Protegidas*  
-
-        **[Estudio acústico y producción audiovisual en el anfiteatro natural
-        de la Quebrada de Cafayate, Salta](
-        http://www.unq.edu.ar/noticias/3294-terceras-jornadas-jamtec.php)**
-        Universidad Nacional de Quilmes  *Jornadas de Arte Música y Tecnología
-        2018*  
-
-        **[El Anfiteatro, lugar de encuentro entre la copla y el paisaje](
-        http://www.elsolabc.com/nota/item,7857/seccion,21/subseccion,0/titulo,segundas-jornadas-de-acstica-y-audio-en-salta-experiencia-y-balance)**
-        Universidad Católica de Salta  *Segundas Jornadas de Acustica y Audio*
-
-        **[Taller de maquetado de Proyectos Artísticos y Realidad Virtual](
-        https://www.facebook.com/jaasyeess/photos/a.1385504834829507/2533389930040986/?type=3&theater)**
-        Universidad Nacional de Quilmes *Tercera Jornadas de Acustica y Audio* 
-        
-        **[Seminario: Patrimonio acústico: metodología y casos de estudio en
-        espacios naturales de Argentina](
-        https://www.ub.edu/artsoundscapes/seminar-series/)**  Universitat de
-        Barcelona | Facultat de Historia i Geografía  *Artsoundscapes
-        Seminaries*
-
-        **[Caracterizaciones Acústicas a partir de información direccional](
-        https://twitter.com/TelecoCampusSur/status/1204326235679207424)**
-        Universidad Politécnica de Madrid *Grupo de Aplicaciones Multimedia y
-        Acústica*  
 
 
 

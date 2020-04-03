@@ -135,21 +135,21 @@ footer{
 	padding-bottom:5rem !important;
 }
 	
-#elemento-apoyos-institucionales ul{
+#elemento-apoyos-y-colaboraciones ul{
 	padding-left:0;
 }
-#elemento-apoyos-institucionales li {
+#elemento-apoyos-y-colaboraciones li {
 	list-style:none;
 	/*float: left; */
 }
 
-#elemento-apoyos-institucionales ul li{
+#elemento-apoyos-y-colaboraciones ul li{
 	list-style:none;
 	/*float: left; */
 	display: inline;
 	margin-right: 1rem;
 }
 
-#elemento-apoyos-institucionales li img{
+#elemento-apoyos-y-colaboraciones li img{
 	width: 120px;
 }

@@ -153,3 +153,23 @@ footer{
 #elemento-apoyos-y-colaboraciones li img{
 	width: 120px;
 }
+
+/* Small devices (tablets, 768px and up) */
+@media (max-width: 768px ) {
+	.display-3{
+		font-size: 3rem;
+	}
+	.h2,h2{
+		font-size: 2rem;
+	}
+}
+
+/* Medium devices (desktops, 992px and up) */
+@media (min-width: @screen-md-min) { }
+
+/* Large devices (large desktops, 1200px and up) */
+@media (min-width: @screen-lg-min) { }
+@media (max-width: @screen-xs-max) {  }
+@media (min-width: @screen-sm-min) and (max-width: @screen-sm-max) {  }
+@media (min-width: @screen-md-min) and (max-width: @screen-md-max) {  }
+@media (min-width: @screen-lg-min) {  }

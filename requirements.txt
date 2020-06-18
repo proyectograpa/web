@@ -1,5 +1,8 @@
 pyyaml
 jinja2
 python-slugify
-html5print
 markdown
+
+googletrans
+
+# html5print

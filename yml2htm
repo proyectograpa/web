@@ -8,7 +8,7 @@ from slugify import slugify
 import datetime
 import markdown
 
-# from googletrans import Translator
+from googletrans import Translator
 
 jinja_env = jinja2.Environment(
   autoescape = True,
@@ -61,48 +61,51 @@ with open( 'build/index.html', "w" ) as tex:
 # 
 # yaml.add_representer(literal, literal_presenter)
 # 
-#content = {} 
-#translator = Translator()
-#def traducir(original, destino):
-#   d = destino
-#   ti = ''
-#   te = ''
-#   tii = ''
-#   tei = ''
-#   el = [] 
-#
-#   if('elementos' in d):
-#     el = d['elementos'] 
-#
-#   #if('elementos' in original):
-#     #el = original['elementos']
-#
-#   if('titulo' in original):
-#     ti = original['titulo']
-#     tii = translator.translate(ti, src='es').text
-#
-#   if('texto' in original):
-#     te = original['texto']
-#     tei = translator.translate(te, src='es').text
-#   #  #l =  literal(  tei  ) 
-#   #  #destino['texto'] =  l 
-#
-#   if isinstance( el , dict ):
-#     el['titulo'] = ti
-#     #d['elementos'] = el 
-#     #d['texto'] = te
-#
-#   if isinstance( el, list ):
-#     elemento = {}
-#     elemento['titulo'] = ti
-#     #elemento['elementos'] = el 
-#     #elemento['texto'] = te
-#     el.append( elemento )
-#
-#   if( 'elementos' in original):
-#      for e in original['elementos']:
-#         traducir( e, d )
-#traducir(contenido, content)
+content = {} 
+translator = Translator()
+def traducir(original, destino):
+   d = destino
+   ti = ''
+   te = ''
+   tii = ''
+   tei = ''
+   el = [] 
+
+   if('elementos' in d):
+     el = d['elementos'] 
+
+   #if('elementos' in original):
+     #el = original['elementos']
+
+   if('titulo' in original):
+     ti = original['titulo']
+     tii = translator.translate(ti, src='es', dest='pt').text
+     print(tii)
+
+   if('texto' in original):
+     te = original['texto']
+     tei = translator.translate(te, src='es', dest='pt').text
+     print(tei)
+   #  #l =  literal(  tei  ) 
+   #  #destino['texto'] =  l 
+   print("#"*40)
+
+   if isinstance( el , dict ):
+     el['titulo'] = ti
+     #d['elementos'] = el 
+     #d['texto'] = te
+
+   if isinstance( el, list ):
+     elemento = {}
+     elemento['titulo'] = ti
+     #elemento['elementos'] = el 
+     #elemento['texto'] = te
+     el.append( elemento )
+
+   if( 'elementos' in original):
+      for e in original['elementos']:
+         traducir( e, d )
+traducir(contenido, content)
 #
 #with open(r'content.yml', 'w') as file:
 #    documents = yaml.dump(content, file)

@@ -3,6 +3,8 @@ jinja2
 python-slugify
 markdown
 
-googletrans
+lxml
+beautifulsoup4
+html5print
 
-# html5print
+# googletrans

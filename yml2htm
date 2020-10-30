@@ -3,12 +3,12 @@
 import yaml
 import jinja2
 from slugify import slugify 
-#from html5print import HTMLBeautifier
+from html5print import HTMLBeautifier
 #from bs4 import BeautifulSoup
 import datetime
 import markdown
 
-from googletrans import Translator
+# from googletrans import Translator
 
 jinja_env = jinja2.Environment(
   autoescape = True,
@@ -44,14 +44,15 @@ contenido = yaml.load(
 
 feo =  template.render( contenido = contenido ) 
 
-# HTMLBeautifier con bardos
-# lindo = HTMLBeautifier.beautify( feo, 4) 
-# alternativa: BeautifulSoup (falta probar)  
-# lindo = BeautifulSoup( feo , "lxml" )
-# print(lindo.prettify())
+# HTMLBeautifier (ahora anda, pro alguna vez bardoeo)
+lindo = HTMLBeautifier.beautify( feo, 4) 
+
+#alternativa HTMLBeautifier: BeautifulSoup (falta probar)  
+#lindo = BeautifulSoup( feo , "lxml" )
+#print(lindo.prettify())
 
 with open( 'build/index.html', "w" ) as tex:
-  tex.write( feo )
+  tex.write( lindo )
 
 
 # class literal(str): pass
@@ -60,55 +61,56 @@ with open( 'build/index.html', "w" ) as tex:
 #     return dumper.represent_scalar('tag:yaml.org,2002:str', data, style='|')
 # 
 # yaml.add_representer(literal, literal_presenter)
-# 
-content = {} 
-translator = Translator()
-def traducir(original, destino):
-   d = destino
-   ti = ''
-   te = ''
-   tii = ''
-   tei = ''
-   el = [] 
+ 
+with open(r'contenido.yml', 'w') as file:
+    documents = yaml.dump(contenido, file)
 
-   if('elementos' in d):
-     el = d['elementos'] 
-
-   #if('elementos' in original):
-     #el = original['elementos']
-
-   if('titulo' in original):
-     ti = original['titulo']
-     tii = translator.translate(ti, src='es', dest='pt').text
-     print(tii)
-
-   if('texto' in original):
-     te = original['texto']
-     tei = translator.translate(te, src='es', dest='pt').text
-     print(tei)
-   #  #l =  literal(  tei  ) 
-   #  #destino['texto'] =  l 
-   print("#"*40)
-
-   if isinstance( el , dict ):
-     el['titulo'] = ti
-     #d['elementos'] = el 
-     #d['texto'] = te
-
-   if isinstance( el, list ):
-     elemento = {}
-     elemento['titulo'] = ti
-     #elemento['elementos'] = el 
-     #elemento['texto'] = te
-     el.append( elemento )
-
-   if( 'elementos' in original):
-      for e in original['elementos']:
-         traducir( e, d )
-traducir(contenido, content)
+#content = {} 
+#translator = Translator()
+#def traducir(original, destino):
+#   d = destino
+#   ti = ''
+#   te = ''
+#   tii = ''
+#   tei = ''
+#   el = [] 
 #
-#with open(r'content.yml', 'w') as file:
-#    documents = yaml.dump(content, file)
+#   if('elementos' in d):
+#     el = d['elementos'] 
+#
+#   #if('elementos' in original):
+#     #el = original['elementos']
+#
+#   if('titulo' in original):
+#     ti = original['titulo']
+#     tii = translator.translate(ti, src='es', dest='pt').text
+#     print(tii)
+#
+#   if('texto' in original):
+#     te = original['texto']
+#     tei = translator.translate(te, src='es', dest='pt').text
+#     print(tei)
+#   #  #l =  literal(  tei  ) 
+#   #  #destino['texto'] =  l 
+#   print("#"*40)
+#
+#   if isinstance( el , dict ):
+#     el['titulo'] = ti
+#     #d['elementos'] = el 
+#     #d['texto'] = te
+#
+#   if isinstance( el, list ):
+#     elemento = {}
+#     elemento['titulo'] = ti
+#     #elemento['elementos'] = el 
+#     #elemento['texto'] = te
+#     el.append( elemento )
+#
+#   if( 'elementos' in original):
+#      for e in original['elementos']:
+#         traducir( e, d )
+#traducir(contenido, content)
+#
 
 
 

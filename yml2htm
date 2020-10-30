@@ -62,8 +62,6 @@ with open( 'build/index.html', "w" ) as tex:
 # 
 # yaml.add_representer(literal, literal_presenter)
  
-with open(r'contenido.yml', 'w') as file:
-    documents = yaml.dump(contenido, file)
 
 #content = {} 
 #translator = Translator()
@@ -112,5 +110,7 @@ with open(r'contenido.yml', 'w') as file:
 #traducir(contenido, content)
 #
 
+#with open(r'contenido.yml', 'w') as file:
+#    documents = yaml.dump(contenido, file)
 
 

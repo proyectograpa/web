@@ -3,21 +3,23 @@ icon: 'imgs/logo_grapa_100x100.png'
 dominio: 'http://proyectograpa.com.ar'
 tags: 'acústica, investigación, relevamiento, patrimonio, sonido, '
 correo: 'proyectograpa@gmail.com'
-titulo: 'Proyecto GRAPa'
-subtitulo: 'Proyecto GRAPa'
+titulo: 'Projeto GRAPa'
+subtitulo: 'Projeto GRAPa'
 texto: |-
 
-  *Proyecto GRAPa* está conformado por una serie de trabajos individuales
-  interrelacionados de relevamiento, registro y  promoción del Patrimonio
-  Acústico  de distintas regiones de nuestro país.
 
-  - *Relevamientos acústicos en audio 3D*
+  * Projeto GRAPa * é composto por uma série de trabalhos individuais de 
+  estudos inter-relacionada, registro e promoção do patrimônio Acústico 
+  de diferentes regiões do nosso país.
 
-  - *Registros musicales y/o rituales patrimoniales en Realidad Virtual*
 
-  - *Fomento de la creación musical para obras específicas de sitio*
+  - *Estudos acústicos em áudio 3D *
 
-  - *Serie audiovisual de micro documentales recogiendo el trabajo realizado*
+  - *Registros musicais e / ou rituais patrimoniais em Realidade Virtual*
+
+  - *Incentivo da criação musical para obras site specific*
+
+  - *Série audiovisual de micro documentários reunindo o trabalho realizado*
 
 abstract: |  
   Grupo de Relevamiento Acústico del Patrimonio
@@ -26,53 +28,51 @@ imagenes:
   - url: 'imgs/port.JPG'
 
 elementos:
-  - titulo: 'Los sonidos en el espacio'
+  - titulo: 'Os sons no espaço'
     texto: | 
 
-      La creación y ejecución musical para occidente, está regida por parámetros
-      establecidos en los que, tanto los ejecutantes como los oyentes mantienen
-      ubicaciones estáticas y preestablecidas, como es el caso de un teatro,
-      donde el público tiene su lugar en las butacas, mientras los artistas
-      permanecen en el escenario al frente.
+      A criação e a execução musical no Ocidente são regidas por parâmetros 
+      estabelecidos, nos quais, tanto intérpretes, quanto ouvintes, 
+      mantêm locais estáticos e predefinidos, como um teatro, onde 
+      o público tem seu lugar na platéia, enquanto os artista permanecem 
+      no palco à frente.
 
-      Para poder comprender las prácticas musicales y rituales que nos
-      anteceden, ajenas a estos modos, es necesario vivenciarlas de la manera
-      en que se recrean que, en la gran mayoría de los casos, proponen
-      experiencias inmersivas de escucha, en las que, por su misma práctica, el
-      espacio juega un rol fundamental ampliando la percepción sonora más allá
-      de los límites visuales.
+      Para entender as práticas musicais e rituais que nos antecedem e estão 
+      alheias a esses modos, é necessário experienciá-las de maneira que se 
+      recriem. A grande maioria dos casos propõem experiências imersivas de 
+      escuta, nas quais o próprio espaço desempenha um papel fundamental 
+      expandindo a percepção sonora além dos limites visuais.
 
-      En la búsqueda de proponer al espectador una experiencia vivencial más
-      completa acústica y visualmente, es que usamos tecnología especifica para
-      registrar estas músicas y rituales. 
+      Buscando oferecer ao espectador uma experiência acústica e visual completa, 
+      e para tal, dispomos de uma tecnologia específica para registrar as músicas 
+      e rituais. 
 
-      El registro en audio y video inmersivo permite difundir dichas prácticas
-      de un modo mucho más próximo a una descripción *emic*, enmarcadas en su
-      lugar de origen y enriqueciendo la comprensión de la cosmovisión que las
-      comunidades expresan en sus prácticas culturales.
+      A gravação imersiva em áudio e vídeo permite difundir essas práticas de uma 
+      maneira muito mais próxima de uma descrição * emic *, enquadrada em seu lugar 
+      de origem e enriquecendo a compreensão da visão de mundo que comunidades 
+      expressam em suas práticas culturais.
 
     imagenes:
       - url: 'imgs/s_e_1.JPG'
       - url: 'imgs/s_e_2.JPG'
 
     elementos:
-    - titulo: 'El patrimonio Acústico'
+    - titulo: 'O patrimônio acústico'
       texto: | 
 
-        Nos referimos al Patrimonio Acústico como aquellos lugares que por sus
-        características morfológicas y ambientales involucran la experiencia auditiva
-        como parte inseparable del entorno. 
+        Nos referimos ao patrimônio acústico como aqueles lugares que, por suas 
+        características morfológicas e ambientais envolvem a experiência auditiva 
+        como uma parte inseparável do ambiente.
 
-        Estos aspectos acústicos varían a lo largo del tiempo como consecuencia
-        del uso, las transformaciones ambientales y la degradación de sus
-        materiales. 
+        Esses aspectos acústicos variam ao longo do tempo como consequência do uso, 
+        das transformações ambientais e da degradação de seus materiais.
 
-        Por ello vemos necesario retratar dichos espacios a través de estudios
-        acústicos y morfológicos que permitan preservar sus características.
-        
-        Registramos estas particularidades sonoras realizando medidas acústicas
-        específicas mediante Respuestas Impulso con micrófonos Ambisonics y
-        fuentes direccionales. 
+        Por esse motivo, consideramos necessário retratar esses espaços através de 
+        estudos acústico e morfológico para preservar suas características.
+
+        Registramos estas particularidades sonoras realizando medições acústicas 
+        específicas por meio de Respostas ao Impulso com microfones Ambisonics e 
+        fontes direcionais.
 
         <div style="padding:56.25% 0 0 0;position:relative;">
             <iframe
@@ -82,29 +82,27 @@ elementos:
             </iframe>
         </div>
         <br>
-        Asimismo, buscando explorar las particularidades que cada espacio
-        ofrece a partir de estudios antropológicos de uso y entrevistas a
-        quienes visitan y utilizan constantemente dichos espacios.
+        Desta forma, buscamos explorar as particularidades que cada espaço oferece 
+        por meio de estudos antropológicos e entrevistas a quem visita e os utiliza 
+        constantemente.
 
       imagenes:
         - url: 'imgs/areas_1.JPG'
         - url: 'imgs/areas_2.JPG'
 
-    - titulo: 'Relevamientos Acústicos'
+    - titulo: 'Estudos acústicos'
       texto: | 
 
-        En cada espacio fueron realizadas una serie de relevamientos
-        topograficos y acústicos a fin de datar, lo mas fielmente posible las
-        particularidades en cada formación y las posiciones de cada emisor y
-        receptor.
+        Em cada espaço, foram realizados uma série de estudos topográficos e acústicos 
+        com o intuito de reunir dados, os mais fielmente possíveis, a respeito das 
+        particularidades de cada formação e das posições de cada emissor e receptor.
 
-        Debido a las características topográficas de estos espacios (gran
-        irregularidad de sus paredes y suelo con diferencias de nivel) es
-        necesario realizar grillas rombales a una altura fija que permita
-        relevar las distintas posiciones de la fuente y el receptor con una
-        referencia clara, abarcando cuatro puntos extremos del recinto,
-        utilizando como herramienta de replanteo un nivel topográfico. 
-        
+        Devido às características topográficas desses espaços (grande irregularidade de 
+        suas paredes e solo desnivelado) é necessário fazer grades rômbicas a uma altura 
+        fixa que permita aliviar as diferentes posições da fonte e do receptor com um 
+        referência clara, cobrindo quatro pontos extremos do local, usando como ferramenta 
+        de replanejamento um nível topográfico.
+   
         <div style="padding:56.25% 0 0 0;position:relative;">
             <iframe
                 src="https://player.vimeo.com/video/387687552?color=00BC8C&title=0&byline=0&portrait=0"
@@ -113,32 +111,29 @@ elementos:
             </iframe>
         </div>
         <br>
-        De este modo queda a dispocision un banco de Respuestas Impulso (IR's)
-        en Ambisonics (Formato B) para ser utilizadas en post producción de audio,
-        con fines educativo o de cualquier otro indole:
+        Assim, fica à disposição, um banco de Respostas de Impulso (IR) em Ambisonics 
+        (Formato B) para ser usado na pós-produção de áudio, para fins educacionais ou de 
+        qualquer outro interesse:
 
-        **[Anfiteatro Natural de la Quebrada de las Conchas](
+        **[Anfiteatro Natural da Quebrada de las Conchas](
           https://www.dropbox.com/sh/x20r9trz9gptx5m/AACdBozPbzgUy7IyS3tL4F0Za?dl=0)**  
 
-        **[Caverna de las Brujas - Sala de la Virgen](
+        **[Caverna das Bruxas - Sala da Virgem](
         https://www.dropbox.com/sh/h0yrtqxhickf903/AAAV4MFEtck3u9X_-NvwHpxMa?dl=0)**  
 
       imagenes:
         - url: 'imgs/ra1.JPG'
         - url: 'imgs/ra2.JPG'
 
-    - titulo: 'Registro Audivisual Documental'
+    - titulo: 'Registro Audiovisual'
       texto: | 
         
-        Realizamos una serie documental audiovisual en la que se recoge la
-        experiencia del trabajo de campo (estudios acústicos y registros
-        musicales).
+        Realizamos uma série de documentários audiovisuais que mostram o trabalho de campo 
+        (estudos e registros acústicos musicais).
 
-        Esta serie muestra cómo, la exploración de cada espacio (estudio
-        morfológico y sonoridad particular en cada caso), es expuesta y
-        potenciada al experimentarla a través del sonido producido por los
-        intrumentos y voces propios de cada practica musical en diálogo con el
-        paisaje.
+        Esta série mostra como a exploração de cada espaço (estudo morfológico e sonoro em 
+        cada caso) é exposta e aprimorada ao experimentá-la através do som produzido pelos 
+        instrumentos e vozes próprias de cada prática musical em diálogo com a paisagem.
 
         <div style="padding:56.25% 0 0 0;position:relative;">
             <iframe
@@ -152,177 +147,157 @@ elementos:
         - url: 'imgs/docu_1.JPG'
         - url: 'imgs/docu_2.JPG'
 
-    - titulo: 'Practicas Musicales en Realidad Virtual'
+    - titulo: 'Práticas Musicais em Realidade Virtual'
       texto: | 
 
-        Para registrar las músicas de distintos espacios, utilizamos
-        tecnologías de filmación y registro sonoro especifico.
-      
-        El registro en audio y video inmersivo permite difundir el canto acorde
-        a su práctica y enmarcado en su lugar de origen. A partir de mecanismos
-        de reproducción para Realidad Virtual, el espectador tiene una
-        experiencia vivencial más completa al poder situarse en puntos en los
-        que la expresion artistica cobra mayor relevancia, tal es el caso, por
-        ejemplo de una ronda de copleras registras desde el centro mismo de la
-        ronda.
-        
-        En la Provincia de Salta (Argentina), la reconocida coplera **[Mariana
-        Carrizo]( http://www.marianacarrizo.com.ar/)** encuentra una profunda
-        relación entre el canto con caja y estos valles, en cuyos paisajes
-        aprendió a cantar en la niñez.  Su participación en Proyecto GRAPa fue
-        indispensable para el reconocimiento y aprendizaje del Canto de la
-        Copla en relación al paisaje.
+        Para registrar as músicas de diferentes espaços, utilizamos tecnologias de filmagem 
+        e gravação de som específicas.
+
+        O registro imersivo de áudio e vídeo permite transmitir o canto do acorde à sua prática 
+        e enquadrado em seu lugar de origem. A partir dos mecanismos reprodução para Realidade 
+        Virtual, o espectador tem um vivência mais completa, sendo capaz de situar-se em pontos 
+        onde que a expressão artística se torna mais relevante, como por exemplo, em uma rodada 
+        de copleras em que se registra a partir do centro da roda.
+
+        Na província de Salta (Argentina), a reconhecida coplera Mariana Carrizo encontra uma 
+        profunda relação entre o canto com caixa e os vales, em cujas paisagens aprendeu a cantar 
+        em sua infância. Sua participação no Projeto GRAPa foi indispensável para o reconhecimento 
+        e aprendizado do Canto de Copla em relação à paisagem.
 
       imagenes:
         - url: 'imgs/copla_rv_1.JPG'
         - url: 'imgs/copla_rv_2.JPG'
 
-  - titulo: 'Los Lugares y La Música'
+  - titulo: 'Os lugares e música'
     texto: |
-      Los espacios donde realizar estos registros, más allá de tenerlos
-      en cuenta por sus características acústicas y el paisaje sonoro que
-      los integran (en la mayoría de los casos únicas), son determinados
-      por varios factores: 
+      Além de levar em conta as características acústicas e a paisagem sonora (únicas, na maioria 
+      dos casos) que integram estes espaços onde são realizados os registros, há também outros 
+      fatores que os determinam:
 
-      - *Significante de uso que tiene y tuvo para la sociedad*
+      - *Uso significativo que tem e teve para a sociedade*
 
-      - *Atractivo turístico y cultural*
+      - *Atração turística e cultural*
 
-      - *Accesibilidad*
+      - *Acessibilidade*
             
-      A partir de una exhaustiva investigación, se decidió explorar siete
-      espacios, agrupados en tres regiones de la República Argentina, relacionando
-      cada región con el canto, la música y las expresiones culturales que la
-      integran:
+      A partir de exaustiva investigação, decidiu-se explorar sete espaços, agrupados em três 
+      regiões da Argentina, relacionando cada região com o canto, a música e as expressões 
+      culturais que as integram:
 
-      - *Región Noroeste*
+      - *Região Noroeste*
 
-      - *Región Cuyo | Patagónica*
+      - *Região de Cuyo | Patagônia*
 
-      - *Región Noreste*
+      - *Região Nordeste*
       
     imagenes:
       - url: 'imgs/lugares_1.JPG'
       - url: 'imgs/lugares_2.JPG'
 
     elementos:
-      - titulo: 'Región Noroeste'
-        subtitulo : 'El Canto de la Copla'
+      - titulo: 'Região Noroeste'
+        subtitulo : 'A música de Copla'
         texto: |
           
-          Región característica por Valles y Quebradas colindantes a la
-          cordillera de los Andes, cuenta con Áreas Protegidas que formaron parte del
-          antiguo camino del Inka en Argentina. En esta región serán estudiados tres
-          espacios: *“El Anfiteatro”* en la Quebrada de las Conchas (Salta), *Parques
-          provinciales de Ischigualasto y Talampaya* (San Juan) y *“La quebrada de
-          Humahuaca”* en La Puna (Jujuy).
+          Região caracterizada por Vales e Quebradas adjacentes à Cordilheira dos Andes, conta com 
+          áreas protegidas que fizeram parte da antiga trilha Inca na Argentina. Nessa região serão 
+	  estudados três espaços: *"O Anfiteatro"* na Quebrada de las Conchas (Salta), 
+          *Parques Provinciais de Ischigualasto e Talampaya* (San Juan) e *"La Quebrada de Humahuaca”* 
+	  em La Puna (Jujuy).
 
-          *El canto de la Copla* es una de las expresiones identitarias de la
-          región, practicada por distintas comunidades desde tiempos
-          ancestrales y transmitida por vía oral. 
+          *A música de Copla* é uma das expressões de identidade da região, praticada por diferentes 
+          comunidades desde tempos ancestrais e transmitida oralmente.
 
-          Su forma de ejecución está muy ligada al entorno natural, por lo cual
-          consideramos que es un claro exponente del Patrimonio Acústico y
-          Sonoro.  Como práctica cultural, se expresa de modo ritual en rondas
-          improvisadas donde las cajas y voces se alternan continuamente.
-              
+          Sua forma de execução está intimamente ligada ao ambiente natural, razão pela qual consideramos 
+          que é um claro expoente do patrimônio acústico e sonoro. Como prática cultural, é ritualizada 
+          em rodadas improvisadas onde as caixas e vozes se alternam continuamente.
+             
         imagenes:
          - url: 'imgs/coplas_1.JPG'
          - url: 'imgs/coplas_2.JPG'
 
         elementos:
-          - subtitulo: 'El Anfiteatro'
+          - subtitulo: 'O Anfiteatro'
             texto: |
               
-              A menos de 40 kilómetros de la ciudad de Cafayate sobre la ruta
-              Nacional Nº68, a metros del Río de las Conchas, se encuentra *El
-              Anfiteatro*. 
+              A menos de 40 quilômetros da cidade de Cafayate, na rota Nacional Nº68, a poucos metros do 
+              Rio das Conchas, está * El Anfiteatro*.
 
-              Se trata de una formación rocosa semi-cerrada de forma
-              pseudo-ojival esculpida por la erosión. Su forma particular y el
-              material de sus paredes hacen que posea una cualidad acústica
-              excepcional, reconocida en la región y que ha dado inicio, por
-              ejemplo, al ciclo del “Concierto en la Montaña”, realizado
-              anualmente en este espacio desde 1991.
-
+              Se trata de uma formação rochosa semi-fechada e de forma pseudo-ogival, esculpida pela erosão. 
+              Sua forma particular e o material de suas paredes fazem com que tenha uma qualidade acústica 
+              excepcional reconhecida na região, e que iniciou, por exemplo, o ciclo do "Concierto en la Montaña", 
+              realizado anualmente neste espaço desde 1991.
 
             imagenes:
              - url: 'imgs/anfi_1.JPG'
              - url: 'imgs/anfi_2.JPG'
 
-      - titulo: 'Región Cuyo | Patagónica'
-        subtitulo: 'La Música Araucana'
+      - titulo: 'Região do Cuyo | Patagônica'
+        subtitulo: 'Música Araucana'
         texto: |
           
-          Regiones áridas y de estepas, tanto Cuyo como la Patagonia, se
-          reconocen por sus climas fríos y secos. De estas zonas se decidió
-          trabajar con formaciones cavernarias cuyos atributos acústicos se
-          distinguen de otros espacios en Argentina. En particular serán
-          estudiadas dos formaciones cavernarias significativas de cada región:
-          *Caverna de las Brujas* en el Departamento de Malargüe
-          (Mendoza) y *Cueva de las Manos* en el Cañadón del Río
-          Pinturas (Santa Cruz).
-                    
-          Estas regiones fueron habitadas por las comunidades Huarpe y Mapuche,
-          quienes manifestaban una variedad de cantos y músicas recreativas y
-          ligadas a sus creencias. Predominan en ambos casos el canto chamánico
-          y el tambor como elemento identitario. Del mismo modo, las tribus
-          pre-tehuelches (Aoni-Kenk) mucho más relacionados al Cañadón del Río
-          Pinturas, además del canto, poseen un grupo de instrumentos como el
-          koolo, el Rambo y percusivos como el Aple, El Chelper y el sonajero.
+          Regiões áridas e de estepes, tanto o Cuyo quanto a Patagônia, são reconhecidas por seus climas frios e secos. 
+          Nestas áreas, foi decidido trabalhar com formações de cavernas cujos atributos acústicos se distinguem de 
+          outros espaços do território argentino. Em particular, serão estudadas duas formações de cavernas significativas 
+          em cada região:
+          *Caverna das Bruxas* no Departamento de Malargüe (Mendoza) e *Cueva de las Manos* no cânion do Río Pinturas (Santa Cruz).
+
+          Essas regiões foram habitadas pelas comunidades Huarpe e Mapuche, as quais expressaram uma variedade de músicas 
+          recreativas ligadas às suas crenças. O canto xamânico e o tambor predominaram nos dois casos como elemento de identidade. 
+          Além destas, as tribos pré-tehuelches (Aoni-Kenk) - muito mais relacionadas ao cânion do Rio Pinturas - também 
+          apresentaram um grupo variado de instrumentos como o koolo, o Rambo, o Aple, El Chelper e o chocalho, além do seu canto. 
 
         imagenes:
           - url: 'imgs/cuyo_1.JPG'
           - url: 'imgs/cuyo_2.JPG'
 
         elementos:
-          - subtitulo: 'Caverna de las Brujas'
+          - subtitulo: 'Caverna das Bruxas'
             texto: |
               
-              Es una formación cavernaria cerrada, ubicada a 8 km al norte de
-              R.N. N° 40, en las cercanías de la localidad de Bardas Blancas en
-              el Valle del río Grande, al Sur de la provincia de Mendoza, en el
-              departamento de Malargüe.
+              É uma formação de caverna fechada, localizada a 8 km ao norte 
+              de R.N. 40, perto da cidade de Bardas Blancas, no Vale do 
+              Rio Grande, ao sul da província de Mendoza, na região do 
+              Departamento de Malargüe.
 
-              Nuestro estudio está centrado en la sala más amplia y accesible,
-              reconocida por sus características acústicas y el paso de
-              comunidades preexistentes llamada *Sala de la Virgen*.
+              Nosso estudo está focado na sala mais ampla e acessível, 
+              reconhecida por suas características acústicas e passagem 
+              de comunidades pré-existentes chamadas * Sala da Virgem*.                                                                                                                                                         Seu acesso fechado, com aproximadamente 15 metros de comprimento, dá a uma sala com 35 metros de profundidade e 20 metros de largura, aproximadamente, com uma altura irregular que atinge 10 metros em alguns pontos.
 
-              Su acceso cerrado, de aproximadamente 15 metros de largo, da a
-              una sala de 35 metros de profundidad y 20 metros de ancho
-              aproximadamente con una altura irregular que llega a los 10
-              metros en algunos puntos.
-
+              Seu acesso fechado, com aproximadamente 15 metros de comprimento, 
+              dá a uma sala com 35 metros de profundidade e 20 metros de largura, 
+              aproximadamente, com uma altura irregular que atinge 10 metros em 
+              alguns pontos.
 
             imagenes:
              - url: 'imgs/caverna_1.JPG'
              - url: 'imgs/caverna_2.JPG'
 
-      - titulo: 'Región Noreste'
-        subtitulo: 'La Música Qom'
+      - titulo: 'Região Nordeste'
+        subtitulo: 'Música Qom'
         texto: |
           
-          De esta región se propone estudiar dos Parques Nacionales conocidos
-          como: *El Impenetrable* (Chaco) e *Iguazú* (Misiones), ambos se caracterizan
-          por su fauna y flora, donde pueden encontrarse cientos de especies hoy
-          consideradas en vías de extinción.  De este modo, sus Áreas Protegidas gozan de
-          un paisaje sonoro único en Argentina.
-          
-          Culturalmente, estos espacios fueron habitados por comunidades entre
-          las que se destacan los Guaycurúes, conocidos como Qom. Sus prácticas
-          musicales se expresan en convivencia con el paisaje sonoro que le da
-          origen. Se destacan por cantos colectivos y solistas acompañados por
-          instrumentos como el *n’viqué* (especie de violín de una sola cuerda)
-          e instrumentos percusivos como vainas de algarrobos, pezuñas, maracas
-          y sonajeros de calabazas como el *cartexetẽ*.
+          Desta região propõe-se estudar dois Parques Nacionais conhecidos como: 
+          *El Impenetrable* (Chaco) e *Iguazú* (Misiones). 
+          Ambos são caracterizados por sua fauna e flora, as quais possuem centenas 
+          de espécies, hoje ameaçadas de extinção. Dessa forma, suas Áreas Protegidas 
+          gozam de uma paisagem sonora única na Argentina.
+
+          Culturalmente, esses espaços eram habitados por comunidades entre as quais 
+          se destacam os Guaycurúes, conhecidos como Qom. Suas práticas musicais se 
+          expressam em coexistência com a paisagem sonora que a origina. 
+          Destacam-se por canções coletivas e solistas acompanhadas por instrumentos 
+          como *n’viqué* (um tipo de violino de corda única) e instrumentos de percussão, 
+          como vagens de alfarroba, cascos, maracas e chocalhos de abóbora como o 
+          *cartexetẽ*.
 
         imagenes:
           - url: 'imgs/nea_1.JPG'
           - url: 'imgs/nea_2.JPG'
 
-  - titulo: 'Impacto Social'
+  - titulo: 'Impacto social'
     elementos:
-    - titulo: 'Publicaciones'
+    - titulo: 'Publicaçõess'
       texto: |
         **[Caracterización Acústica Direccional Del Anfiteatro
         Natural De La Quebrada De Las Conchas](
@@ -352,7 +327,7 @@ elementos:
         ICOMOS...
         *IV Jornadas Internacionales de Turismo y Patrimonio....*
 
-    - titulo: 'Conferencias y Charlas'
+    - titulo: 'Conferências e Palestras'
       texto: | 
 
         **[El origen geologico del paisaje](
@@ -390,55 +365,53 @@ elementos:
         https://twitter.com/TelecoCampusSur/status/1204326235679207424)**
         Universidad Politécnica de Madrid *Grupo de Aplicaciones Multimedia y
         Acústica*  
-  - titulo: 'Sobre Proyecto G.R.A.Pa'
+  - titulo: 'Sobre o Projeto G.R.A.Pa'
     texto: |
       
-      **Proyecto G.R.A.Pa.** se formó en el año 2017 en base a una cooperación
-      entre la Universidad Nacional de Quilmes (UNQ) y la Universidad Católica
-      de Salta (UCaSal) con el objetivo de realizar un relevamiento de la
-      acústica del Anfiteatro Natural de la Quebrada de las Conchas. En el 2018
-      ampliamos los objetivos del proyecto al relacionarlo con el canto de la
-      Copla a partir del entorno sonoro propio de sus orígenes. Contamos ,
-      desde entonces, con la participación de la coplera salteña Mariana
-      Carrizo, artista comprometida en la lucha por la preservación y
-      revalorización de este canto ancestral. 
+      **O Projeto G.R.A.Pa.** foi formado em 2017 com base na cooperação 
+      entre a Universidade Nacional de Quilmes (UNQ) e a Universidade Católica 
+      de Salta (UCaSal) com o intuito de realizar um estudo acústico do Anfiteatro 
+      Natural da Quebrada de las Conchas. Em 2018 expandimos os objetivos do projeto 
+      relacionando-o com o Canto de Copla originado a partir do próprio entorno sonoro. 
+      Desde então, contamos com a participação da coplera saltenha, Mariana Carrizo, 
+      artista comprometida com a luta pela preservação e revalorização deste canto 
+      ancestral.
 
-      A partir de allí, iniciamos un proyecto de investigación y producción de
-      contenidos inmersivos, en los cuales la relación entre las músicas nativas
-      y sus entornos acústicos naturales se exprese con claridad. Nuestra
-      finalidad es documentar el Patrimonio Acústico, que entendemos abarca
-      tanto la música en sí misma como el entorno acústico y sonoro en el que
-      es creada.
+      A partir daí, iniciamos um projeto de pesquisa e produção de conteúdos imersivos, 
+      nos quais a relação entre música nativa e seus ambientes acústicos naturais se 
+      expressem com claridade. Nosso objetivo é documentar o Patrimônio Acústico, 
+      que entendemos abranger tanto a música em si, quanto o ambiente acústico e 
+      sonoro em que é criada.
 
     imagenes:
       - url: 'imgs/equipo.JPG'
 
     elementos:
-      - titulo: 'Integrantes'
+      - titulo: 'Membros'
         elementos:
           - titulo: 'Francisco Durante'
             texto: |
 
               **[Francisco Durante](
-              https://www.facebook.com/franciscofidel.durante)** es Licenciado
-              en Música y Tecnología (UNQ) y Maestro Mayor de Obras dedicado a
-              la investigación, diseño y construcción con materiales naturales
-              y permacultura. Trabaja como compositor en diferentes proyectos
-              artísticos multidisciplinarios en donde se vinculan las músicas
-              tradicionales con nuevas tecnologías y el espacio. 
-              
+              https://www.facebook.com/franciscofidel.durante)** é licenciado 
+              em Música e Tecnologia (UNQ) e mestre de obras dedicado à pesquisa, 
+              projeto e construção com materiais naturais e permacultura. 
+              Trabalha como compositor em diferentes projetos artísticos 
+              multidisciplinares onde a música tradicional está vinculada com novas 
+              tecnologias e o espaço.
+
             imagenes:
               - url: 'imgs/francisco_durante.JPG' 
 
           - titulo: 'Damian Payo'
             texto: |
 
-               **[Damian Payo]( https://www.damianpayo.com)** es Licenciado en
-               Música y Tecnología (UNQ), actualmente se desempeña como docente
-               e investigador en la Universidad Católica de Salta en la ciudad
-               de Salta Capital desde donde ha profundizado en el estudio de
-               Acústica de Salas no convencionales y organizado Jornadas y
-               Seminarios abocados al área de la Acústica y el Audio Digital. 
+               **[Damian Payo]( https://www.damianpayo.com)** é licenciado em 
+               Música e Tecnologia (UNQ). Atualmente trabalha como professor e 
+               pesquisador da Universidade Católica de Salta, na cidade Capital de Salta, 
+               onde se aprofundou nos estudos de “Acústica de salas não convencionais”, 
+               e tem organizado Conferências e Seminários voltados à área de Acústica e 
+               Áudio Digital.
 
             imagenes:
               - url: 'imgs/damian_payo.JPG'
@@ -446,12 +419,10 @@ elementos:
           - titulo: 'Manuel Eguía'
             texto: |      
 
-                **[Manuel Eguía]( http://lapso.org/)** es Doctor en Física
-                (UBA) e investigador de CONICET y UNQ, donde dirige el
-                Laboratorio de Acústica y Percepción Sonora (LAPSo), grupo
-                donde ha realizado numerosos trabajos de investigación sobre
-                percepción espacial auditiva y dispositivos que modifican el
-                campo sonoro con medios puramente acústicos.
+                **[Manuel Eguía]( http://lapso.org/)** é doutor em Física (UBA) e pesquisador 
+                do CONICET e UNQ, onde dirige o Laboratório de Acústica e Percepção Sonora (LAPSo), 
+                grupo onde realizou inúmeras pesquisas sobre percepção espacial auditiva e 
+                dispositivos que modificam o campo sonoro com meios puramente acústicos.
 
             imagenes:
              - url: 'imgs/manuel_eguia.JPG' 
@@ -459,13 +430,11 @@ elementos:
           - titulo: 'Mauro Zannoli'
             texto: |  
 
-                **[Mauro Zannoli]( https://maurozannoli.com/Home)** es
-                Licenciado en Composición con Medios Electroacústicos (UNQ),
-                compositor, programador y diseñador sonoro. En su trabajo tiene
-                un fuerte interés en la utilización del espacio como un
-                parámetro más del sonido tanto en música como en el arte
-                sonoro. Ha montado sistemas Ambisonics en varios teatros para
-                obras específicas.
+                **[Mauro Zannoli]( https://maurozannoli.com/Home)** é licenciado em Composição 
+                com Meios Eletroacústicos (UNQ), compositor, programador e designer sonoro. 
+                Em seu trabalho, tem um forte interesse na utilização do espaço como um parâmetro 
+                a mais para relacionar ao som tanto na música, como na arte sonora. Executa 
+                instalações de sistemas Ambisonics em diversos teatros para obras específicas.
 
             imagenes:
               - url: 'imgs/mauro_zannoli.JPG' 
@@ -473,48 +442,45 @@ elementos:
           - titulo: 'Lisandro Fernandez'
             texto: |
 
-              **[Lisandro Fernandez]( https://labsl.multimediales.com.ar/)** es
-              Licenciado en Música y Tecnología (UNQ), musico abocado al
-              estudio de sistemas. Participa activamente del Laboratorio de
-              Software Libre. Dedicado a investigar, producir y divulgar
-              herramientas informáticas, tarea que lo llevó a exponer en
-              distintas jornadas y congresos relacionados a la programación y
-              el arte interactivo en distintos espacios de Iberoamérica.
-
+              **[Lisandro Fernandez]( https://labsl.multimediales.com.ar/)** é licenciado 
+              em Música e Tecnologia (UNQ), e músico dedicado ao estudo de sistemas. 
+              Participa ativamente do Laboratório de Software Livre/Libre. Dedica-se a 
+              pesquisar, produzir e divulgar ferramentas de informática, trabalho que o 
+              levou a expor em distintas conferências e congressos relacionados à programação e 
+              arte interativa em diferentes lugares Iberoamericanos. 
+              
             imagenes:
               - url: 'imgs/lisandro_fernandez.JPG' 
           
           - titulo: 'Juan Barthe'
             texto: |
-              **[Juan Barthe]( https://www.facebook.com/juan.barthe)** Es
-              reportero gráfico y realizador audiovisual.  Realizó más de 50
-              cortos de los cuales algunos ocuparon los primeros lugares en
-              competencias y concursos nacionales y provinciales. Trabajó para
-              marcas de aventura como SOX, Columbia, Red Bull, Sckechers, entre
-              otras. 
-
-              Su interés por las relaciones humanas en sociedad, lo llevó a
-              participar de distintos proyectos audiovisuales documentales
-              por los cuales recorre nuevos caminos acompañado de la
-              implementación  de nuevas técnicas para contar historias.
+              **[Juan Barthe]( https://www.facebook.com/juan.barthe)** é repórter gráfico 
+              e produtor audiovisual. Produziu mais de 50 curtas, dentre os quais alguns 
+              ocuparam os primeiros lugares em competições nacionais e estaduais. 
+              Trabalhou para marcas de aventura como SOX, Columbia, Red Bull, Sckechers, 
+              entre outras.
+              Seu interesse pelas relações humanas em sociedade o levou a participar de 
+              diferentes projetos de documentários audiovisuais, enveredando para novos 
+              caminhos, acompanhado pela implementação de novas técnicas para contar 
+              histórias.
 
             imagenes:
               - url: 'imgs/juan_barthe.JPG'
 
-      - titulo: 'Apoyos y Colaboraciones'
+      - titulo: 'Apoios e Colaborações'
         elementos:
-        - titulo: 'Apoyos Institucionales'
+        - titulo: 'Apoios institucionais'
           texto: | 
-            Proyecto GRAPa, desde sus inicios cuenta con el apoyo de:
+            Projeto GRAPa, desde sua criação, conta com o apoio de:
             
             * [![UCASAL](imgs/logo_ucasal.png)]( http://www.ucasal.edu.ar )
             * [![UNQ](imgs/logo_unq.png)]( http://www.unq.edu.ar )
             * [![LaPSo](imgs/logo_lapso.png)]( http://www.lapso.org )
 
-        - titulo: 'Colaboraciones'
+        - titulo: 'Colaborações'
           texto: | 
 
-            En cada lugar recibimos la colaboración de:
+            Em cada local, recebemos a colaboração de:
 
             
             * Salta:
@@ -529,20 +495,20 @@ elementos:
 
 
             
-            A todos y cada uno de ellos va un profundo agradecimiento desde todos los que integramos Proyecto GRAPa.
+            A todos os colaboradores, o profundo agradecimento de todos nós, integrantes, do Projeto GRAPA.
 
-        - titulo: 'Productora asociada'
+        - titulo: 'Produtor associado'
           texto: | 
             * [![ VUELA Produção e Criação ](imgs/vuela_logo_amarela.png)]( http://vuelaproducao.com/)
 
 
-        - titulo: 'Contacto'
+        - titulo: 'Contato'
           #(no se si esta habilitado, si no seria proyectograpa@gmail.com)
           texto: | 
 
-            Mail: [info@proyectograpa.com ]( mailto:info@proyectograpa.com )
+            Correio: [info@proyectograpa.com ]( mailto:info@proyectograpa.com )
             
-            Teléfono: +54 9 387 4491 448 || +54 9 11 3177 2675
+            Telefone: +54 9 387 4491 448 || +54 9 11 3177 2675
 
 
 

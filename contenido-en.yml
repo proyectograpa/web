@@ -5,6 +5,7 @@ tags: 'acústica, investigación, relevamiento, patrimonio, sonido, '
 correo: 'proyectograpa@gmail.com'
 titulo: 'Proyecto GRAPa'
 subtitulo: 'Proyecto GRAPa'
+idioma: '-en'
 texto: |-
 
   *Proyecto GRAPa* está conformado por una serie de trabajos individuales
@@ -502,6 +503,7 @@ elementos:
               - url: 'imgs/juan_barthe.JPG'
 
       - titulo: 'Apoyos y Colaboraciones'
+        clase: 'apoyo-colaboraciones'
         elementos:
         - titulo: 'Apoyos Institucionales'
           texto: | 

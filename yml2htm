@@ -37,7 +37,7 @@ template = jinja_env.get_template( 'base.html' )
 template.globals['now'] = datetime.datetime.utcnow
 
 contenido = yaml.load(
-  open( 'contenido-pt.yml', 'r' ),
+  open( 'contenido-en.yml', 'r' ),
   Loader = yaml.FullLoader
 )
 
@@ -51,9 +51,8 @@ lindo = HTMLBeautifier.beautify( feo, 4)
 #lindo = BeautifulSoup( feo , "lxml" )
 #print(lindo.prettify())
 
-with open( 'build/index-pt.html', "w" ) as tex:
+with open( 'build/index-en.html', "w" ) as tex:
   tex.write( lindo )
-
 
 # class literal(str): pass
 # 

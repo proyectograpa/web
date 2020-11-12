@@ -7,17 +7,16 @@ titulo: 'Proyecto GRAPa'
 subtitulo: 'Proyecto GRAPa'
 texto: |-
 
-  *Proyecto GRAPa* está conformado por una serie de trabajos individuales
-  interrelacionados de relevamiento, registro y  promoción del Patrimonio
-  Acústico  de distintas regiones de nuestro país.
+  *Proyecto GRAPa is developed by interrelated works concern to survey, 
+  register and promotion of the Argentinian acoustic heritage.
 
-  - *Relevamientos acústicos en audio 3D*
+  - *3D audio acoustic surveys*
 
-  - *Registros musicales y/o rituales patrimoniales en Realidad Virtual*
+  - *Musical recordings in Virtual Reality of rituals patrimonial*
 
-  - *Fomento de la creación musical para obras específicas de sitio*
+  - *Promotion of musical creation of site-specific*
 
-  - *Serie audiovisual de micro documentales recogiendo el trabajo realizado*
+  - *A series of audiovisual micro-documentaries about the done work*
 
 abstract: |  
   Grupo de Relevamiento Acústico del Patrimonio
@@ -26,53 +25,47 @@ imagenes:
   - url: 'imgs/port.JPG'
 
 elementos:
-  - titulo: 'Los sonidos en el espacio'
+  - titulo: 'Sound in the Space'
     texto: | 
 
-      La creación y ejecución musical para occidente, está regida por parámetros
-      establecidos en los que, tanto los ejecutantes como los oyentes mantienen
-      ubicaciones estáticas y preestablecidas, como es el caso de un teatro,
-      donde el público tiene su lugar en las butacas, mientras los artistas
-      permanecen en el escenario al frente.
+      In western culture, musical creation and perform is lead by parameters 
+      in which, both performers and listeners remain statics in their places. 
+      The most common example is the traditional theatre where the audience 
+      stay in their armchairs while the performers are playing  from the front 
+      scenario.
 
-      Para poder comprender las prácticas musicales y rituales que nos
-      anteceden, ajenas a estos modos, es necesario vivenciarlas de la manera
-      en que se recrean que, en la gran mayoría de los casos, proponen
-      experiencias inmersivas de escucha, en las que, por su misma práctica, el
-      espacio juega un rol fundamental ampliando la percepción sonora más allá
-      de los límites visuales.
+      To understand the pre-colonial standard practices is indispensable to live 
+      them as they were conceived, which usually are immersive, not unidirectional 
+      as in the western culture, and space has a meaningful role in the sound 
+      perception beyond visual boundaries.
 
-      En la búsqueda de proponer al espectador una experiencia vivencial más
-      completa acústica y visualmente, es que usamos tecnología especifica para
-      registrar estas músicas y rituales. 
-
-      El registro en audio y video inmersivo permite difundir dichas prácticas
-      de un modo mucho más próximo a una descripción *emic*, enmarcadas en su
-      lugar de origen y enriqueciendo la comprensión de la cosmovisión que las
-      comunidades expresan en sus prácticas culturales.
+      Aiming to achieve an authentic and complete experience, both visually and 
+      sonically, for the audience, we register traditional music and rituals with 
+      a specific technology capable of recreating the original feeling of the 
+      ancestral cultures. In this manner, by using 3D recordings, the audience 
+      can understand the ancestral communities’ cosmovision expressed through 
+      their cultural practices.
 
     imagenes:
       - url: 'imgs/s_e_1.JPG'
       - url: 'imgs/s_e_2.JPG'
 
     elementos:
-    - titulo: 'El patrimonio Acústico'
+    - titulo: 'The acoustic heritage'
       texto: | 
 
-        Nos referimos al Patrimonio Acústico como aquellos lugares que por sus
-        características morfológicas y ambientales involucran la experiencia auditiva
-        como parte inseparable del entorno. 
+        We define Acoustic Heritage as those places in which, due to their 
+        constitutive characteristics, the auditory experience and its landscape 
+        are in tight correlation.
 
-        Estos aspectos acústicos varían a lo largo del tiempo como consecuencia
-        del uso, las transformaciones ambientales y la degradación de sus
-        materiales. 
+        The place’s acoustic is not everlasting; the passing time transforms and 
+        degrades materials, causing an acoustic variation. For this reason, it is 
+        necessary to study and register those places as acoustic heritage. 
 
-        Por ello vemos necesario retratar dichos espacios a través de estudios
-        acústicos y morfológicos que permitan preservar sus características.
-        
-        Registramos estas particularidades sonoras realizando medidas acústicas
-        específicas mediante Respuestas Impulso con micrófonos Ambisonics y
-        fuentes direccionales. 
+        We record their acoustics particularities in 3D audio using ambisonics 
+        microphones and directional sources. Those recordings allow as to obtain 
+        precise acoustic studies of those places, create an aural archive, and can 
+        be used in artistic productions.
 
         <div style="padding:56.25% 0 0 0;position:relative;">
             <iframe
@@ -82,29 +75,28 @@ elementos:
             </iframe>
         </div>
         <br>
-        Asimismo, buscando explorar las particularidades que cada espacio
-        ofrece a partir de estudios antropológicos de uso y entrevistas a
-        quienes visitan y utilizan constantemente dichos espacios.
 
       imagenes:
         - url: 'imgs/areas_1.JPG'
         - url: 'imgs/areas_2.JPG'
 
-    - titulo: 'Relevamientos Acústicos'
+    - titulo: 'Acoustic Surveys'
       texto: | 
 
-        En cada espacio fueron realizadas una serie de relevamientos
-        topograficos y acústicos a fin de datar, lo mas fielmente posible las
-        particularidades en cada formación y las posiciones de cada emisor y
-        receptor.
+        Our acoustic register work starts with a topographic survey, 
+        in which we plot a regular grid upon an irregular surface; this 
+        allows us to position every speaker and microphone precisely to 
+        obtain an accurate acoustic analysis by recording Ambisonics 
+        Impulse Responses (IR). 
 
-        Debido a las características topográficas de estos espacios (gran
-        irregularidad de sus paredes y suelo con diferencias de nivel) es
-        necesario realizar grillas rombales a una altura fija que permita
-        relevar las distintas posiciones de la fuente y el receptor con una
-        referencia clara, abarcando cuatro puntos extremos del recinto,
-        utilizando como herramienta de replanteo un nivel topográfico. 
-        
+        Due to the place’s irregularity topography is needed to draw a 
+        rhombus grid, at fix height, that allows us to precisely measure 
+        every source and reception’s position.
+
+        As a result, there is an Ambisonics B-Format IR’s database which 
+        can be used in audio scientific studies, audio post-production, 
+        and for educational purpose.
+
         <div style="padding:56.25% 0 0 0;position:relative;">
             <iframe
                 src="https://player.vimeo.com/video/387687552?color=00BC8C&title=0&byline=0&portrait=0"
@@ -127,18 +119,17 @@ elementos:
         - url: 'imgs/ra1.JPG'
         - url: 'imgs/ra2.JPG'
 
-    - titulo: 'Registro Audivisual Documental'
+    - titulo: 'Audiovisual Documentary'
       texto: | 
         
-        Realizamos una serie documental audiovisual en la que se recoge la
-        experiencia del trabajo de campo (estudios acústicos y registros
-        musicales).
+        An audiovisual documental series shows the experiences of the fieldwork, 
+        linking the places’ acoustics with the natives’ culture and music.
 
-        Esta serie muestra cómo, la exploración de cada espacio (estudio
-        morfológico y sonoridad particular en cada caso), es expuesta y
-        potenciada al experimentarla a través del sonido producido por los
-        intrumentos y voces propios de cada practica musical en diálogo con el
-        paisaje.
+        There is a strong relationship between the places’ landscape and the 
+        soundscape and the culture developed there. By analysing how the 
+        landscape sounds, interviewing native people and registering their 
+        cultural manifestations, we aim to show how the landscape and culture 
+        are interrelated.
 
         <div style="padding:56.25% 0 0 0;position:relative;">
             <iframe
@@ -152,177 +143,168 @@ elementos:
         - url: 'imgs/docu_1.JPG'
         - url: 'imgs/docu_2.JPG'
 
-    - titulo: 'Practicas Musicales en Realidad Virtual'
+    - titulo: 'Musical Practices in Virtual Reality'
       texto: | 
 
-        Para registrar las músicas de distintos espacios, utilizamos
-        tecnologías de filmación y registro sonoro especifico.
-      
-        El registro en audio y video inmersivo permite difundir el canto acorde
-        a su práctica y enmarcado en su lugar de origen. A partir de mecanismos
-        de reproducción para Realidad Virtual, el espectador tiene una
-        experiencia vivencial más completa al poder situarse en puntos en los
-        que la expresion artistica cobra mayor relevancia, tal es el caso, por
-        ejemplo de una ronda de copleras registras desde el centro mismo de la
-        ronda.
-        
-        En la Provincia de Salta (Argentina), la reconocida coplera **[Mariana
-        Carrizo]( http://www.marianacarrizo.com.ar/)** encuentra una profunda
-        relación entre el canto con caja y estos valles, en cuyos paisajes
-        aprendió a cantar en la niñez.  Su participación en Proyecto GRAPa fue
-        indispensable para el reconocimiento y aprendizaje del Canto de la
-        Copla en relación al paisaje.
+        We use specific techniques to register the cultural manifestations, 
+        in their own land, with 3D audio and video.
+
+	By using immersive technologies, it is possible to experience the 
+        pre-colonial cultural manifestation as they were conceived; VR 
+        devices allow the audience to be placed inside the musical ritual, 
+        thus having a complete experience. For example, in a Coplas’ round, 
+        registered in VR, one can be in its middle.
+     
+        In Salta province (Argentina), the well known Copla singer 
+        **[Mariana Carrizo]( http://www.marianacarrizo.com.ar/)** finds 
+        a deep relationship between the Canto con Caja and the valleys’ 
+        landscape; where, during her childhood, she learnt to sing. 
+        Her participation in GRAPa project is essential for the appreciation 
+        and comprehension of the Canto con Caja and its relationship with 
+        the landscape.
 
       imagenes:
         - url: 'imgs/copla_rv_1.JPG'
         - url: 'imgs/copla_rv_2.JPG'
 
-  - titulo: 'Los Lugares y La Música'
+  - titulo: 'Places and Music'
     texto: |
-      Los espacios donde realizar estos registros, más allá de tenerlos
-      en cuenta por sus características acústicas y el paisaje sonoro que
-      los integran (en la mayoría de los casos únicas), son determinados
-      por varios factores: 
+      We choose the site to work carefully, beyond their acoustic and 
+      soundscape particularities we keep in mind the following factors:
 
-      - *Significante de uso que tiene y tuvo para la sociedad*
+      - *Its present and past are significant for society*
 
-      - *Atractivo turístico y cultural*
+      - *Its cultural and tourism attraction*
 
-      - *Accesibilidad*
+      - *Accessibility*
             
-      A partir de una exhaustiva investigación, se decidió explorar siete
-      espacios, agrupados en tres regiones de la República Argentina, relacionando
-      cada región con el canto, la música y las expresiones culturales que la
+      By extensive research, was decided to explore seven sites grouped 
+      in three Argentina's regions, relating them with its cultural 
+      expressions and music.
+
       integran:
 
-      - *Región Noroeste*
+      - *Northeast region*
 
-      - *Región Cuyo | Patagónica*
+      - *Cuyo | Patagonia Region*
 
-      - *Región Noreste*
+      - *Northwest region*
       
     imagenes:
       - url: 'imgs/lugares_1.JPG'
       - url: 'imgs/lugares_2.JPG'
 
     elementos:
-      - titulo: 'Región Noroeste'
-        subtitulo : 'El Canto de la Copla'
+      - titulo: 'Northeast'
+        subtitulo : 'The song of Copla'
         texto: |
           
-          Región característica por Valles y Quebradas colindantes a la
-          cordillera de los Andes, cuenta con Áreas Protegidas que formaron parte del
-          antiguo camino del Inka en Argentina. En esta región serán estudiados tres
-          espacios: *“El Anfiteatro”* en la Quebrada de las Conchas (Salta), *Parques
-          provinciales de Ischigualasto y Talampaya* (San Juan) y *“La quebrada de
-          Humahuaca”* en La Puna (Jujuy).
+          Contiguous to the Andes Mountains, this region is characterized 
+          by its valleys and gulles. Its protected areas belonged to the 
+          south of the Inka empire. In this region we study three sites: 
+          *“El Anfiteatro”*, in La Quebrada de las Conchas (Salta), *"Parques 
+          provinciales de Ischigualasto y Talampaya"* (San Juan), and 
+          *"La Quebrada de Humahuaca"* in La Puna (Jujuy).ç
 
-          *El canto de la Copla* es una de las expresiones identitarias de la
-          región, practicada por distintas comunidades desde tiempos
-          ancestrales y transmitida por vía oral. 
+          The song of Copla is one of the most significative expressions 
+          of this region; it is practised by different communities since 
+          ancestral times and transmitted orally.
 
-          Su forma de ejecución está muy ligada al entorno natural, por lo cual
-          consideramos que es un claro exponente del Patrimonio Acústico y
-          Sonoro.  Como práctica cultural, se expresa de modo ritual en rondas
-          improvisadas donde las cajas y voces se alternan continuamente.
-              
+          It is played in a deep linking with the natural environment, 
+          for that reason we consider it as an explicit exponent of 
+          the Acoustic and Sonic Heritage.
+             
         imagenes:
          - url: 'imgs/coplas_1.JPG'
          - url: 'imgs/coplas_2.JPG'
 
         elementos:
-          - subtitulo: 'El Anfiteatro'
+          - subtitulo: 'The Amphitheatre'
             texto: |
               
-              A menos de 40 kilómetros de la ciudad de Cafayate sobre la ruta
-              Nacional Nº68, a metros del Río de las Conchas, se encuentra *El
-              Anfiteatro*. 
+              Less than 40 kilometres from Cafayate city on National Route 68, 
+              few meters from the Conchas river, it is *El Anfiteatro* (The Amphitheatre)
 
-              Se trata de una formación rocosa semi-cerrada de forma
-              pseudo-ojival esculpida por la erosión. Su forma particular y el
-              material de sus paredes hacen que posea una cualidad acústica
-              excepcional, reconocida en la región y que ha dado inicio, por
-              ejemplo, al ciclo del “Concierto en la Montaña”, realizado
-              anualmente en este espacio desde 1991.
-
+              With a pseudo-oval shape, El Anfiteatro is semi-closed rock formation 
+              sculpted by the erosion. Its particular contour and the material of 
+              its walls give to El Anfiteatro an exceptional acoustic quality, 
+              well known in the region and the reason why it lodges a music festival 
+              called Concierto en la Montaña (Concert in the Mountain), held annually 
+              since 1991. 
 
             imagenes:
              - url: 'imgs/anfi_1.JPG'
              - url: 'imgs/anfi_2.JPG'
 
-      - titulo: 'Región Cuyo | Patagónica'
-        subtitulo: 'La Música Araucana'
+      - titulo: 'Cuyo | Patagonia Region'
+        subtitulo: 'Araucana’s music'
         texto: |
           
-          Regiones áridas y de estepas, tanto Cuyo como la Patagonia, se
-          reconocen por sus climas fríos y secos. De estas zonas se decidió
-          trabajar con formaciones cavernarias cuyos atributos acústicos se
-          distinguen de otros espacios en Argentina. En particular serán
-          estudiadas dos formaciones cavernarias significativas de cada región:
-          *Caverna de las Brujas* en el Departamento de Malargüe
-          (Mendoza) y *Cueva de las Manos* en el Cañadón del Río
-          Pinturas (Santa Cruz).
-                    
-          Estas regiones fueron habitadas por las comunidades Huarpe y Mapuche,
-          quienes manifestaban una variedad de cantos y músicas recreativas y
-          ligadas a sus creencias. Predominan en ambos casos el canto chamánico
-          y el tambor como elemento identitario. Del mismo modo, las tribus
-          pre-tehuelches (Aoni-Kenk) mucho más relacionados al Cañadón del Río
-          Pinturas, además del canto, poseen un grupo de instrumentos como el
-          koolo, el Rambo y percusivos como el Aple, El Chelper y el sonajero.
+          Regions of arids steppes, both Cuyo and Patagonia are known for their dry 
+          and cold weathers. From this region we decided research cavern formations 
+          whose their acoustic’s attributes are distinghesed from the other 
+          Argentina’s spaces. In particular, we study two caverns: 
+          *Caverna de las Brujas* (Witches Cavern) in Malargüe (Mendoza), 
+          and *Cueva de las Manos* (Hands Cavern) in the Cañadón del 
+          Rio Pinturas (Santa Cruz).
+
+          Huarpe and Mapuche communities, who dwelt those regions, expressed 
+          a wide variety of songs and music linked to their believes. 
+          Both have the traditional snare drum, and the shamanic sing as an 
+          identity element. Likewise, the pre-Tehuelches tribes (Aoni-Kenk), 
+          closer to the Cañadón del Río Pinturas, in addition to its singing, 
+          developed a group of musical instruments as the Koolo, and the Rambo, 
+          and percussion instruments as the Aple, the Chelper, and the Sonajero.
 
         imagenes:
           - url: 'imgs/cuyo_1.JPG'
           - url: 'imgs/cuyo_2.JPG'
 
         elementos:
-          - subtitulo: 'Caverna de las Brujas'
+          - subtitulo: 'Witches Cavern'
             texto: |
               
-              Es una formación cavernaria cerrada, ubicada a 8 km al norte de
-              R.N. N° 40, en las cercanías de la localidad de Bardas Blancas en
-              el Valle del río Grande, al Sur de la provincia de Mendoza, en el
-              departamento de Malargüe.
+              It is a closed cavern, located at 8 kilometres to the norh of the 
+              National Route 40, close to Bardas Blancas in the Valle del Río Grande 
+              valley, in the south of Mendoza in the Malargüe department.
 
-              Nuestro estudio está centrado en la sala más amplia y accesible,
-              reconocida por sus características acústicas y el paso de
-              comunidades preexistentes llamada *Sala de la Virgen*.
+              Our research is concentrated in the largest and accesible room, 
+              known by its acoustics characteristics and the passage of the pre-colonial 
+              communities, it is called Sala de la Virgen.
 
-              Su acceso cerrado, de aproximadamente 15 metros de largo, da a
-              una sala de 35 metros de profundidad y 20 metros de ancho
-              aproximadamente con una altura irregular que llega a los 10
-              metros en algunos puntos.
-
+              Its shutte access has approximately fifteen meters long ends in the *Sala 
+              de la Virgen* of 35 meters deep, 20 meters wide, and irregular height of 
+              10 meters in the highest points.
 
             imagenes:
              - url: 'imgs/caverna_1.JPG'
              - url: 'imgs/caverna_2.JPG'
 
-      - titulo: 'Región Noreste'
-        subtitulo: 'La Música Qom'
+      - titulo: 'Northeast region'
+        subtitulo: 'Qom Music'
         texto: |
           
-          De esta región se propone estudiar dos Parques Nacionales conocidos
-          como: *El Impenetrable* (Chaco) e *Iguazú* (Misiones), ambos se caracterizan
-          por su fauna y flora, donde pueden encontrarse cientos de especies hoy
-          consideradas en vías de extinción.  De este modo, sus Áreas Protegidas gozan de
-          un paisaje sonoro único en Argentina.
-          
-          Culturalmente, estos espacios fueron habitados por comunidades entre
-          las que se destacan los Guaycurúes, conocidos como Qom. Sus prácticas
-          musicales se expresan en convivencia con el paisaje sonoro que le da
-          origen. Se destacan por cantos colectivos y solistas acompañados por
-          instrumentos como el *n’viqué* (especie de violín de una sola cuerda)
-          e instrumentos percusivos como vainas de algarrobos, pezuñas, maracas
-          y sonajeros de calabazas como el *cartexetẽ*.
+          Of the Northwest region, we will study two national parks: 
+          *El Impenetrable* (Chaco), and Iguazú (Misiones). 
+          Their flora and fauna characterized both. Hundreds of species, 
+          a lot of them in extinction danger, live in these regions what 
+          it gives a unique soundscape.
+
+          In cultural terms, these sites were dwelt by different communities; 
+          one of the most important was Guaycurúes, known as Qom. 
+          Their music origins in the soundscape's imitation, which is produced 
+          by flora and fauna today in extinction danger. They stand out for their 
+          collective and solo singing accompanied by instruments such as the 
+          n'viqué (a kind of single-string violin) and percussive instruments 
+          such as carob pods, hoofs, maracas and pumpkin rattles like the cartexetẽ.
 
         imagenes:
           - url: 'imgs/nea_1.JPG'
           - url: 'imgs/nea_2.JPG'
 
-  - titulo: 'Impacto Social'
+  - titulo: 'Social Impact'
     elementos:
-    - titulo: 'Publicaciones'
+    - titulo: 'publications'
       texto: |
         **[Caracterización Acústica Direccional Del Anfiteatro
         Natural De La Quebrada De Las Conchas](
@@ -352,7 +334,7 @@ elementos:
         ICOMOS...
         *IV Jornadas Internacionales de Turismo y Patrimonio....*
 
-    - titulo: 'Conferencias y Charlas'
+    - titulo: 'Conferences and talks'
       texto: | 
 
         **[El origen geologico del paisaje](
@@ -390,42 +372,42 @@ elementos:
         https://twitter.com/TelecoCampusSur/status/1204326235679207424)**
         Universidad Politécnica de Madrid *Grupo de Aplicaciones Multimedia y
         Acústica*  
-  - titulo: 'Sobre Proyecto G.R.A.Pa'
+  - titulo: 'About us'
     texto: |
       
-      **Proyecto G.R.A.Pa.** se formó en el año 2017 en base a una cooperación
-      entre la Universidad Nacional de Quilmes (UNQ) y la Universidad Católica
-      de Salta (UCaSal) con el objetivo de realizar un relevamiento de la
-      acústica del Anfiteatro Natural de la Quebrada de las Conchas. En el 2018
-      ampliamos los objetivos del proyecto al relacionarlo con el canto de la
-      Copla a partir del entorno sonoro propio de sus orígenes. Contamos ,
-      desde entonces, con la participación de la coplera salteña Mariana
-      Carrizo, artista comprometida en la lucha por la preservación y
-      revalorización de este canto ancestral. 
+      **Proyecto G.R.A.Pa.** started in 2017 as a joint project between 
+      Universidad Nacional de Quilmes (UNQ) and Universidad Católica de 
+      Salta (UCASAL) intending to carry out a study about the acoustics 
+      of the natural amphithatre in Quebrada de las Conchos. 
+      In 2018 we broadened the scope of the project by relating it to 
+      the singing of Copla taking into account the natural acoustic 
+      environment of its origins. We also counted on the active 
+      participation of Capla singer Mariana Carriza, an artist committed 
+      to working for the preservation and appreciation of this ancestral 
+      kind of music.
 
-      A partir de allí, iniciamos un proyecto de investigación y producción de
-      contenidos inmersivos, en los cuales la relación entre las músicas nativas
-      y sus entornos acústicos naturales se exprese con claridad. Nuestra
-      finalidad es documentar el Patrimonio Acústico, que entendemos abarca
-      tanto la música en sí misma como el entorno acústico y sonoro en el que
-      es creada.
+      Based on this, we started a research and production project about 
+      immersive contents in which the relation between native music and 
+      their natural acoustic surroundings can be clearly expressed. 
+      Our aim is to document the acoustic heritage that involves not only 
+      music itself but also the acoustic environment in which it is produced.
 
     imagenes:
       - url: 'imgs/equipo.JPG'
 
     elementos:
-      - titulo: 'Integrantes'
+      - titulo: 'Members'
         elementos:
           - titulo: 'Francisco Durante'
             texto: |
 
               **[Francisco Durante](
-              https://www.facebook.com/franciscofidel.durante)** es Licenciado
-              en Música y Tecnología (UNQ) y Maestro Mayor de Obras dedicado a
-              la investigación, diseño y construcción con materiales naturales
-              y permacultura. Trabaja como compositor en diferentes proyectos
-              artísticos multidisciplinarios en donde se vinculan las músicas
-              tradicionales con nuevas tecnologías y el espacio. 
+              https://www.facebook.com/franciscofidel.durante)** is a 
+              licentiate in Music Technology (UNQ) and master builder 
+              devoted to research, design and construction with natural 
+              materials, and permaculture. He is also a composer in different 
+              artistic multidisciplinary projects where the traditional 
+              type of music are related to new technologies and space.
               
             imagenes:
               - url: 'imgs/francisco_durante.JPG' 
@@ -433,12 +415,10 @@ elementos:
           - titulo: 'Damian Payo'
             texto: |
 
-               **[Damian Payo]( https://www.damianpayo.com)** es Licenciado en
-               Música y Tecnología (UNQ), actualmente se desempeña como docente
-               e investigador en la Universidad Católica de Salta en la ciudad
-               de Salta Capital desde donde ha profundizado en el estudio de
-               Acústica de Salas no convencionales y organizado Jornadas y
-               Seminarios abocados al área de la Acústica y el Audio Digital. 
+               **[Damian Payo]( https://www.damianpayo.com)** is a Licentiate 
+               in Music Technology (UNQ) and works as teacher and researcher 
+               at UCASAL where he researches about non-conventional room acoustics: 
+               he organises seminars about acoustics and digital audio.
 
             imagenes:
               - url: 'imgs/damian_payo.JPG'
@@ -446,12 +426,11 @@ elementos:
           - titulo: 'Manuel Eguía'
             texto: |      
 
-                **[Manuel Eguía]( http://lapso.org/)** es Doctor en Física
-                (UBA) e investigador de CONICET y UNQ, donde dirige el
-                Laboratorio de Acústica y Percepción Sonora (LAPSo), grupo
-                donde ha realizado numerosos trabajos de investigación sobre
-                percepción espacial auditiva y dispositivos que modifican el
-                campo sonoro con medios puramente acústicos.
+                **[Manuel Eguía]( http://lapso.org/)** holds a PhD in Physics. 
+                He is a researcher at CONICET and UNQ, where he leads the LAPSo 
+                (Acoustic and Sound Perception Laboratory). Here, he conducts 
+                several research projects about audio-spatial perception and 
+                devices that modify the sound field with aural media.
 
             imagenes:
              - url: 'imgs/manuel_eguia.JPG' 
@@ -459,13 +438,11 @@ elementos:
           - titulo: 'Mauro Zannoli'
             texto: |  
 
-                **[Mauro Zannoli]( https://maurozannoli.com/Home)** es
-                Licenciado en Composición con Medios Electroacústicos (UNQ),
-                compositor, programador y diseñador sonoro. En su trabajo tiene
-                un fuerte interés en la utilización del espacio como un
-                parámetro más del sonido tanto en música como en el arte
-                sonoro. Ha montado sistemas Ambisonics en varios teatros para
-                obras específicas.
+                **[Mauro Zannoli]( https://maurozannoli.com/Home)** is a 
+                composer and sound artist. He holds a master’s degree in 
+                music composition by the NWU in South Africa. Focused on 
+                the relation between sound, spaces, images, and lights, 
+                he creates sound installations and musical compositions.
 
             imagenes:
               - url: 'imgs/mauro_zannoli.JPG' 
@@ -473,48 +450,46 @@ elementos:
           - titulo: 'Lisandro Fernandez'
             texto: |
 
-              **[Lisandro Fernandez]( https://labsl.multimediales.com.ar/)** es
-              Licenciado en Música y Tecnología (UNQ), musico abocado al
-              estudio de sistemas. Participa activamente del Laboratorio de
-              Software Libre. Dedicado a investigar, producir y divulgar
-              herramientas informáticas, tarea que lo llevó a exponer en
-              distintas jornadas y congresos relacionados a la programación y
-              el arte interactivo en distintos espacios de Iberoamérica.
+              **[Lisandro Fernandez]( https://labsl.multimediales.com.ar/)** is 
+              a licentiate in Music Technology (UNQ), a musician focused on the 
+              system studies. He is an active member of the Free Software Laboratory, 
+              which is devoted to produce and disseminate informatic tools. As a 
+              Free Software Laboratory member, he gives seminars related to audio 
+              programming and interactive arts in differents Iberoamérica's event.
 
             imagenes:
               - url: 'imgs/lisandro_fernandez.JPG' 
           
           - titulo: 'Juan Barthe'
             texto: |
-              **[Juan Barthe]( https://www.facebook.com/juan.barthe)** Es
-              reportero gráfico y realizador audiovisual.  Realizó más de 50
-              cortos de los cuales algunos ocuparon los primeros lugares en
-              competencias y concursos nacionales y provinciales. Trabajó para
-              marcas de aventura como SOX, Columbia, Red Bull, Sckechers, entre
-              otras. 
+              **[Juan Barthe]( https://www.facebook.com/juan.barthe)** Is a graphic 
+              reporter and audiovisual producer. He has made more than 50 short films, 
+              some of them have been awarded first places in national and provincial 
+              competitions and contests. He worked for adventure brands such as SOX, 
+              Columbia, Red Bull, and Sckechers, among others.
 
-              Su interés por las relaciones humanas en sociedad, lo llevó a
-              participar de distintos proyectos audiovisuales documentales
-              por los cuales recorre nuevos caminos acompañado de la
-              implementación  de nuevas técnicas para contar historias.
+              His interest in human relations in society led him to participate in 
+              different audiovisual documentary projects through which he traces new 
+              paths accompanied by the implementation of new techniques for storytelling.
+
 
             imagenes:
               - url: 'imgs/juan_barthe.JPG'
 
-      - titulo: 'Apoyos y Colaboraciones'
+      - titulo: 'Supports and Collaborations'
         elementos:
-        - titulo: 'Apoyos Institucionales'
+        - titulo: 'Institutional supports'
           texto: | 
-            Proyecto GRAPa, desde sus inicios cuenta con el apoyo de:
+            GRAPa Project, since its inception has the support of:
             
             * [![UCASAL](imgs/logo_ucasal.png)]( http://www.ucasal.edu.ar )
             * [![UNQ](imgs/logo_unq.png)]( http://www.unq.edu.ar )
             * [![LaPSo](imgs/logo_lapso.png)]( http://www.lapso.org )
 
-        - titulo: 'Colaboraciones'
+        - titulo: 'Collaborations'
           texto: | 
 
-            En cada lugar recibimos la colaboración de:
+            In each place we receive the collaboration of:
 
             
             * Salta:
@@ -529,14 +504,14 @@ elementos:
 
 
             
-            A todos y cada uno de ellos va un profundo agradecimiento desde todos los que integramos Proyecto GRAPa.
+            To each and every one of them goes a deep gratitude from all of us who are part of the GRAPa Project.
 
-        - titulo: 'Productora asociada'
+        - titulo: 'Associate producer'
           texto: | 
             * [![ VUELA Produção e Criação ](imgs/vuela_logo_amarela.png)]( http://vuelaproducao.com/)
 
 
-        - titulo: 'Contacto'
+        - titulo: 'Contact'
           #(no se si esta habilitado, si no seria proyectograpa@gmail.com)
           texto: | 
 

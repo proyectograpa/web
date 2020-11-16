@@ -5,15 +5,13 @@ tags: 'acústica, investigación, relevamiento, patrimonio, sonido, '
 correo: 'proyectograpa@gmail.com'
 titulo: 'Projeto GRAPa'
 subtitulo: 'Projeto GRAPa'
+idioma: '-pt'
 texto: |-
-
-
-  * Projeto GRAPa * é composto por uma série de trabalhos individuais de 
+  *Projeto GRAPa* é composto por uma série de trabalhos individuais de 
   estudos inter-relacionada, registro e promoção do patrimônio Acústico 
   de diferentes regiões do nosso país.
 
-
-  - *Estudos acústicos em áudio 3D *
+  - *Estudos acústicos em áudio 3D*
 
   - *Registros musicais e / ou rituais patrimoniais em Realidade Virtual*
 
@@ -21,15 +19,15 @@ texto: |-
 
   - *Série audiovisual de micro documentários reunindo o trabalho realizado*
 
-abstract: |  
-  Grupo de Relevamiento Acústico del Patrimonio
+abstract: |
+  Grupo de Relevamie1nto Acústico del Patrimonio
 
 imagenes:
   - url: 'imgs/port.JPG'
 
 elementos:
   - titulo: 'Os sons no espaço'
-    texto: | 
+    texto: |
 
       A criação e a execução musical no Ocidente são regidas por parâmetros 
       estabelecidos, nos quais, tanto intérpretes, quanto ouvintes, 
@@ -59,7 +57,6 @@ elementos:
     elementos:
     - titulo: 'O patrimônio acústico'
       texto: | 
-
         Nos referimos ao patrimônio acústico como aqueles lugares que, por suas 
         características morfológicas e ambientais envolvem a experiência auditiva 
         como uma parte inseparável do ambiente.
@@ -198,16 +195,15 @@ elementos:
       - titulo: 'Região Noroeste'
         subtitulo : 'A música de Copla'
         texto: |
-          
           Região caracterizada por Vales e Quebradas adjacentes à Cordilheira dos Andes, conta com 
           áreas protegidas que fizeram parte da antiga trilha Inca na Argentina. Nessa região serão 
-	  estudados três espaços: *"O Anfiteatro"* na Quebrada de las Conchas (Salta), 
+          estudados três espaços: *"O Anfiteatro"* na Quebrada de las Conchas (Salta), 
           *Parques Provinciais de Ischigualasto e Talampaya* (San Juan) e *"La Quebrada de Humahuaca”* 
-	  em La Puna (Jujuy).
-
+          em La Puna (Jujuy).
+          
           *A música de Copla* é uma das expressões de identidade da região, praticada por diferentes 
           comunidades desde tempos ancestrais e transmitida oralmente.
-
+          
           Sua forma de execução está intimamente ligada ao ambiente natural, razão pela qual consideramos 
           que é um claro expoente do patrimônio acústico e sonoro. Como prática cultural, é ritualizada 
           em rodadas improvisadas onde as caixas e vozes se alternam continuamente.
@@ -262,7 +258,7 @@ elementos:
 
               Nosso estudo está focado na sala mais ampla e acessível, 
               reconhecida por suas características acústicas e passagem 
-              de comunidades pré-existentes chamadas * Sala da Virgem*.                                                                                                                                                         Seu acesso fechado, com aproximadamente 15 metros de comprimento, dá a uma sala com 35 metros de profundidade e 20 metros de largura, aproximadamente, com uma altura irregular que atinge 10 metros em alguns pontos.
+              de comunidades pré-existentes chamadas * Sala da Virgem*.
 
               Seu acesso fechado, com aproximadamente 15 metros de comprimento, 
               dá a uma sala com 35 metros de profundidade e 20 metros de largura, 
@@ -481,7 +477,6 @@ elementos:
           texto: | 
 
             Em cada local, recebemos a colaboração de:
-
             
             * Salta:
             

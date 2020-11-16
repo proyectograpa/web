@@ -135,14 +135,17 @@ footer{
 	padding-bottom:5rem !important;
 }
 	
+#elemento-apoios-e-colaboracoes ul,
 #elemento-apoyos-y-colaboraciones ul{
 	padding-left:0;
 }
+#elemento-apoios-e-colaboracoes li,
 #elemento-apoyos-y-colaboraciones li {
 	list-style:none;
 	/*float: left; */
 }
 
+#elemento-apoios-e-colaboracoes ul li,
 #elemento-apoyos-y-colaboraciones ul li{
 	list-style:none;
 	/*float: left; */
@@ -150,6 +153,7 @@ footer{
 	margin-right: 1rem;
 }
 
+#elemento-apoios-e-colaboracoes li img,
 #elemento-apoyos-y-colaboraciones li img{
 	width: 120px;
 }
@@ -173,3 +177,6 @@ footer{
 @media (min-width: @screen-sm-min) and (max-width: @screen-sm-max) {  }
 @media (min-width: @screen-md-min) and (max-width: @screen-md-max) {  }
 @media (min-width: @screen-lg-min) {  }
+
+
+

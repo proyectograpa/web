@@ -150,7 +150,7 @@ elementos:
         We use specific techniques to register the cultural manifestations, 
         in their own land, with 3D audio and video.
 
-	By using immersive technologies, it is possible to experience the 
+        By using immersive technologies, it is possible to experience the 
         pre-colonial cultural manifestation as they were conceived; VR 
         devices allow the audience to be placed inside the musical ritual, 
         thus having a complete experience. For example, in a Coplas’ round, 
@@ -477,12 +477,8 @@ elementos:
             imagenes:
               - url: 'imgs/juan_barthe.JPG'
 
-<<<<<<< HEAD
       - titulo: 'Supports and Collaborations'
-=======
-      - titulo: 'Apoyos y Colaboraciones'
         clase: 'apoyo-colaboraciones'
->>>>>>> 2bb8a84dd02bd01a7266f1b6082f5ebb5c99f9de
         elementos:
         - titulo: 'Institutional supports'
           texto: | 

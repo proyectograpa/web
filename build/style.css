@@ -135,16 +135,19 @@ footer{
 	padding-bottom:5rem !important;
 }
 	
+#elemento-supports-and-collaborations ul,
 #elemento-apoios-e-colaboracoes ul,
 #elemento-apoyos-y-colaboraciones ul{
 	padding-left:0;
 }
+#elemento-supports-and-collaborations li,
 #elemento-apoios-e-colaboracoes li,
 #elemento-apoyos-y-colaboraciones li {
 	list-style:none;
 	/*float: left; */
 }
 
+#elemento-supports-and-collaborations ul li,
 #elemento-apoios-e-colaboracoes ul li,
 #elemento-apoyos-y-colaboraciones ul li{
 	list-style:none;
@@ -153,6 +156,7 @@ footer{
 	margin-right: 1rem;
 }
 
+#elemento-supports-and-collaborations li img,
 #elemento-apoios-e-colaboracoes li img,
 #elemento-apoyos-y-colaboraciones li img{
 	width: 120px;
